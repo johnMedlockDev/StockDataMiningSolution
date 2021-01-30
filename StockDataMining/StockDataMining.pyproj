@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>StockDataMining</Name>
     <RootNamespace>StockDataMining</RootNamespace>
-    <InterpreterId>Global|Microsoft|Machine Learning Server 4.5.12.120</InterpreterId>
+    <InterpreterId>CondaEnv|CondaEnv|env</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,9 +22,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="classes\FileIO.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="StockDataMining.py" />
   </ItemGroup>
   <ItemGroup>
+    <InterpreterReference Include="CondaEnv|CondaEnv|env" />
     <InterpreterReference Include="Global|Microsoft|Machine Learning Server 4.5.12.120" />
   </ItemGroup>
   <ItemGroup>
@@ -33,8 +37,11 @@
     <Folder Include="files\csvs\source\" />
     <Folder Include="files\text\" />
     <Folder Include="files\text\source\" />
+    <Folder Include="classes\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="files\csvs\source\tickers-scrubbed.csv" />
+    <Content Include="files\csvs\source\tickers.csv" />
     <Content Include="files\text\source\tickers.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
