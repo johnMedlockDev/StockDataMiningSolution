@@ -5,7 +5,7 @@ from datetime import date
 class Logger(object):
     def __init__(self) -> None:
         super().__init__()
-        logging.basicConfig(filename=f"files/logs/{date.today()}.log",
+        logging.basicConfig(filename=f"io/logs/{date.today()}.log",
                             format='%(asctime)s %(message)s',
                             filemode='a', level=logging.INFO)
         self.logger = logging.getLogger()
