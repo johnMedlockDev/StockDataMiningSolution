@@ -1,6 +1,9 @@
+from typing import List
 from classes.enums.EPayload import EPayload
 from classes.Logger import Logger
+from classes.JsonIO import JsonIO
 import requests
+from time import sleep
 
 
 class AlphaAPIHandler(object):
@@ -21,7 +24,7 @@ class AlphaAPIHandler(object):
 
         :parma: symbol = "ibm"
 
-        :parma: size = "full" || "compact"
+        :parma: payload = EPayload.FULL || EPayload.COMPACT
 
         '''
 
@@ -46,3 +49,44 @@ class AlphaAPIHandler(object):
             self.logger.LogInfo(
                 f" {SYMBOL} : {response.json()['Error Message']}")
             return response.json()['Error Message']
+
+    def GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List, payload: EPayload):
+        ''' 
+        Makes a GET Request to AlphaVantage for every symbol in a list.
+
+        :parma: symbolList = ['AAA','BBB']
+
+        :parma: payload = EPayload.FULL || EPayload.COMPACT
+
+        '''
+        timeout = 12
+
+        SIZE = payload
+        jsonIo = JsonIO()
+
+        for symbol in symbolList:
+            SYMBOL = symbol.upper()
+            # full | compact
+            ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
+
+            URI = self.BASEURL + ROUTE
+
+            response = requests.get(URI)
+
+            try:
+                if response.status_code == 200:
+                    self.logger.LogInfo(
+                        f"{SYMBOL} : JSON GET Request was a Success!")
+                    jsonIo.WriteJsonToFile(SYMBOL, response.json()[
+                                           'Time Series (Daily)'])
+                    sleep(12)
+                else:
+                    self.logger.LogError(f"Server error!")
+            except KeyError:
+                try:
+                    self.logger.LogError(
+                        f" {SYMBOL} : {response.json()['Error Message']}")
+                except KeyError:
+                    self.logger.LogError(
+                        f" The timeout of {timeout} is too short : {response.json()['Note']}")
+                    break

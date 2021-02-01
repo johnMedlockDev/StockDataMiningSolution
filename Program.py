@@ -7,13 +7,15 @@ from classes.SymbolListGenerator import SymbolListGenerator
 if __name__ == "__main__":
     FILENAME = r'symbols.csv'
 
-    fileAgent = SymbolListGenerator(FILENAME)
+    symbolListGenerator = SymbolListGenerator(FILENAME)
 
-    fileAgent.CreateListFromDataFrame('SYMBOL')
-    result = fileAgent.GetListFromDataFrame()
+    symbolListGenerator.CreateListFromDataFrame('SYMBOL')
+
+    symbolList = symbolListGenerator.GetListFromDataFrame()
 
     apiagent = AlphaAPIHandler()
-    responsejson = apiagent.GetHistoricalPriceDataFromJsonAPI(
-        "ibm", EPayload.COMPACT)
+
+    apiagent.GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(
+        symbolList, EPayload.FULL)
 
     sys.exit(0)

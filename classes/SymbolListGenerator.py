@@ -5,13 +5,13 @@ from classes.Logger import Logger
 
 class SymbolListGenerator(object):
     """
-    Creates a Pandas Dataframe out of a CSV located in the io\csvs\source\ directory.
+    Creates a Pandas Dataframe out of a CSV located in the io\csv\source\ directory.
     :param: filename = "symbols.csv"
 
     """
 
     def __init__(self, filename: str):
-        self.__FILENAME = f'{pathlib.Path().absolute()}\\io\\csvs\\source\\{filename}'
+        self.__FILENAME = f'{pathlib.Path().absolute()}\\io\\csv\\source\\{filename}'
         self.__DFList = []
         self.__DF = pandas.read_csv(self.__FILENAME)
         self.logger = Logger()

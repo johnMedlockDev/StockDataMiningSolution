@@ -340,6 +340,5 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-io/text/*.txt
-io/csvs/source/*.csv
-io/csvs/symbols/*.csv
+
+io/*
