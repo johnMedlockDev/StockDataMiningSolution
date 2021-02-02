@@ -9,13 +9,13 @@ if __name__ == "__main__":
 
     symbolListGenerator = SymbolListGenerator(FILENAME)
 
-    symbolListGenerator.CreateListFromDataFrame('SYMBOL')
+    symbolListGenerator.CreateListOfSymbolsFromDataFrame('SYMBOL')
 
-    symbolList = symbolListGenerator.GetListFromDataFrame()
+    filteredSymbolList = symbolListGenerator.CreateFilteredListOfSymbols()
 
     apiagent = AlphaAPIHandler()
 
     apiagent.GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(
-        symbolList, EPayload.FULL)
+        filteredSymbolList, EPayload.FULL)
 
     sys.exit(0)

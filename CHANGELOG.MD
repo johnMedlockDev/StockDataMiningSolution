@@ -1,6 +1,14 @@
 # Changelog
 
+## 0.0.3
+
+### Additions
+
+- Get filtered list of symbols
+
 ## 0.0.2
+
+### Additions
 
 - Gets Symbol Json in batches from a list.
 - Persist Json to files.

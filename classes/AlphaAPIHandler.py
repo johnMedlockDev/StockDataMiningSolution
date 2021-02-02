@@ -59,7 +59,7 @@ class AlphaAPIHandler(object):
         :parma: payload = EPayload.FULL || EPayload.COMPACT
 
         '''
-        timeout = 12
+        timeout = 15
 
         SIZE = payload
         jsonIo = JsonIO()
@@ -70,7 +70,6 @@ class AlphaAPIHandler(object):
             ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
 
             URI = self.BASEURL + ROUTE
-
             response = requests.get(URI)
 
             try:
@@ -88,5 +87,5 @@ class AlphaAPIHandler(object):
                         f" {SYMBOL} : {response.json()['Error Message']}")
                 except KeyError:
                     self.logger.LogError(
-                        f" The timeout of {timeout} is too short : {response.json()['Note']}")
+                        f" The timeout of {timeout} is too short : {response.json()['Information']}")
                     break
