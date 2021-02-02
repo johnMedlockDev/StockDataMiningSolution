@@ -5,6 +5,7 @@
 ### Additions
 
 - Get filtered list of symbols
+- Added .env file for secrets
 
 ## 0.0.2
 

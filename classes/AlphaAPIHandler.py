@@ -1,9 +1,11 @@
+import os
 from typing import List
 from classes.enums.EPayload import EPayload
 from classes.Logger import Logger
 from classes.JsonIO import JsonIO
 import requests
 from time import sleep
+from dotenv import load_dotenv
 
 
 class AlphaAPIHandler(object):
@@ -14,24 +16,24 @@ class AlphaAPIHandler(object):
 
     def __init__(self) -> None:
         super().__init__()
+        load_dotenv('io\env\secret.env')
         self.BASEURL = r'https://www.alphavantage.co/query?'
-        self.APIKEY = r'0ZZU6DYNDO3BUCVR'
+        self.APIKEY = f'{os.environ.get("api-token")}'
         self.logger = Logger()
 
     def GetHistoricalPriceDataFromJsonAPI(self, symbol: str, payload: EPayload):
         '''
         Makes a GET Request to AlphaVantage.
 
-        :parma: symbol = "ibm"
+        :parma: symbol = "IBM"
 
         :parma: payload = EPayload.FULL || EPayload.COMPACT
 
         '''
 
         SYMBOL = symbol.upper()
-        SIZE = payload  # full | compact
+        SIZE = payload
         ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
-
         URI = self.BASEURL + ROUTE
 
         response = requests.get(URI)
@@ -66,10 +68,9 @@ class AlphaAPIHandler(object):
 
         for symbol in symbolList:
             SYMBOL = symbol.upper()
-            # full | compact
             ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
-
             URI = self.BASEURL + ROUTE
+
             response = requests.get(URI)
 
             try:

@@ -48,6 +48,7 @@ class SymbolListGenerator(object):
     def CreateFilteredListOfSymbols(self):
         '''
         Creates a list of symbols - the symbols you already have in the Json folder.
+
         '''
 
         listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols()
@@ -57,6 +58,6 @@ class SymbolListGenerator(object):
             if symbolE in listOfSymbolsRaw:
                 listOfSymbolsRaw.remove(symbolE)
 
-        listOfSymbolsFiltered = listOfSymbolsRaw
+        listOfSymbolsFiltered = [symbol for symbol in listOfSymbolsRaw]
 
         return listOfSymbolsFiltered
