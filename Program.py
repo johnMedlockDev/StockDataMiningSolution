@@ -1,4 +1,4 @@
-from classes.HistoricSymbolDataGenerator import HistoricSymbolDataGenerator
+from main.classes.HistoricSymbolDataGenerator import HistoricSymbolDataGenerator
 from os import sys
 
 

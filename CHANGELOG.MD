@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.0.5
+
+**Additions:**
+
+- Added test structure - test don't work yet.
+
+**Changes:**
+
+- Refactored function GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch to use GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFile
+- Added \_\_ properties
+- Formatted doc strings
+
 ## 0.0.4
 
 **Additions:**
