@@ -1,11 +1,17 @@
 # Changelog
 
+## 0.0.4
+
+**Additions:**
+
+- HistoricSymbolDataGenerator for api batch process management.
+
 ## 0.0.3
 
 **Additions:**
 
 - Get filtered list of symbols
-- Added .env file for secrets
+- .env file for secrets
 
 ## 0.0.2
 

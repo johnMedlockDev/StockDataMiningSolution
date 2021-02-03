@@ -32,7 +32,7 @@ class AlphaAPIHandler(object):
         '''
 
         SYMBOL = symbol.upper()
-        SIZE = payload
+        SIZE = payload.value
         ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
         URI = self.BASEURL + ROUTE
 
@@ -63,7 +63,7 @@ class AlphaAPIHandler(object):
         '''
         timeout = 15
 
-        SIZE = payload
+        SIZE = payload.value
         jsonIo = JsonIO()
 
         for symbol in symbolList:

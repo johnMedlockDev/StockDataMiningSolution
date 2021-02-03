@@ -1,21 +1,8 @@
-from classes.enums.EPayload import EPayload
+from classes.HistoricSymbolDataGenerator import HistoricSymbolDataGenerator
 from os import sys
-from classes.AlphaAPIHandler import AlphaAPIHandler
-from classes.SymbolListGenerator import SymbolListGenerator
 
 
 if __name__ == "__main__":
-    FILENAME = r'symbols.csv'
-
-    symbolListGenerator = SymbolListGenerator(FILENAME)
-
-    symbolListGenerator.CreateListOfSymbolsFromDataFrame('SYMBOL')
-
-    filteredSymbolList = symbolListGenerator.CreateFilteredListOfSymbols()
-
-    apiagent = AlphaAPIHandler()
-
-    apiagent.GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(
-        filteredSymbolList, EPayload.FULL)
-
+    historicSymbolDataGenerator = HistoricSymbolDataGenerator('symbols.csv')
+    historicSymbolDataGenerator.GenerateJsonSymbolRepository()
     sys.exit(0)
