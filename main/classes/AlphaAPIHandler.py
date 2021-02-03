@@ -21,7 +21,7 @@ class AlphaAPIHandler():
         self.__logger = Logger()
 
     def GetHistoricalPriceDataFromJsonAPI(self, symbol: str, payload: EPayload):
-        """        Makes a GET Request to AlphaVantage.
+        """Makes a GET Request to AlphaVantage.
 
         Args:
             symbol (str): "IBM"
