@@ -72,6 +72,7 @@ class AlphaAPIHandler():
             try:
                 jsonIo.WriteJsonToFile(
                     symbol, self.GetHistoricalPriceDataFromJsonAPI(symbol, payload))
+                sleep(timeout)
                 counter += 1
             except KeyError:
                 if counter >= 500:
