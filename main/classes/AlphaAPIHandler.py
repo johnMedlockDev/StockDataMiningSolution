@@ -78,6 +78,7 @@ class AlphaAPIHandler():
                 if counter >= 500:
                     self.__logger.LogError(
                         f"You reached the daily request limit, but you were able to make {counter} requests!")
+                    break
                 else:
                     self.__logger.LogError(
                         f" The timeout of {timeout} is too short!")
