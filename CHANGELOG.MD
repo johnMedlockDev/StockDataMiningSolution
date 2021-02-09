@@ -5,6 +5,7 @@
 **Additions:**
 
 - Added test structure - test don't work yet.
+- Better error handling in AlphaAPIHandler
 
 **Changes:**
 

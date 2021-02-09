@@ -40,8 +40,7 @@ class AlphaAPIHandler():
 
         try:
             if response.status_code == 200:
-                self.__logger.LogInfo(
-                    f" {SYMBOL} : Success!")
+                self.__logger.LogInfo(f" {SYMBOL} : Success!")
                 return response.json()['Time Series (Daily)']
             else:
                 self.__logger.LogError(f"Server error!")
@@ -50,7 +49,7 @@ class AlphaAPIHandler():
                 self.__logger.LogInfo(
                     f" {SYMBOL} : {response.json()['Error Message']}")
                 return response.json()['Error Message']
-            except KeyError:
+            except:
                 self.__logger.LogInfo(
                     f" {SYMBOL} : {response.json()['Information']}")
                 return response.json()['Information']
@@ -68,13 +67,17 @@ class AlphaAPIHandler():
 
         jsonIo = JsonIO()
 
+        jsonResponse = ""
         for symbol in symbolList:
             try:
-                jsonIo.WriteJsonToFile(
+                jsonResponse = jsonIo.WriteJsonToFile(
                     symbol, self.GetHistoricalPriceDataFromJsonAPI(symbol, payload))
                 sleep(timeout)
                 counter += 1
             except KeyError:
+                if r"https://www.alphavantage.co/premium/" in jsonResponse:
+                    self.__logger.LogInfo(f" {jsonResponse}")
+                    break
                 if counter >= 500:
                     self.__logger.LogError(
                         f"You reached the daily request limit, but you were able to make {counter} requests!")
@@ -82,4 +85,4 @@ class AlphaAPIHandler():
                 else:
                     self.__logger.LogError(
                         f" The timeout of {timeout} is too short!")
-                break
+                    break
