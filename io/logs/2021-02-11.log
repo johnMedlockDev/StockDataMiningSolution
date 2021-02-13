@@ -1,0 +1,45 @@
+2021-02-11 10:33:00,015 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-11 10:33:00,015 INFO: Creating a filtered list of symbols.
+2021-02-11 10:33:00,390 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 10:33:00,915 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 10:33:00,917 INFO:  IFF* : Success!
+2021-02-11 10:33:00,917 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-11 10:33:00,917 ERROR: Failure JSON file creation of IFF*!
+2021-02-11 10:33:15,929 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 10:33:16,690 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 10:33:16,826 INFO:  PRN : Success!
+2021-02-11 10:33:16,831 ERROR: Failure JSON file creation of PRN!
+2021-02-11 21:24:27,987 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-11 21:24:27,987 INFO: Creating a filtered list of symbols.
+2021-02-11 21:24:31,805 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:24:32,333 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:24:32,334 INFO:  IFF* : Success!
+2021-02-11 21:24:32,334 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-11 21:24:32,334 ERROR: Failure JSON file creation of IFF*!
+2021-02-11 21:24:47,345 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:24:48,029 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:24:48,271 INFO:  PRN : Success!
+2021-02-11 21:24:48,278 ERROR: Failure JSON file creation of PRN!
+2021-02-11 21:30:40,755 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-11 21:30:40,755 INFO: Creating a filtered list of symbols.
+2021-02-11 21:30:40,966 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:30:41,338 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:30:41,340 INFO:  IFF* : Success!
+2021-02-11 21:30:41,340 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-11 21:30:41,340 ERROR: Failure JSON file creation of IFF*!
+2021-02-11 21:30:56,345 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:30:57,076 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:30:57,308 INFO:  PRN : Success!
+2021-02-11 21:30:57,312 ERROR: Failure JSON file creation of PRN!
+2021-02-11 21:33:55,760 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-11 21:33:55,760 INFO: Creating a filtered list of symbols.
+2021-02-11 21:33:55,975 INFO: Creating a filtered list of symbols. Count 2
+2021-02-11 21:33:55,978 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:33:56,402 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:33:56,404 INFO:  IFF* : Success!
+2021-02-11 21:33:56,404 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-11 21:33:56,404 ERROR: Failure JSON file creation of IFF*!
+2021-02-11 21:34:11,418 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-11 21:34:13,049 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-11 21:34:13,329 INFO:  PRN : Success!
+2021-02-11 21:34:13,333 ERROR: Failure JSON file creation of PRN!

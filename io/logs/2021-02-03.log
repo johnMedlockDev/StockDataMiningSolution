@@ -1,0 +1,78 @@
+2021-02-03 06:08:31,715 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-03 06:08:31,715 INFO: Creating a filtered list of symbols.
+2021-02-03 06:08:31,741 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:32,707 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASRV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:32,851 INFO:  ASRV : Success!
+2021-02-03 06:08:32,924 INFO: Successful JSON file creation of ASRV!
+2021-02-03 06:08:32,927 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:33,736 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASTC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:34,153 INFO:  ASTC : Success!
+2021-02-03 06:08:34,226 INFO: Successful JSON file creation of ASTC!
+2021-02-03 06:08:34,228 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:35,003 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASTE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:35,143 INFO:  ASTE : Success!
+2021-02-03 06:08:35,223 INFO: Successful JSON file creation of ASTE!
+2021-02-03 06:08:35,223 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:37,127 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASUR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:37,268 INFO:  ASUR : Success!
+2021-02-03 06:08:37,338 INFO: Successful JSON file creation of ASUR!
+2021-02-03 06:08:37,341 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:38,184 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:38,324 INFO:  ASX : Success!
+2021-02-03 06:08:38,400 INFO: Successful JSON file creation of ASX!
+2021-02-03 06:08:38,402 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:08:38,664 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASYS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:08:38,664 INFO:  ASYS : Success!
+2021-02-03 06:08:38,664 ERROR:  The timeout of 15 is too short!
+2021-02-03 06:17:18,166 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-03 06:17:18,166 INFO: Creating a filtered list of symbols.
+2021-02-03 06:17:18,188 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:20,096 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ASYS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:20,242 INFO:  ASYS : Success!
+2021-02-03 06:17:20,310 INFO: Successful JSON file creation of ASYS!
+2021-02-03 06:17:20,312 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:20,778 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:20,779 INFO:  ATA : Success!
+2021-02-03 06:17:20,780 INFO: Successful JSON file creation of ATA!
+2021-02-03 06:17:20,781 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:21,240 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:21,258 INFO:  ATAC : Success!
+2021-02-03 06:17:21,259 INFO: Successful JSON file creation of ATAC!
+2021-02-03 06:17:21,261 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:23,449 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATAX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:23,608 INFO:  ATAX : Success!
+2021-02-03 06:17:23,673 INFO: Successful JSON file creation of ATAX!
+2021-02-03 06:17:23,675 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:24,070 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATCO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:24,114 INFO:  ATCO : Success!
+2021-02-03 06:17:24,118 INFO: Successful JSON file creation of ATCO!
+2021-02-03 06:17:24,120 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 06:17:24,398 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATCX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 06:17:24,400 INFO:  ATCX : Success!
+2021-02-03 06:17:24,400 ERROR:  The timeout of 15 is too short!
+2021-02-03 20:35:10,358 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-03 20:35:10,358 INFO: Creating a filtered list of symbols.
+2021-02-03 20:35:10,383 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:11,489 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATCX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:11,557 INFO:  ATCX : Success!
+2021-02-03 20:35:11,563 INFO: Successful JSON file creation of ATCX!
+2021-02-03 20:35:11,565 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:12,776 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATEC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:12,892 INFO:  ATEC : Success!
+2021-02-03 20:35:12,938 INFO: Successful JSON file creation of ATEC!
+2021-02-03 20:35:12,940 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:14,040 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATEN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:14,184 INFO:  ATEN : Success!
+2021-02-03 20:35:14,204 INFO: Successful JSON file creation of ATEN!
+2021-02-03 20:35:14,206 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:15,667 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATEX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:15,760 INFO:  ATEX : Success!
+2021-02-03 20:35:15,779 INFO: Successful JSON file creation of ATEX!
+2021-02-03 20:35:15,781 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:16,703 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATGE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:17,018 INFO:  ATGE : Success!
+2021-02-03 20:35:17,085 INFO: Successful JSON file creation of ATGE!
+2021-02-03 20:35:17,087 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-03 20:35:17,380 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ATH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-03 20:35:17,381 INFO:  ATH : Success!
+2021-02-03 20:35:17,381 ERROR:  The timeout of 15 is too short!

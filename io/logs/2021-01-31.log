@@ -1,0 +1,1894 @@
+2021-01-31 16:06:17,365 INFO:  IBM : Success!
+2021-01-31 21:03:15,612 INFO:  IBM : Success!
+2021-01-31 21:03:31,278 INFO:  IBM : Success!
+2021-01-31 21:20:47,794 INFO:  AAA : JSON GET Request was a Success!
+2021-01-31 21:24:02,696 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:24:25,156 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:24:25,158 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:24:25,676 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:24:25,678 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:24:27,063 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:24:27,065 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:24:27,577 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:24:27,578 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:24:27,779 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:26:27,420 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:26:27,422 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:26:27,843 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:26:27,844 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:26:28,480 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:26:28,482 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:26:28,778 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:26:28,778 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:26:30,053 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:26:30,055 INFO: Successful JSON file creation of AADR!
+2021-01-31 21:26:30,335 INFO: AAIC : JSON GET Request was a Success!
+2021-01-31 21:27:51,641 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:27:51,643 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:27:52,092 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:27:52,093 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:27:52,606 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:27:52,607 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:27:52,994 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:27:52,996 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:27:53,388 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:27:53,389 INFO: Successful JSON file creation of AADR!
+2021-01-31 21:27:53,693 INFO: AAIC : JSON GET Request was a Success!
+2021-01-31 21:27:53,693 ERROR:  AAIC : {'Note': 'Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.'}
+2021-01-31 21:28:23,124 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:28:23,125 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:28:23,554 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:28:23,556 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:28:24,014 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:28:24,017 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:28:24,391 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:28:24,393 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:28:24,910 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:28:24,911 INFO: Successful JSON file creation of AADR!
+2021-01-31 21:28:25,132 INFO: AAIC : JSON GET Request was a Success!
+2021-01-31 21:28:25,132 ERROR:  AAIC : {'Note': 'Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.'}
+2021-01-31 21:28:42,965 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:28:42,965 ERROR:  AAA : {'Note': 'Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.'}
+2021-01-31 21:30:25,103 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:30:25,105 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:30:25,424 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:30:25,426 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:30:26,177 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:30:26,179 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:30:26,588 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:30:26,590 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:30:27,367 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:30:27,368 INFO: Successful JSON file creation of AADR!
+2021-01-31 21:30:27,653 INFO: AAIC : JSON GET Request was a Success!
+2021-01-31 21:30:27,653 ERROR:  AAIC : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:27,936 INFO: AAL : JSON GET Request was a Success!
+2021-01-31 21:30:27,936 ERROR:  AAL : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:28,200 INFO: AAMC : JSON GET Request was a Success!
+2021-01-31 21:30:28,201 ERROR:  AAMC : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:28,481 INFO: AAME : JSON GET Request was a Success!
+2021-01-31 21:30:28,481 ERROR:  AAME : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:28,775 INFO: AAN : JSON GET Request was a Success!
+2021-01-31 21:30:28,775 ERROR:  AAN : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:29,049 INFO: AAOI : JSON GET Request was a Success!
+2021-01-31 21:30:29,049 ERROR:  AAOI : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:29,330 INFO: AAON : JSON GET Request was a Success!
+2021-01-31 21:30:29,330 ERROR:  AAON : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:29,601 INFO: AAP : JSON GET Request was a Success!
+2021-01-31 21:30:29,601 ERROR:  AAP : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:29,871 INFO: AAPL : JSON GET Request was a Success!
+2021-01-31 21:30:29,871 ERROR:  AAPL : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:30,045 INFO: AAT : JSON GET Request was a Success!
+2021-01-31 21:30:30,045 ERROR:  AAT : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:30,329 INFO: AAU : JSON GET Request was a Success!
+2021-01-31 21:30:30,329 ERROR:  AAU : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:30,529 INFO: AAWW : JSON GET Request was a Success!
+2021-01-31 21:30:30,529 ERROR:  AAWW : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:30,764 INFO: AAXJ : JSON GET Request was a Success!
+2021-01-31 21:30:30,764 ERROR:  AAXJ : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:30,984 INFO: ABB : JSON GET Request was a Success!
+2021-01-31 21:30:30,984 ERROR:  ABB : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:31,296 INFO: ABBV : JSON GET Request was a Success!
+2021-01-31 21:30:31,296 ERROR:  ABBV : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:31,562 INFO: ABC : JSON GET Request was a Success!
+2021-01-31 21:30:31,562 ERROR:  ABC : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:31,746 INFO: ABCB : JSON GET Request was a Success!
+2021-01-31 21:30:31,746 ERROR:  ABCB : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:32,018 INFO: ABCL : JSON GET Request was a Success!
+2021-01-31 21:30:32,018 ERROR:  ABCL : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:32,312 INFO: ABCM : JSON GET Request was a Success!
+2021-01-31 21:30:32,312 ERROR:  ABCM : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:32,519 INFO: ABEO : JSON GET Request was a Success!
+2021-01-31 21:30:32,519 ERROR:  ABEO : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:32,870 INFO: ABEQ : JSON GET Request was a Success!
+2021-01-31 21:30:32,870 ERROR:  ABEQ : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:33,186 INFO: ABEV : JSON GET Request was a Success!
+2021-01-31 21:30:33,186 ERROR:  ABEV : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:30:33,371 INFO: ABG : JSON GET Request was a Success!
+2021-01-31 21:30:33,371 ERROR:  ABG : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-01-31 21:37:15,246 INFO: AAA : JSON GET Request was a Success!
+2021-01-31 21:37:15,248 INFO: Successful JSON file creation of AAA!
+2021-01-31 21:37:27,795 INFO: AAAU : JSON GET Request was a Success!
+2021-01-31 21:37:27,796 INFO: Successful JSON file creation of AAAU!
+2021-01-31 21:37:40,471 INFO: AACG : JSON GET Request was a Success!
+2021-01-31 21:37:40,473 INFO: Successful JSON file creation of AACG!
+2021-01-31 21:37:53,097 INFO: AACQ : JSON GET Request was a Success!
+2021-01-31 21:37:53,099 INFO: Successful JSON file creation of AACQ!
+2021-01-31 21:38:06,486 INFO: AADR : JSON GET Request was a Success!
+2021-01-31 21:38:06,488 INFO: Successful JSON file creation of AADR!
+2021-01-31 21:38:20,556 INFO: AAIC : JSON GET Request was a Success!
+2021-01-31 21:38:20,557 INFO: Successful JSON file creation of AAIC!
+2021-01-31 21:38:33,144 INFO: AAL : JSON GET Request was a Success!
+2021-01-31 21:38:33,145 INFO: Successful JSON file creation of AAL!
+2021-01-31 21:38:46,137 INFO: AAMC : JSON GET Request was a Success!
+2021-01-31 21:38:46,139 INFO: Successful JSON file creation of AAMC!
+2021-01-31 21:39:00,104 INFO: AAME : JSON GET Request was a Success!
+2021-01-31 21:39:00,106 INFO: Successful JSON file creation of AAME!
+2021-01-31 21:39:12,584 INFO: AAN : JSON GET Request was a Success!
+2021-01-31 21:39:12,585 INFO: Successful JSON file creation of AAN!
+2021-01-31 21:39:25,437 INFO: AAOI : JSON GET Request was a Success!
+2021-01-31 21:39:25,438 INFO: Successful JSON file creation of AAOI!
+2021-01-31 21:39:39,412 INFO: AAON : JSON GET Request was a Success!
+2021-01-31 21:39:39,414 INFO: Successful JSON file creation of AAON!
+2021-01-31 21:39:53,403 INFO: AAP : JSON GET Request was a Success!
+2021-01-31 21:39:53,405 INFO: Successful JSON file creation of AAP!
+2021-01-31 21:40:06,460 INFO: AAPL : JSON GET Request was a Success!
+2021-01-31 21:40:06,462 INFO: Successful JSON file creation of AAPL!
+2021-01-31 21:40:19,811 INFO: AAT : JSON GET Request was a Success!
+2021-01-31 21:40:19,812 INFO: Successful JSON file creation of AAT!
+2021-01-31 21:40:33,121 INFO: AAU : JSON GET Request was a Success!
+2021-01-31 21:40:33,123 INFO: Successful JSON file creation of AAU!
+2021-01-31 21:40:46,448 INFO: AAWW : JSON GET Request was a Success!
+2021-01-31 21:40:46,450 INFO: Successful JSON file creation of AAWW!
+2021-01-31 21:40:59,803 INFO: AAXJ : JSON GET Request was a Success!
+2021-01-31 21:40:59,804 INFO: Successful JSON file creation of AAXJ!
+2021-01-31 21:41:13,664 INFO: ABB : JSON GET Request was a Success!
+2021-01-31 21:41:13,666 INFO: Successful JSON file creation of ABB!
+2021-01-31 21:41:26,922 INFO: ABBV : JSON GET Request was a Success!
+2021-01-31 21:41:26,924 INFO: Successful JSON file creation of ABBV!
+2021-01-31 21:41:41,045 INFO: ABC : JSON GET Request was a Success!
+2021-01-31 21:41:41,047 INFO: Successful JSON file creation of ABC!
+2021-01-31 21:41:55,022 INFO: ABCB : JSON GET Request was a Success!
+2021-01-31 21:41:55,024 INFO: Successful JSON file creation of ABCB!
+2021-01-31 21:42:07,487 INFO: ABCL : JSON GET Request was a Success!
+2021-01-31 21:42:07,488 INFO: Successful JSON file creation of ABCL!
+2021-01-31 21:42:20,567 INFO: ABCM : JSON GET Request was a Success!
+2021-01-31 21:42:20,569 INFO: Successful JSON file creation of ABCM!
+2021-01-31 21:42:34,179 INFO: ABEO : JSON GET Request was a Success!
+2021-01-31 21:42:34,181 INFO: Successful JSON file creation of ABEO!
+2021-01-31 21:42:46,774 INFO: ABEQ : JSON GET Request was a Success!
+2021-01-31 21:42:46,775 INFO: Successful JSON file creation of ABEQ!
+2021-01-31 21:42:59,477 INFO: ABEV : JSON GET Request was a Success!
+2021-01-31 21:42:59,479 INFO: Successful JSON file creation of ABEV!
+2021-01-31 21:43:13,034 INFO: ABG : JSON GET Request was a Success!
+2021-01-31 21:43:13,036 INFO: Successful JSON file creation of ABG!
+2021-01-31 21:43:26,846 INFO: ABIO : JSON GET Request was a Success!
+2021-01-31 21:43:26,848 INFO: Successful JSON file creation of ABIO!
+2021-01-31 21:43:40,916 INFO: ABM : JSON GET Request was a Success!
+2021-01-31 21:43:40,918 INFO: Successful JSON file creation of ABM!
+2021-01-31 21:43:54,704 INFO: ABMD : JSON GET Request was a Success!
+2021-01-31 21:43:54,705 INFO: Successful JSON file creation of ABMD!
+2021-01-31 21:44:07,287 INFO: ABNB : JSON GET Request was a Success!
+2021-01-31 21:44:07,288 INFO: Successful JSON file creation of ABNB!
+2021-01-31 21:44:21,023 INFO: ABR : JSON GET Request was a Success!
+2021-01-31 21:44:21,025 INFO: Successful JSON file creation of ABR!
+2021-01-31 21:44:33,525 INFO: ABST : JSON GET Request was a Success!
+2021-01-31 21:44:33,527 INFO: Successful JSON file creation of ABST!
+2021-01-31 21:44:47,573 INFO: ABT : JSON GET Request was a Success!
+2021-01-31 21:44:47,575 INFO: Successful JSON file creation of ABT!
+2021-01-31 21:45:00,533 INFO: ABTX : JSON GET Request was a Success!
+2021-01-31 21:45:00,535 INFO: Successful JSON file creation of ABTX!
+2021-01-31 21:45:13,031 INFO: ABUS : JSON GET Request was a Success!
+2021-01-31 21:45:13,033 INFO: Successful JSON file creation of ABUS!
+2021-01-31 21:45:25,680 INFO: ACA : JSON GET Request was a Success!
+2021-01-31 21:45:25,682 INFO: Successful JSON file creation of ACA!
+2021-01-31 21:45:38,192 INFO: ACAC : JSON GET Request was a Success!
+2021-01-31 21:45:38,193 INFO: Successful JSON file creation of ACAC!
+2021-01-31 21:45:51,627 INFO: ACAD : JSON GET Request was a Success!
+2021-01-31 21:45:51,630 INFO: Successful JSON file creation of ACAD!
+2021-01-31 21:46:04,124 INFO: ACB : JSON GET Request was a Success!
+2021-01-31 21:46:04,126 INFO: Successful JSON file creation of ACB!
+2021-01-31 21:46:16,912 INFO: ACBI : JSON GET Request was a Success!
+2021-01-31 21:46:16,914 INFO: Successful JSON file creation of ACBI!
+2021-01-31 21:46:30,700 INFO: ACC : JSON GET Request was a Success!
+2021-01-31 21:46:30,701 INFO: Successful JSON file creation of ACC!
+2021-01-31 21:46:43,211 INFO: ACCD : JSON GET Request was a Success!
+2021-01-31 21:46:43,213 INFO: Successful JSON file creation of ACCD!
+2021-01-31 21:46:55,856 INFO: ACCO : JSON GET Request was a Success!
+2021-01-31 21:46:55,857 INFO: Successful JSON file creation of ACCO!
+2021-01-31 21:47:08,330 INFO: ACEL : JSON GET Request was a Success!
+2021-01-31 21:47:08,332 INFO: Successful JSON file creation of ACEL!
+2021-01-31 21:47:20,891 INFO: ACER : JSON GET Request was a Success!
+2021-01-31 21:47:20,892 INFO: Successful JSON file creation of ACER!
+2021-01-31 21:47:33,620 INFO: ACES : JSON GET Request was a Success!
+2021-01-31 21:47:33,622 INFO: Successful JSON file creation of ACES!
+2021-01-31 21:47:46,402 INFO: ACET : JSON GET Request was a Success!
+2021-01-31 21:47:46,403 INFO: Successful JSON file creation of ACET!
+2021-01-31 21:47:58,925 INFO: ACEV : JSON GET Request was a Success!
+2021-01-31 21:47:58,927 INFO: Successful JSON file creation of ACEV!
+2021-01-31 21:48:12,694 INFO: ACGL : JSON GET Request was a Success!
+2021-01-31 21:48:12,697 INFO: Successful JSON file creation of ACGL!
+2021-01-31 21:48:26,406 INFO: ACH : JSON GET Request was a Success!
+2021-01-31 21:48:26,408 INFO: Successful JSON file creation of ACH!
+2021-01-31 21:48:40,293 INFO: ACHC : JSON GET Request was a Success!
+2021-01-31 21:48:40,295 INFO: Successful JSON file creation of ACHC!
+2021-01-31 21:48:53,933 INFO: ACHV : JSON GET Request was a Success!
+2021-01-31 21:48:53,935 INFO: Successful JSON file creation of ACHV!
+2021-01-31 21:49:06,376 INFO: ACI : JSON GET Request was a Success!
+2021-01-31 21:49:06,378 INFO: Successful JSON file creation of ACI!
+2021-01-31 21:49:19,172 INFO: ACIA : JSON GET Request was a Success!
+2021-01-31 21:49:19,174 INFO: Successful JSON file creation of ACIA!
+2021-01-31 21:49:31,639 INFO: ACIC : JSON GET Request was a Success!
+2021-01-31 21:49:31,640 INFO: Successful JSON file creation of ACIC!
+2021-01-31 21:49:44,264 INFO: ACIO : JSON GET Request was a Success!
+2021-01-31 21:49:44,265 INFO: Successful JSON file creation of ACIO!
+2021-01-31 21:49:57,113 INFO: ACIU : JSON GET Request was a Success!
+2021-01-31 21:49:57,115 INFO: Successful JSON file creation of ACIU!
+2021-01-31 21:50:11,025 INFO: ACIW : JSON GET Request was a Success!
+2021-01-31 21:50:11,027 INFO: Successful JSON file creation of ACIW!
+2021-01-31 21:50:23,758 INFO: ACLS : JSON GET Request was a Success!
+2021-01-31 21:50:23,760 INFO: Successful JSON file creation of ACLS!
+2021-01-31 21:50:36,990 INFO: ACM : JSON GET Request was a Success!
+2021-01-31 21:50:36,991 INFO: Successful JSON file creation of ACM!
+2021-01-31 21:50:49,684 INFO: ACMR : JSON GET Request was a Success!
+2021-01-31 21:50:49,686 INFO: Successful JSON file creation of ACMR!
+2021-01-31 21:51:03,978 INFO: ACN : JSON GET Request was a Success!
+2021-01-31 21:51:03,980 INFO: Successful JSON file creation of ACN!
+2021-01-31 21:51:17,947 INFO: ACNB : JSON GET Request was a Success!
+2021-01-31 21:51:17,948 INFO: Successful JSON file creation of ACNB!
+2021-01-31 21:51:30,491 INFO: ACND : JSON GET Request was a Success!
+2021-01-31 21:51:30,493 INFO: Successful JSON file creation of ACND!
+2021-01-31 21:51:43,105 INFO: ACOR : JSON GET Request was a Success!
+2021-01-31 21:51:43,108 INFO: Successful JSON file creation of ACOR!
+2021-01-31 21:51:56,342 INFO: ACP : JSON GET Request was a Success!
+2021-01-31 21:51:56,344 INFO: Successful JSON file creation of ACP!
+2021-01-31 21:52:08,880 INFO: ACRE : JSON GET Request was a Success!
+2021-01-31 21:52:08,882 INFO: Successful JSON file creation of ACRE!
+2021-01-31 21:52:21,690 INFO: ACRS : JSON GET Request was a Success!
+2021-01-31 21:52:21,692 INFO: Successful JSON file creation of ACRS!
+2021-01-31 21:52:34,650 INFO: ACRX : JSON GET Request was a Success!
+2021-01-31 21:52:34,652 INFO: Successful JSON file creation of ACRX!
+2021-01-31 21:52:47,269 INFO: ACSG : JSON GET Request was a Success!
+2021-01-31 21:52:47,271 INFO: Successful JSON file creation of ACSG!
+2021-01-31 21:53:00,070 INFO: ACSI : JSON GET Request was a Success!
+2021-01-31 21:53:00,072 INFO: Successful JSON file creation of ACSI!
+2021-01-31 21:53:13,032 INFO: ACST : JSON GET Request was a Success!
+2021-01-31 21:53:13,034 INFO: Successful JSON file creation of ACST!
+2021-01-31 21:53:25,531 INFO: ACTC : JSON GET Request was a Success!
+2021-01-31 21:53:25,532 INFO: Successful JSON file creation of ACTC!
+2021-01-31 21:53:39,243 INFO: ACTG : JSON GET Request was a Success!
+2021-01-31 21:53:39,245 INFO: Successful JSON file creation of ACTG!
+2021-01-31 21:53:51,782 INFO: ACTV : JSON GET Request was a Success!
+2021-01-31 21:53:51,783 INFO: Successful JSON file creation of ACTV!
+2021-01-31 21:54:05,831 INFO: ACU : JSON GET Request was a Success!
+2021-01-31 21:54:05,833 INFO: Successful JSON file creation of ACU!
+2021-01-31 21:54:18,736 INFO: ACV : JSON GET Request was a Success!
+2021-01-31 21:54:18,738 INFO: Successful JSON file creation of ACV!
+2021-01-31 21:54:31,256 INFO: ACVF : JSON GET Request was a Success!
+2021-01-31 21:54:31,258 INFO: Successful JSON file creation of ACVF!
+2021-01-31 21:54:44,187 INFO: ACWF : JSON GET Request was a Success!
+2021-01-31 21:54:44,189 INFO: Successful JSON file creation of ACWF!
+2021-01-31 21:54:57,651 INFO: ACWI : JSON GET Request was a Success!
+2021-01-31 21:54:57,653 INFO: Successful JSON file creation of ACWI!
+2021-01-31 21:55:10,730 INFO: ACWV : JSON GET Request was a Success!
+2021-01-31 21:55:10,732 INFO: Successful JSON file creation of ACWV!
+2021-01-31 21:55:23,993 INFO: ACWX : JSON GET Request was a Success!
+2021-01-31 21:55:23,995 INFO: Successful JSON file creation of ACWX!
+2021-01-31 21:55:37,558 INFO: ACY : JSON GET Request was a Success!
+2021-01-31 21:55:37,560 INFO: Successful JSON file creation of ACY!
+2021-01-31 21:55:50,418 INFO: ADAP : JSON GET Request was a Success!
+2021-01-31 21:55:50,420 INFO: Successful JSON file creation of ADAP!
+2021-01-31 21:56:04,309 INFO: ADBE : JSON GET Request was a Success!
+2021-01-31 21:56:04,311 INFO: Successful JSON file creation of ADBE!
+2021-01-31 21:56:18,321 INFO: ADC : JSON GET Request was a Success!
+2021-01-31 21:56:18,323 INFO: Successful JSON file creation of ADC!
+2021-01-31 21:56:30,860 INFO: ADCT : JSON GET Request was a Success!
+2021-01-31 21:56:30,862 INFO: Successful JSON file creation of ADCT!
+2021-01-31 21:56:43,543 INFO: ADES : JSON GET Request was a Success!
+2021-01-31 21:56:43,545 INFO: Successful JSON file creation of ADES!
+2021-01-31 21:56:56,101 INFO: ADFI : JSON GET Request was a Success!
+2021-01-31 21:56:56,103 INFO: Successful JSON file creation of ADFI!
+2021-01-31 21:57:10,365 INFO: ADI : JSON GET Request was a Success!
+2021-01-31 21:57:10,367 INFO: Successful JSON file creation of ADI!
+2021-01-31 21:57:23,226 INFO: ADIL : JSON GET Request was a Success!
+2021-01-31 21:57:23,228 INFO: Successful JSON file creation of ADIL!
+2021-01-31 21:57:35,980 INFO: ADM : JSON GET Request was a Success!
+2021-01-31 21:57:35,982 INFO: Successful JSON file creation of ADM!
+2021-01-31 21:57:48,871 INFO: ADMA : JSON GET Request was a Success!
+2021-01-31 21:57:48,872 INFO: Successful JSON file creation of ADMA!
+2021-01-31 21:58:01,820 INFO: ADME : JSON GET Request was a Success!
+2021-01-31 21:58:01,822 INFO: Successful JSON file creation of ADME!
+2021-01-31 21:58:15,628 INFO: ADMP : JSON GET Request was a Success!
+2021-01-31 21:58:15,630 INFO: Successful JSON file creation of ADMP!
+2021-01-31 21:58:28,530 INFO: ADMS : JSON GET Request was a Success!
+2021-01-31 21:58:28,532 INFO: Successful JSON file creation of ADMS!
+2021-01-31 21:58:41,287 INFO: ADNT : JSON GET Request was a Success!
+2021-01-31 21:58:41,289 INFO: Successful JSON file creation of ADNT!
+2021-01-31 21:58:53,691 INFO: ADOC : JSON GET Request was a Success!
+2021-01-31 21:58:53,692 INFO: Successful JSON file creation of ADOC!
+2021-01-31 21:59:06,360 INFO: ADP : JSON GET Request was a Success!
+2021-01-31 21:59:06,362 INFO: Successful JSON file creation of ADP!
+2021-01-31 21:59:18,932 INFO: ADPT : JSON GET Request was a Success!
+2021-01-31 21:59:18,933 INFO: Successful JSON file creation of ADPT!
+2021-01-31 21:59:32,751 INFO: ADRE : JSON GET Request was a Success!
+2021-01-31 21:59:32,753 INFO: Successful JSON file creation of ADRE!
+2021-01-31 21:59:46,650 INFO: ADS : JSON GET Request was a Success!
+2021-01-31 21:59:46,652 INFO: Successful JSON file creation of ADS!
+2021-01-31 22:00:00,919 INFO: ADSK : JSON GET Request was a Success!
+2021-01-31 22:00:00,921 INFO: Successful JSON file creation of ADSK!
+2021-01-31 22:00:14,276 INFO: ADT : JSON GET Request was a Success!
+2021-01-31 22:00:14,278 INFO: Successful JSON file creation of ADT!
+2021-01-31 22:00:26,963 INFO: ADTN : JSON GET Request was a Success!
+2021-01-31 22:00:26,965 INFO: Successful JSON file creation of ADTN!
+2021-01-31 22:00:39,497 INFO: ADTX : JSON GET Request was a Success!
+2021-01-31 22:00:39,498 INFO: Successful JSON file creation of ADTX!
+2021-01-31 22:00:52,473 INFO: ADUS : JSON GET Request was a Success!
+2021-01-31 22:00:52,475 INFO: Successful JSON file creation of ADUS!
+2021-01-31 22:01:05,070 INFO: ADV : JSON GET Request was a Success!
+2021-01-31 22:01:05,072 INFO: Successful JSON file creation of ADV!
+2021-01-31 22:01:17,856 INFO: ADVM : JSON GET Request was a Success!
+2021-01-31 22:01:17,858 INFO: Successful JSON file creation of ADVM!
+2021-01-31 22:01:31,866 INFO: ADX : JSON GET Request was a Success!
+2021-01-31 22:01:31,868 INFO: Successful JSON file creation of ADX!
+2021-01-31 22:01:44,422 INFO: ADXN : JSON GET Request was a Success!
+2021-01-31 22:01:44,424 INFO: Successful JSON file creation of ADXN!
+2021-01-31 22:01:57,910 INFO: ADXS : JSON GET Request was a Success!
+2021-01-31 22:01:57,912 INFO: Successful JSON file creation of ADXS!
+2021-01-31 22:02:11,335 INFO: AEB : JSON GET Request was a Success!
+2021-01-31 22:02:11,337 INFO: Successful JSON file creation of AEB!
+2021-01-31 22:02:25,365 INFO: AEE : JSON GET Request was a Success!
+2021-01-31 22:02:25,367 INFO: Successful JSON file creation of AEE!
+2021-01-31 22:02:39,395 INFO: AEF : JSON GET Request was a Success!
+2021-01-31 22:02:39,397 INFO: Successful JSON file creation of AEF!
+2021-01-31 22:02:51,965 INFO: AEFC : JSON GET Request was a Success!
+2021-01-31 22:02:51,967 INFO: Successful JSON file creation of AEFC!
+2021-01-31 22:03:06,334 INFO: AEG : JSON GET Request was a Success!
+2021-01-31 22:03:06,336 INFO: Successful JSON file creation of AEG!
+2021-01-31 22:03:19,004 INFO: AEGN : JSON GET Request was a Success!
+2021-01-31 22:03:19,006 INFO: Successful JSON file creation of AEGN!
+2021-01-31 22:03:32,353 INFO: AEHL : JSON GET Request was a Success!
+2021-01-31 22:03:32,355 INFO: Successful JSON file creation of AEHL!
+2021-01-31 22:03:45,892 INFO: AEHR : JSON GET Request was a Success!
+2021-01-31 22:03:45,894 INFO: Successful JSON file creation of AEHR!
+2021-01-31 22:03:59,522 INFO: AEIS : JSON GET Request was a Success!
+2021-01-31 22:03:59,524 INFO: Successful JSON file creation of AEIS!
+2021-01-31 22:04:13,246 INFO: AEL : JSON GET Request was a Success!
+2021-01-31 22:04:13,248 INFO: Successful JSON file creation of AEL!
+2021-01-31 22:04:27,351 INFO: AEM : JSON GET Request was a Success!
+2021-01-31 22:04:27,353 INFO: Successful JSON file creation of AEM!
+2021-01-31 22:04:40,970 INFO: AEMD : JSON GET Request was a Success!
+2021-01-31 22:04:40,972 INFO: Successful JSON file creation of AEMD!
+2021-01-31 22:04:53,938 INFO: AENZ : JSON GET Request was a Success!
+2021-01-31 22:04:53,940 INFO: Successful JSON file creation of AENZ!
+2021-01-31 22:05:07,939 INFO: AEO : JSON GET Request was a Success!
+2021-01-31 22:05:07,941 INFO: Successful JSON file creation of AEO!
+2021-01-31 22:05:21,992 INFO: AEP : JSON GET Request was a Success!
+2021-01-31 22:05:21,994 INFO: Successful JSON file creation of AEP!
+2021-01-31 22:05:35,225 INFO: AER : JSON GET Request was a Success!
+2021-01-31 22:05:35,227 INFO: Successful JSON file creation of AER!
+2021-01-31 22:05:47,724 INFO: AERI : JSON GET Request was a Success!
+2021-01-31 22:05:47,726 INFO: Successful JSON file creation of AERI!
+2021-01-31 22:06:01,583 INFO: AES : JSON GET Request was a Success!
+2021-01-31 22:06:01,585 INFO: Successful JSON file creation of AES!
+2021-01-31 22:06:14,181 INFO: AESE : JSON GET Request was a Success!
+2021-01-31 22:06:14,183 INFO: Successful JSON file creation of AESE!
+2021-01-31 22:06:26,743 INFO: AESR : JSON GET Request was a Success!
+2021-01-31 22:06:26,745 INFO: Successful JSON file creation of AESR!
+2021-01-31 22:06:40,396 INFO: AEY : JSON GET Request was a Success!
+2021-01-31 22:06:40,398 INFO: Successful JSON file creation of AEY!
+2021-01-31 22:06:52,926 INFO: AEYE : JSON GET Request was a Success!
+2021-01-31 22:06:52,928 INFO: Successful JSON file creation of AEYE!
+2021-01-31 22:07:06,715 INFO: AEZS : JSON GET Request was a Success!
+2021-01-31 22:07:06,717 INFO: Successful JSON file creation of AEZS!
+2021-01-31 22:07:20,615 INFO: AFB : JSON GET Request was a Success!
+2021-01-31 22:07:20,618 INFO: Successful JSON file creation of AFB!
+2021-01-31 22:07:33,133 INFO: AFBI : JSON GET Request was a Success!
+2021-01-31 22:07:33,134 INFO: Successful JSON file creation of AFBI!
+2021-01-31 22:07:46,614 INFO: AFC : JSON GET Request was a Success!
+2021-01-31 22:07:46,616 INFO: Successful JSON file creation of AFC!
+2021-01-31 22:08:00,643 INFO: AFG : JSON GET Request was a Success!
+2021-01-31 22:08:00,645 INFO: Successful JSON file creation of AFG!
+2021-01-31 22:08:13,201 INFO: AFGB : JSON GET Request was a Success!
+2021-01-31 22:08:13,203 INFO: Successful JSON file creation of AFGB!
+2021-01-31 22:08:25,774 INFO: AFGC : JSON GET Request was a Success!
+2021-01-31 22:08:25,776 INFO: Successful JSON file creation of AFGC!
+2021-01-31 22:08:38,432 INFO: AFGD : JSON GET Request was a Success!
+2021-01-31 22:08:38,434 INFO: Successful JSON file creation of AFGD!
+2021-01-31 22:08:50,890 INFO: AFGE : JSON GET Request was a Success!
+2021-01-31 22:08:50,892 INFO: Successful JSON file creation of AFGE!
+2021-01-31 22:09:04,152 INFO: AFI : JSON GET Request was a Success!
+2021-01-31 22:09:04,154 INFO: Successful JSON file creation of AFI!
+2021-01-31 22:09:16,550 INFO: AFIB : JSON GET Request was a Success!
+2021-01-31 22:09:16,553 INFO: Successful JSON file creation of AFIB!
+2021-01-31 22:09:29,220 INFO: AFIF : JSON GET Request was a Success!
+2021-01-31 22:09:29,222 INFO: Successful JSON file creation of AFIF!
+2021-01-31 22:09:41,652 INFO: AFIN : JSON GET Request was a Success!
+2021-01-31 22:09:41,654 INFO: Successful JSON file creation of AFIN!
+2021-01-31 22:09:55,969 INFO: AFK : JSON GET Request was a Success!
+2021-01-31 22:09:55,971 INFO: Successful JSON file creation of AFK!
+2021-01-31 22:10:08,708 INFO: AFL : JSON GET Request was a Success!
+2021-01-31 22:10:08,710 INFO: Successful JSON file creation of AFL!
+2021-01-31 22:10:21,335 INFO: AFLG : JSON GET Request was a Success!
+2021-01-31 22:10:21,337 INFO: Successful JSON file creation of AFLG!
+2021-01-31 22:10:33,960 INFO: AFMC : JSON GET Request was a Success!
+2021-01-31 22:10:33,962 INFO: Successful JSON file creation of AFMC!
+2021-01-31 22:10:46,757 INFO: AFMD : JSON GET Request was a Success!
+2021-01-31 22:10:46,759 INFO: Successful JSON file creation of AFMD!
+2021-01-31 22:10:59,236 INFO: AFRM : JSON GET Request was a Success!
+2021-01-31 22:10:59,236 INFO: Successful JSON file creation of AFRM!
+2021-01-31 22:11:11,742 INFO: AFSM : JSON GET Request was a Success!
+2021-01-31 22:11:11,744 INFO: Successful JSON file creation of AFSM!
+2021-01-31 22:11:25,037 INFO: AFT : JSON GET Request was a Success!
+2021-01-31 22:11:25,039 INFO: Successful JSON file creation of AFT!
+2021-01-31 22:11:38,038 INFO: AFTY : JSON GET Request was a Success!
+2021-01-31 22:11:38,040 INFO: Successful JSON file creation of AFTY!
+2021-01-31 22:11:50,552 INFO: AFYA : JSON GET Request was a Success!
+2021-01-31 22:11:50,554 INFO: Successful JSON file creation of AFYA!
+2021-01-31 22:12:03,150 INFO: AGBA : JSON GET Request was a Success!
+2021-01-31 22:12:03,152 INFO: Successful JSON file creation of AGBA!
+2021-01-31 22:12:15,654 INFO: AGC : JSON GET Request was a Success!
+2021-01-31 22:12:15,655 INFO: Successful JSON file creation of AGC!
+2021-01-31 22:12:28,177 INFO: AGCB : JSON GET Request was a Success!
+2021-01-31 22:12:28,178 INFO: Successful JSON file creation of AGCB!
+2021-01-31 22:12:42,227 INFO: AGCO : JSON GET Request was a Success!
+2021-01-31 22:12:42,229 INFO: Successful JSON file creation of AGCO!
+2021-01-31 22:12:55,793 INFO: AGD : JSON GET Request was a Success!
+2021-01-31 22:12:55,795 INFO: Successful JSON file creation of AGD!
+2021-01-31 22:13:08,386 INFO: AGE : JSON GET Request was a Success!
+2021-01-31 22:13:08,388 INFO: Successful JSON file creation of AGE!
+2021-01-31 22:13:21,134 INFO: AGEN : JSON GET Request was a Success!
+2021-01-31 22:13:21,136 INFO: Successful JSON file creation of AGEN!
+2021-01-31 22:13:33,662 INFO: AGFS : JSON GET Request was a Success!
+2021-01-31 22:13:33,664 INFO: Successful JSON file creation of AGFS!
+2021-01-31 22:13:46,572 INFO: AGFY : JSON GET Request was a Success!
+2021-01-31 22:13:46,573 INFO: Successful JSON file creation of AGFY!
+2021-01-31 22:14:00,607 INFO: AGG : JSON GET Request was a Success!
+2021-01-31 22:14:00,609 INFO: Successful JSON file creation of AGG!
+2021-01-31 22:14:13,348 INFO: AGGP : JSON GET Request was a Success!
+2021-01-31 22:14:13,350 INFO: Successful JSON file creation of AGGP!
+2021-01-31 22:14:26,253 INFO: AGGY : JSON GET Request was a Success!
+2021-01-31 22:14:26,255 INFO: Successful JSON file creation of AGGY!
+2021-01-31 22:14:39,630 INFO: AGI : JSON GET Request was a Success!
+2021-01-31 22:14:39,632 INFO: Successful JSON file creation of AGI!
+2021-01-31 22:14:52,529 INFO: AGIO : JSON GET Request was a Success!
+2021-01-31 22:14:52,530 INFO: Successful JSON file creation of AGIO!
+2021-01-31 22:15:05,148 INFO: AGLE : JSON GET Request was a Success!
+2021-01-31 22:15:05,150 INFO: Successful JSON file creation of AGLE!
+2021-01-31 22:15:17,890 INFO: AGM : JSON GET Request was a Success!
+2021-01-31 22:15:17,892 INFO: Successful JSON file creation of AGM!
+2021-01-31 22:15:30,559 INFO: AGMH : JSON GET Request was a Success!
+2021-01-31 22:15:30,561 INFO: Successful JSON file creation of AGMH!
+2021-01-31 22:15:44,028 INFO: AGNC : JSON GET Request was a Success!
+2021-01-31 22:15:44,030 INFO: Successful JSON file creation of AGNC!
+2021-01-31 22:15:57,738 INFO: AGO : JSON GET Request was a Success!
+2021-01-31 22:15:57,740 INFO: Successful JSON file creation of AGO!
+2021-01-31 22:16:10,938 INFO: AGQ : JSON GET Request was a Success!
+2021-01-31 22:16:10,940 INFO: Successful JSON file creation of AGQ!
+2021-01-31 22:16:23,890 INFO: AGR : JSON GET Request was a Success!
+2021-01-31 22:16:23,892 INFO: Successful JSON file creation of AGR!
+2021-01-31 22:16:36,450 INFO: AGRO : JSON GET Request was a Success!
+2021-01-31 22:16:36,452 INFO: Successful JSON file creation of AGRO!
+2021-01-31 22:16:48,990 INFO: AGRX : JSON GET Request was a Success!
+2021-01-31 22:16:48,992 INFO: Successful JSON file creation of AGRX!
+2021-01-31 22:17:01,684 INFO: AGS : JSON GET Request was a Success!
+2021-01-31 22:17:01,686 INFO: Successful JSON file creation of AGS!
+2021-01-31 22:17:14,137 INFO: AGT : JSON GET Request was a Success!
+2021-01-31 22:17:14,139 INFO: Successful JSON file creation of AGT!
+2021-01-31 22:17:27,059 INFO: AGTC : JSON GET Request was a Success!
+2021-01-31 22:17:27,060 INFO: Successful JSON file creation of AGTC!
+2021-01-31 22:17:39,649 INFO: AGX : JSON GET Request was a Success!
+2021-01-31 22:17:39,651 INFO: Successful JSON file creation of AGX!
+2021-01-31 22:17:52,411 INFO: AGYS : JSON GET Request was a Success!
+2021-01-31 22:17:52,413 INFO: Successful JSON file creation of AGYS!
+2021-01-31 22:18:05,898 INFO: AGZ : JSON GET Request was a Success!
+2021-01-31 22:18:05,900 INFO: Successful JSON file creation of AGZ!
+2021-01-31 22:18:18,904 INFO: AGZD : JSON GET Request was a Success!
+2021-01-31 22:18:18,905 INFO: Successful JSON file creation of AGZD!
+2021-01-31 22:18:31,405 INFO: AHAC : JSON GET Request was a Success!
+2021-01-31 22:18:31,406 INFO: Successful JSON file creation of AHAC!
+2021-01-31 22:18:44,913 INFO: AHC : JSON GET Request was a Success!
+2021-01-31 22:18:44,915 INFO: Successful JSON file creation of AHC!
+2021-01-31 22:18:57,733 INFO: AHCO : JSON GET Request was a Success!
+2021-01-31 22:18:57,735 INFO: Successful JSON file creation of AHCO!
+2021-01-31 22:19:10,237 INFO: AHH : JSON GET Request was a Success!
+2021-01-31 22:19:10,239 INFO: Successful JSON file creation of AHH!
+2021-01-31 22:19:23,818 INFO: AHPI : JSON GET Request was a Success!
+2021-01-31 22:19:23,820 INFO: Successful JSON file creation of AHPI!
+2021-01-31 22:19:37,609 INFO: AHT : JSON GET Request was a Success!
+2021-01-31 22:19:37,611 INFO: Successful JSON file creation of AHT!
+2021-01-31 22:19:51,079 INFO: AIA : JSON GET Request was a Success!
+2021-01-31 22:19:51,081 INFO: Successful JSON file creation of AIA!
+2021-01-31 22:20:04,035 INFO: AIC : JSON GET Request was a Success!
+2021-01-31 22:20:04,036 INFO: Successful JSON file creation of AIC!
+2021-01-31 22:20:16,713 INFO: AIEQ : JSON GET Request was a Success!
+2021-01-31 22:20:16,714 INFO: Successful JSON file creation of AIEQ!
+2021-01-31 22:20:29,241 INFO: AIF : JSON GET Request was a Success!
+2021-01-31 22:20:29,243 INFO: Successful JSON file creation of AIF!
+2021-01-31 22:20:41,880 INFO: AIG : JSON GET Request was a Success!
+2021-01-31 22:20:41,882 INFO: Successful JSON file creation of AIG!
+2021-01-31 22:20:54,715 INFO: AIH : JSON GET Request was a Success!
+2021-01-31 22:20:54,717 INFO: Successful JSON file creation of AIH!
+2021-01-31 22:21:07,202 INFO: AIHS : JSON GET Request was a Success!
+2021-01-31 22:21:07,203 INFO: Successful JSON file creation of AIHS!
+2021-01-31 22:21:19,890 INFO: AIIQ : JSON GET Request was a Success!
+2021-01-31 22:21:19,892 INFO: Successful JSON file creation of AIIQ!
+2021-01-31 22:21:33,911 INFO: AIKI : JSON GET Request was a Success!
+2021-01-31 22:21:33,913 INFO: Successful JSON file creation of AIKI!
+2021-01-31 22:21:47,591 INFO: AIM : JSON GET Request was a Success!
+2021-01-31 22:21:47,593 INFO: Successful JSON file creation of AIM!
+2021-01-31 22:22:01,205 INFO: AIMC : JSON GET Request was a Success!
+2021-01-31 22:22:01,207 INFO: Successful JSON file creation of AIMC!
+2021-01-31 22:22:15,120 INFO: AIN : JSON GET Request was a Success!
+2021-01-31 22:22:15,121 INFO: Successful JSON file creation of AIN!
+2021-01-31 22:22:27,977 INFO: AINC : JSON GET Request was a Success!
+2021-01-31 22:22:27,979 INFO: Successful JSON file creation of AINC!
+2021-01-31 22:22:40,641 INFO: AINV : JSON GET Request was a Success!
+2021-01-31 22:22:40,642 INFO: Successful JSON file creation of AINV!
+2021-01-31 22:22:53,065 INFO: AIO : JSON GET Request was a Success!
+2021-01-31 22:22:53,067 INFO: Successful JSON file creation of AIO!
+2021-01-31 22:23:05,509 INFO: AIQ : JSON GET Request was a Success!
+2021-01-31 22:23:05,511 INFO: Successful JSON file creation of AIQ!
+2021-01-31 22:23:18,327 INFO: AIR : JSON GET Request was a Success!
+2021-01-31 22:23:18,329 INFO: Successful JSON file creation of AIR!
+2021-01-31 22:23:30,879 INFO: AIRC : JSON GET Request was a Success!
+2021-01-31 22:23:30,879 INFO: Successful JSON file creation of AIRC!
+2021-01-31 22:23:43,616 INFO: AIRG : JSON GET Request was a Success!
+2021-01-31 22:23:43,618 INFO: Successful JSON file creation of AIRG!
+2021-01-31 22:23:57,420 INFO: AIRI : JSON GET Request was a Success!
+2021-01-31 22:23:57,422 INFO: Successful JSON file creation of AIRI!
+2021-01-31 22:24:10,454 INFO: AIRR : JSON GET Request was a Success!
+2021-01-31 22:24:10,456 INFO: Successful JSON file creation of AIRR!
+2021-01-31 22:24:23,197 INFO: AIRT : JSON GET Request was a Success!
+2021-01-31 22:24:23,199 INFO: Successful JSON file creation of AIRT!
+2021-01-31 22:24:37,249 INFO: AIT : JSON GET Request was a Success!
+2021-01-31 22:24:37,251 INFO: Successful JSON file creation of AIT!
+2021-01-31 22:24:51,329 INFO: AIV : JSON GET Request was a Success!
+2021-01-31 22:24:51,331 INFO: Successful JSON file creation of AIV!
+2021-01-31 22:25:04,418 INFO: AIW : JSON GET Request was a Success!
+2021-01-31 22:25:04,420 INFO: Successful JSON file creation of AIW!
+2021-01-31 22:25:17,088 INFO: AIZ : JSON GET Request was a Success!
+2021-01-31 22:25:17,090 INFO: Successful JSON file creation of AIZ!
+2021-01-31 22:25:29,568 INFO: AIZN : JSON GET Request was a Success!
+2021-01-31 22:25:29,569 INFO: Successful JSON file creation of AIZN!
+2021-01-31 22:25:42,498 INFO: AIZP : JSON GET Request was a Success!
+2021-01-31 22:25:42,500 INFO: Successful JSON file creation of AIZP!
+2021-01-31 22:25:55,032 INFO: AJAX : JSON GET Request was a Success!
+2021-01-31 22:25:55,032 INFO: Successful JSON file creation of AJAX!
+2021-01-31 22:26:07,744 INFO: AJG : JSON GET Request was a Success!
+2021-01-31 22:26:07,746 INFO: Successful JSON file creation of AJG!
+2021-01-31 22:26:21,504 INFO: AJRD : JSON GET Request was a Success!
+2021-01-31 22:26:21,506 INFO: Successful JSON file creation of AJRD!
+2021-01-31 22:26:34,507 INFO: AJX : JSON GET Request was a Success!
+2021-01-31 22:26:34,509 INFO: Successful JSON file creation of AJX!
+2021-01-31 22:26:47,315 INFO: AJXA : JSON GET Request was a Success!
+2021-01-31 22:26:47,317 INFO: Successful JSON file creation of AJXA!
+2021-01-31 22:27:00,110 INFO: AKAM : JSON GET Request was a Success!
+2021-01-31 22:27:00,111 INFO: Successful JSON file creation of AKAM!
+2021-01-31 22:27:12,583 INFO: AKBA : JSON GET Request was a Success!
+2021-01-31 22:27:12,585 INFO: Successful JSON file creation of AKBA!
+2021-01-31 22:27:25,074 INFO: AKER : JSON GET Request was a Success!
+2021-01-31 22:27:25,076 INFO: Successful JSON file creation of AKER!
+2021-01-31 22:27:39,103 INFO: AKR : JSON GET Request was a Success!
+2021-01-31 22:27:39,105 INFO: Successful JSON file creation of AKR!
+2021-01-31 22:27:51,730 INFO: AKRO : JSON GET Request was a Success!
+2021-01-31 22:27:51,732 INFO: Successful JSON file creation of AKRO!
+2021-01-31 22:28:04,323 INFO: AKTS : JSON GET Request was a Success!
+2021-01-31 22:28:04,325 INFO: Successful JSON file creation of AKTS!
+2021-01-31 22:28:17,177 INFO: AKTX : JSON GET Request was a Success!
+2021-01-31 22:28:17,179 INFO: Successful JSON file creation of AKTX!
+2021-01-31 22:28:29,741 INFO: AKU : JSON GET Request was a Success!
+2021-01-31 22:28:29,743 INFO: Successful JSON file creation of AKU!
+2021-01-31 22:28:42,092 INFO: AKUS : JSON GET Request was a Success!
+2021-01-31 22:28:42,094 INFO: Successful JSON file creation of AKUS!
+2021-01-31 22:28:54,382 INFO: ALAC : JSON GET Request was a Success!
+2021-01-31 22:28:54,384 INFO: Successful JSON file creation of ALAC!
+2021-01-31 22:29:07,200 INFO: ALB : JSON GET Request was a Success!
+2021-01-31 22:29:07,202 INFO: Successful JSON file creation of ALB!
+2021-01-31 22:29:19,906 INFO: ALBO : JSON GET Request was a Success!
+2021-01-31 22:29:19,909 INFO: Successful JSON file creation of ALBO!
+2021-01-31 22:29:32,468 INFO: ALC : JSON GET Request was a Success!
+2021-01-31 22:29:32,470 INFO: Successful JSON file creation of ALC!
+2021-01-31 22:29:46,492 INFO: ALCO : JSON GET Request was a Success!
+2021-01-31 22:29:46,494 INFO: Successful JSON file creation of ALCO!
+2021-01-31 22:29:59,306 INFO: ALDX : JSON GET Request was a Success!
+2021-01-31 22:29:59,308 INFO: Successful JSON file creation of ALDX!
+2021-01-31 22:30:13,438 INFO: ALE : JSON GET Request was a Success!
+2021-01-31 22:30:13,440 INFO: Successful JSON file creation of ALE!
+2021-01-31 22:30:26,108 INFO: ALEC : JSON GET Request was a Success!
+2021-01-31 22:30:26,110 INFO: Successful JSON file creation of ALEC!
+2021-01-31 22:30:39,360 INFO: ALEX : JSON GET Request was a Success!
+2021-01-31 22:30:39,362 INFO: Successful JSON file creation of ALEX!
+2021-01-31 22:30:52,520 INFO: ALFA : JSON GET Request was a Success!
+2021-01-31 22:30:52,521 INFO: Successful JSON file creation of ALFA!
+2021-01-31 22:31:05,199 INFO: ALG : JSON GET Request was a Success!
+2021-01-31 22:31:05,201 INFO: Successful JSON file creation of ALG!
+2021-01-31 22:31:17,739 INFO: ALGM : JSON GET Request was a Success!
+2021-01-31 22:31:17,741 INFO: Successful JSON file creation of ALGM!
+2021-01-31 22:31:30,459 INFO: ALGN : JSON GET Request was a Success!
+2021-01-31 22:31:30,460 INFO: Successful JSON file creation of ALGN!
+2021-01-31 22:31:43,066 INFO: ALGS : JSON GET Request was a Success!
+2021-01-31 22:31:43,068 INFO: Successful JSON file creation of ALGS!
+2021-01-31 22:31:56,694 INFO: ALGT : JSON GET Request was a Success!
+2021-01-31 22:31:56,696 INFO: Successful JSON file creation of ALGT!
+2021-01-31 22:32:09,501 INFO: ALIM : JSON GET Request was a Success!
+2021-01-31 22:32:09,503 INFO: Successful JSON file creation of ALIM!
+2021-01-31 22:32:22,221 INFO: ALJJ : JSON GET Request was a Success!
+2021-01-31 22:32:22,223 INFO: Successful JSON file creation of ALJJ!
+2021-01-31 22:32:34,933 INFO: ALK : JSON GET Request was a Success!
+2021-01-31 22:32:34,935 INFO: Successful JSON file creation of ALK!
+2021-01-31 22:32:48,553 INFO: ALKS : JSON GET Request was a Success!
+2021-01-31 22:32:48,555 INFO: Successful JSON file creation of ALKS!
+2021-01-31 22:33:01,233 INFO: ALL : JSON GET Request was a Success!
+2021-01-31 22:33:01,235 INFO: Successful JSON file creation of ALL!
+2021-01-31 22:33:13,828 INFO: ALLE : JSON GET Request was a Success!
+2021-01-31 22:33:13,830 INFO: Successful JSON file creation of ALLE!
+2021-01-31 22:33:26,513 INFO: ALLK : JSON GET Request was a Success!
+2021-01-31 22:33:26,515 INFO: Successful JSON file creation of ALLK!
+2021-01-31 22:33:39,181 INFO: ALLO : JSON GET Request was a Success!
+2021-01-31 22:33:39,183 INFO: Successful JSON file creation of ALLO!
+2021-01-31 22:33:51,780 INFO: ALLT : JSON GET Request was a Success!
+2021-01-31 22:33:51,782 INFO: Successful JSON file creation of ALLT!
+2021-01-31 22:34:04,603 INFO: ALLY : JSON GET Request was a Success!
+2021-01-31 22:34:04,605 INFO: Successful JSON file creation of ALLY!
+2021-01-31 22:34:17,004 INFO: ALNA : JSON GET Request was a Success!
+2021-01-31 22:34:17,006 INFO: Successful JSON file creation of ALNA!
+2021-01-31 22:34:29,629 INFO: ALNY : JSON GET Request was a Success!
+2021-01-31 22:34:29,631 INFO: Successful JSON file creation of ALNY!
+2021-01-31 22:34:42,410 INFO: ALOT : JSON GET Request was a Success!
+2021-01-31 22:34:42,412 INFO: Successful JSON file creation of ALOT!
+2021-01-31 22:34:54,896 INFO: ALPN : JSON GET Request was a Success!
+2021-01-31 22:34:54,898 INFO: Successful JSON file creation of ALPN!
+2021-01-31 22:35:07,431 INFO: ALRM : JSON GET Request was a Success!
+2021-01-31 22:35:07,433 INFO: Successful JSON file creation of ALRM!
+2021-01-31 22:35:20,069 INFO: ALRN : JSON GET Request was a Success!
+2021-01-31 22:35:20,071 INFO: Successful JSON file creation of ALRN!
+2021-01-31 22:35:32,713 INFO: ALRS : JSON GET Request was a Success!
+2021-01-31 22:35:32,714 INFO: Successful JSON file creation of ALRS!
+2021-01-31 22:35:45,372 INFO: ALSK : JSON GET Request was a Success!
+2021-01-31 22:35:45,374 INFO: Successful JSON file creation of ALSK!
+2021-01-31 22:35:57,930 INFO: ALSN : JSON GET Request was a Success!
+2021-01-31 22:35:57,932 INFO: Successful JSON file creation of ALSN!
+2021-01-31 22:36:10,666 INFO: ALT : JSON GET Request was a Success!
+2021-01-31 22:36:10,668 INFO: Successful JSON file creation of ALT!
+2021-01-31 22:36:23,136 INFO: ALTA : JSON GET Request was a Success!
+2021-01-31 22:36:23,138 INFO: Successful JSON file creation of ALTA!
+2021-01-31 22:36:35,540 INFO: ALTG : JSON GET Request was a Success!
+2021-01-31 22:36:35,542 INFO: Successful JSON file creation of ALTG!
+2021-01-31 22:36:48,061 INFO: ALTL : JSON GET Request was a Success!
+2021-01-31 22:36:48,063 INFO: Successful JSON file creation of ALTL!
+2021-01-31 22:37:00,575 INFO: ALTM : JSON GET Request was a Success!
+2021-01-31 22:37:00,576 INFO: Successful JSON file creation of ALTM!
+2021-01-31 22:37:13,011 INFO: ALTR : JSON GET Request was a Success!
+2021-01-31 22:37:13,012 INFO: Successful JSON file creation of ALTR!
+2021-01-31 22:37:25,913 INFO: ALTS : JSON GET Request was a Success!
+2021-01-31 22:37:25,915 INFO: Successful JSON file creation of ALTS!
+2021-01-31 22:37:38,388 INFO: ALTU : JSON GET Request was a Success!
+2021-01-31 22:37:38,388 INFO: Successful JSON file creation of ALTU!
+2021-01-31 22:37:51,193 INFO: ALTY : JSON GET Request was a Success!
+2021-01-31 22:37:51,195 INFO: Successful JSON file creation of ALTY!
+2021-01-31 22:38:03,483 INFO: ALUS : JSON GET Request was a Success!
+2021-01-31 22:38:03,484 INFO: Successful JSON file creation of ALUS!
+2021-01-31 22:38:16,220 INFO: ALV : JSON GET Request was a Success!
+2021-01-31 22:38:16,222 INFO: Successful JSON file creation of ALV!
+2021-01-31 22:38:28,786 INFO: ALVR : JSON GET Request was a Success!
+2021-01-31 22:38:28,788 INFO: Successful JSON file creation of ALVR!
+2021-01-31 22:38:41,489 INFO: ALX : JSON GET Request was a Success!
+2021-01-31 22:38:41,491 INFO: Successful JSON file creation of ALX!
+2021-01-31 22:38:54,238 INFO: ALXN : JSON GET Request was a Success!
+2021-01-31 22:38:54,240 INFO: Successful JSON file creation of ALXN!
+2021-01-31 22:39:06,618 INFO: ALXO : JSON GET Request was a Success!
+2021-01-31 22:39:06,620 INFO: Successful JSON file creation of ALXO!
+2021-01-31 22:39:18,911 INFO: ALYA : JSON GET Request was a Success!
+2021-01-31 22:39:18,913 INFO: Successful JSON file creation of ALYA!
+2021-01-31 22:39:31,328 INFO: AMAL : JSON GET Request was a Success!
+2021-01-31 22:39:31,330 INFO: Successful JSON file creation of AMAL!
+2021-01-31 22:39:43,988 INFO: AMAT : JSON GET Request was a Success!
+2021-01-31 22:39:43,989 INFO: Successful JSON file creation of AMAT!
+2021-01-31 22:39:56,608 INFO: AMBA : JSON GET Request was a Success!
+2021-01-31 22:39:56,610 INFO: Successful JSON file creation of AMBA!
+2021-01-31 22:40:09,065 INFO: AMBC : JSON GET Request was a Success!
+2021-01-31 22:40:09,067 INFO: Successful JSON file creation of AMBC!
+2021-01-31 22:40:21,528 INFO: AMBO : JSON GET Request was a Success!
+2021-01-31 22:40:21,530 INFO: Successful JSON file creation of AMBO!
+2021-01-31 22:40:34,071 INFO: AMC : JSON GET Request was a Success!
+2021-01-31 22:40:34,073 INFO: Successful JSON file creation of AMC!
+2021-01-31 22:40:46,823 INFO: AMCA : JSON GET Request was a Success!
+2021-01-31 22:40:46,825 INFO: Successful JSON file creation of AMCA!
+2021-01-31 22:40:59,280 INFO: AMCI : JSON GET Request was a Success!
+2021-01-31 22:40:59,282 INFO: Successful JSON file creation of AMCI!
+2021-01-31 22:41:11,674 INFO: AMCR : JSON GET Request was a Success!
+2021-01-31 22:41:11,676 INFO: Successful JSON file creation of AMCR!
+2021-01-31 22:41:24,266 INFO: AMCX : JSON GET Request was a Success!
+2021-01-31 22:41:24,268 INFO: Successful JSON file creation of AMCX!
+2021-01-31 22:41:36,993 INFO: AMD : JSON GET Request was a Success!
+2021-01-31 22:41:36,995 INFO: Successful JSON file creation of AMD!
+2021-01-31 22:41:49,822 INFO: AME : JSON GET Request was a Success!
+2021-01-31 22:41:49,824 INFO: Successful JSON file creation of AME!
+2021-01-31 22:42:02,745 INFO: AMED : JSON GET Request was a Success!
+2021-01-31 22:42:02,747 INFO: Successful JSON file creation of AMED!
+2021-01-31 22:42:15,191 INFO: AMEH : JSON GET Request was a Success!
+2021-01-31 22:42:15,193 INFO: Successful JSON file creation of AMEH!
+2021-01-31 22:42:27,714 INFO: AMER : JSON GET Request was a Success!
+2021-01-31 22:42:27,716 INFO: Successful JSON file creation of AMER!
+2021-01-31 22:42:40,463 INFO: AMG : JSON GET Request was a Success!
+2021-01-31 22:42:40,465 INFO: Successful JSON file creation of AMG!
+2021-01-31 22:42:53,329 INFO: AMGN : JSON GET Request was a Success!
+2021-01-31 22:42:53,331 INFO: Successful JSON file creation of AMGN!
+2021-01-31 22:43:05,732 INFO: AMH : JSON GET Request was a Success!
+2021-01-31 22:43:05,734 INFO: Successful JSON file creation of AMH!
+2021-01-31 22:43:18,176 INFO: AMHC : JSON GET Request was a Success!
+2021-01-31 22:43:18,178 INFO: Successful JSON file creation of AMHC!
+2021-01-31 22:43:31,532 INFO: AMJ : JSON GET Request was a Success!
+2021-01-31 22:43:31,533 INFO: Successful JSON file creation of AMJ!
+2021-01-31 22:43:43,951 INFO: AMK : JSON GET Request was a Success!
+2021-01-31 22:43:43,953 INFO: Successful JSON file creation of AMK!
+2021-01-31 22:43:56,691 INFO: AMKR : JSON GET Request was a Success!
+2021-01-31 22:43:56,693 INFO: Successful JSON file creation of AMKR!
+2021-01-31 22:44:09,267 INFO: AMLP : JSON GET Request was a Success!
+2021-01-31 22:44:09,269 INFO: Successful JSON file creation of AMLP!
+2021-01-31 22:44:21,886 INFO: AMN : JSON GET Request was a Success!
+2021-01-31 22:44:21,888 INFO: Successful JSON file creation of AMN!
+2021-01-31 22:44:35,101 INFO: AMNA : JSON GET Request was a Success!
+2021-01-31 22:44:35,103 INFO: Successful JSON file creation of AMNA!
+2021-01-31 22:44:47,867 INFO: AMNB : JSON GET Request was a Success!
+2021-01-31 22:44:47,869 INFO: Successful JSON file creation of AMNB!
+2021-01-31 22:45:00,519 INFO: AMND : JSON GET Request was a Success!
+2021-01-31 22:45:00,521 INFO: Successful JSON file creation of AMND!
+2021-01-31 22:45:13,146 INFO: AMOM : JSON GET Request was a Success!
+2021-01-31 22:45:13,147 INFO: Successful JSON file creation of AMOM!
+2021-01-31 22:45:25,882 INFO: AMOT : JSON GET Request was a Success!
+2021-01-31 22:45:25,884 INFO: Successful JSON file creation of AMOT!
+2021-01-31 22:45:38,514 INFO: AMOV : JSON GET Request was a Success!
+2021-01-31 22:45:38,516 INFO: Successful JSON file creation of AMOV!
+2021-01-31 22:45:51,135 INFO: AMP : JSON GET Request was a Success!
+2021-01-31 22:45:51,137 INFO: Successful JSON file creation of AMP!
+2021-01-31 22:46:03,699 INFO: AMPE : JSON GET Request was a Success!
+2021-01-31 22:46:03,701 INFO: Successful JSON file creation of AMPE!
+2021-01-31 22:46:16,259 INFO: AMPH : JSON GET Request was a Success!
+2021-01-31 22:46:16,261 INFO: Successful JSON file creation of AMPH!
+2021-01-31 22:46:28,768 INFO: AMPY : JSON GET Request was a Success!
+2021-01-31 22:46:28,770 INFO: Successful JSON file creation of AMPY!
+2021-01-31 22:46:41,509 INFO: AMRB : JSON GET Request was a Success!
+2021-01-31 22:46:41,511 INFO: Successful JSON file creation of AMRB!
+2021-01-31 22:46:54,002 INFO: AMRC : JSON GET Request was a Success!
+2021-01-31 22:46:54,004 INFO: Successful JSON file creation of AMRC!
+2021-01-31 22:47:06,628 INFO: AMRK : JSON GET Request was a Success!
+2021-01-31 22:47:06,630 INFO: Successful JSON file creation of AMRK!
+2021-01-31 22:47:19,329 INFO: AMRN : JSON GET Request was a Success!
+2021-01-31 22:47:19,330 INFO: Successful JSON file creation of AMRN!
+2021-01-31 22:47:31,832 INFO: AMRS : JSON GET Request was a Success!
+2021-01-31 22:47:31,833 INFO: Successful JSON file creation of AMRS!
+2021-01-31 22:47:44,417 INFO: AMRX : JSON GET Request was a Success!
+2021-01-31 22:47:44,419 INFO: Successful JSON file creation of AMRX!
+2021-01-31 22:47:57,171 INFO: AMS : JSON GET Request was a Success!
+2021-01-31 22:47:57,172 INFO: Successful JSON file creation of AMS!
+2021-01-31 22:48:09,896 INFO: AMSC : JSON GET Request was a Success!
+2021-01-31 22:48:09,898 INFO: Successful JSON file creation of AMSC!
+2021-01-31 22:48:22,550 INFO: AMSF : JSON GET Request was a Success!
+2021-01-31 22:48:22,552 INFO: Successful JSON file creation of AMSF!
+2021-01-31 22:48:35,045 INFO: AMST : JSON GET Request was a Success!
+2021-01-31 22:48:35,047 INFO: Successful JSON file creation of AMST!
+2021-01-31 22:48:47,778 INFO: AMT : JSON GET Request was a Success!
+2021-01-31 22:48:47,780 INFO: Successful JSON file creation of AMT!
+2021-01-31 22:49:00,191 INFO: AMTB : JSON GET Request was a Success!
+2021-01-31 22:49:00,193 INFO: Successful JSON file creation of AMTB!
+2021-01-31 22:49:12,586 INFO: AMTI : JSON GET Request was a Success!
+2021-01-31 22:49:12,588 INFO: Successful JSON file creation of AMTI!
+2021-01-31 22:49:25,097 INFO: AMTR : JSON GET Request was a Success!
+2021-01-31 22:49:25,099 INFO: Successful JSON file creation of AMTR!
+2021-01-31 22:49:37,616 INFO: AMTX : JSON GET Request was a Success!
+2021-01-31 22:49:37,618 INFO: Successful JSON file creation of AMTX!
+2021-01-31 22:49:50,507 INFO: AMUB : JSON GET Request was a Success!
+2021-01-31 22:49:50,509 INFO: Successful JSON file creation of AMUB!
+2021-01-31 22:50:03,546 INFO: AMWD : JSON GET Request was a Success!
+2021-01-31 22:50:03,547 INFO: Successful JSON file creation of AMWD!
+2021-01-31 22:50:16,070 INFO: AMWL : JSON GET Request was a Success!
+2021-01-31 22:50:16,072 INFO: Successful JSON file creation of AMWL!
+2021-01-31 22:50:28,667 INFO: AMX : JSON GET Request was a Success!
+2021-01-31 22:50:28,669 INFO: Successful JSON file creation of AMX!
+2021-01-31 22:50:41,078 INFO: AMYT : JSON GET Request was a Success!
+2021-01-31 22:50:41,080 INFO: Successful JSON file creation of AMYT!
+2021-01-31 22:50:54,073 INFO: AMZA : JSON GET Request was a Success!
+2021-01-31 22:50:54,075 INFO: Successful JSON file creation of AMZA!
+2021-01-31 22:51:06,834 INFO: AMZN : JSON GET Request was a Success!
+2021-01-31 22:51:06,835 INFO: Successful JSON file creation of AMZN!
+2021-01-31 22:51:19,326 INFO: ANAB : JSON GET Request was a Success!
+2021-01-31 22:51:19,328 INFO: Successful JSON file creation of ANAB!
+2021-01-31 22:51:32,062 INFO: ANAT : JSON GET Request was a Success!
+2021-01-31 22:51:32,064 INFO: Successful JSON file creation of ANAT!
+2021-01-31 22:51:44,478 INFO: ANCN : JSON GET Request was a Success!
+2021-01-31 22:51:44,479 INFO: Successful JSON file creation of ANCN!
+2021-01-31 22:51:56,925 INFO: ANDA : JSON GET Request was a Success!
+2021-01-31 22:51:56,927 INFO: Successful JSON file creation of ANDA!
+2021-01-31 22:52:09,578 INFO: ANDE : JSON GET Request was a Success!
+2021-01-31 22:52:09,580 INFO: Successful JSON file creation of ANDE!
+2021-01-31 22:52:22,046 INFO: ANET : JSON GET Request was a Success!
+2021-01-31 22:52:22,048 INFO: Successful JSON file creation of ANET!
+2021-01-31 22:52:34,555 INFO: ANEW : JSON GET Request was a Success!
+2021-01-31 22:52:34,557 INFO: Successful JSON file creation of ANEW!
+2021-01-31 22:52:47,344 INFO: ANF : JSON GET Request was a Success!
+2021-01-31 22:52:47,346 INFO: Successful JSON file creation of ANF!
+2021-01-31 22:52:59,849 INFO: ANGI : JSON GET Request was a Success!
+2021-01-31 22:52:59,851 INFO: Successful JSON file creation of ANGI!
+2021-01-31 22:53:13,028 INFO: ANGL : JSON GET Request was a Success!
+2021-01-31 22:53:13,030 INFO: Successful JSON file creation of ANGL!
+2021-01-31 22:53:25,673 INFO: ANGO : JSON GET Request was a Success!
+2021-01-31 22:53:25,674 INFO: Successful JSON file creation of ANGO!
+2021-01-31 22:53:38,352 INFO: ANH : JSON GET Request was a Success!
+2021-01-31 22:53:38,354 INFO: Successful JSON file creation of ANH!
+2021-01-31 22:53:51,039 INFO: ANIK : JSON GET Request was a Success!
+2021-01-31 22:53:51,040 INFO: Successful JSON file creation of ANIK!
+2021-01-31 22:54:03,732 INFO: ANIP : JSON GET Request was a Success!
+2021-01-31 22:54:03,734 INFO: Successful JSON file creation of ANIP!
+2021-01-31 22:54:16,293 INFO: ANIX : JSON GET Request was a Success!
+2021-01-31 22:54:16,295 INFO: Successful JSON file creation of ANIX!
+2021-01-31 22:54:28,725 INFO: ANNX : JSON GET Request was a Success!
+2021-01-31 22:54:28,727 INFO: Successful JSON file creation of ANNX!
+2021-01-31 22:54:41,130 INFO: ANPC : JSON GET Request was a Success!
+2021-01-31 22:54:41,132 INFO: Successful JSON file creation of ANPC!
+2021-01-31 22:54:53,754 INFO: ANSS : JSON GET Request was a Success!
+2021-01-31 22:54:53,756 INFO: Successful JSON file creation of ANSS!
+2021-01-31 22:55:06,189 INFO: ANTE : JSON GET Request was a Success!
+2021-01-31 22:55:06,191 INFO: Successful JSON file creation of ANTE!
+2021-01-31 22:55:18,902 INFO: ANTM : JSON GET Request was a Success!
+2021-01-31 22:55:18,904 INFO: Successful JSON file creation of ANTM!
+2021-01-31 22:55:31,302 INFO: ANVS : JSON GET Request was a Success!
+2021-01-31 22:55:31,304 INFO: Successful JSON file creation of ANVS!
+2021-01-31 22:55:43,862 INFO: ANY : JSON GET Request was a Success!
+2021-01-31 22:55:43,864 INFO: Successful JSON file creation of ANY!
+2021-01-31 22:55:57,196 INFO: AOA : JSON GET Request was a Success!
+2021-01-31 22:55:57,198 INFO: Successful JSON file creation of AOA!
+2021-01-31 22:56:10,699 INFO: AOD : JSON GET Request was a Success!
+2021-01-31 22:56:10,701 INFO: Successful JSON file creation of AOD!
+2021-01-31 22:56:24,065 INFO: AOK : JSON GET Request was a Success!
+2021-01-31 22:56:24,067 INFO: Successful JSON file creation of AOK!
+2021-01-31 22:56:37,355 INFO: AOM : JSON GET Request was a Success!
+2021-01-31 22:56:37,357 INFO: Successful JSON file creation of AOM!
+2021-01-31 22:56:50,083 INFO: AON : JSON GET Request was a Success!
+2021-01-31 22:56:50,085 INFO: Successful JSON file creation of AON!
+2021-01-31 22:57:02,653 INFO: AONE : JSON GET Request was a Success!
+2021-01-31 22:57:02,655 INFO: Successful JSON file creation of AONE!
+2021-01-31 22:57:16,044 INFO: AOR : JSON GET Request was a Success!
+2021-01-31 22:57:16,045 INFO: Successful JSON file creation of AOR!
+2021-01-31 22:57:28,793 INFO: AOS : JSON GET Request was a Success!
+2021-01-31 22:57:28,795 INFO: Successful JSON file creation of AOS!
+2021-01-31 22:57:41,318 INFO: AOSL : JSON GET Request was a Success!
+2021-01-31 22:57:41,320 INFO: Successful JSON file creation of AOSL!
+2021-01-31 22:57:53,715 INFO: AOUT : JSON GET Request was a Success!
+2021-01-31 22:57:53,717 INFO: Successful JSON file creation of AOUT!
+2021-01-31 22:58:06,340 INFO: APA : JSON GET Request was a Success!
+2021-01-31 22:58:06,342 INFO: Successful JSON file creation of APA!
+2021-01-31 22:58:18,919 INFO: APAM : JSON GET Request was a Success!
+2021-01-31 22:58:18,921 INFO: Successful JSON file creation of APAM!
+2021-01-31 22:58:31,639 INFO: APD : JSON GET Request was a Success!
+2021-01-31 22:58:31,641 INFO: Successful JSON file creation of APD!
+2021-01-31 22:58:44,244 INFO: APDN : JSON GET Request was a Success!
+2021-01-31 22:58:44,245 INFO: Successful JSON file creation of APDN!
+2021-01-31 22:58:56,762 INFO: APEI : JSON GET Request was a Success!
+2021-01-31 22:58:56,764 INFO: Successful JSON file creation of APEI!
+2021-01-31 22:59:09,280 INFO: APEN : JSON GET Request was a Success!
+2021-01-31 22:59:09,282 INFO: Successful JSON file creation of APEN!
+2021-01-31 22:59:21,732 INFO: APG : JSON GET Request was a Success!
+2021-01-31 22:59:21,734 INFO: Successful JSON file creation of APG!
+2021-01-31 22:59:34,334 INFO: APH : JSON GET Request was a Success!
+2021-01-31 22:59:34,336 INFO: Successful JSON file creation of APH!
+2021-01-31 22:59:46,760 INFO: APHA : JSON GET Request was a Success!
+2021-01-31 22:59:46,762 INFO: Successful JSON file creation of APHA!
+2021-01-31 22:59:59,189 INFO: API : JSON GET Request was a Success!
+2021-01-31 22:59:59,191 INFO: Successful JSON file creation of API!
+2021-01-31 23:00:11,646 INFO: APLE : JSON GET Request was a Success!
+2021-01-31 23:00:11,648 INFO: Successful JSON file creation of APLE!
+2021-01-31 23:00:24,178 INFO: APLS : JSON GET Request was a Success!
+2021-01-31 23:00:24,180 INFO: Successful JSON file creation of APLS!
+2021-01-31 23:00:36,616 INFO: APLT : JSON GET Request was a Success!
+2021-01-31 23:00:36,618 INFO: Successful JSON file creation of APLT!
+2021-01-31 23:00:49,064 INFO: APM : JSON GET Request was a Success!
+2021-01-31 23:00:49,065 INFO: Successful JSON file creation of APM!
+2021-01-31 23:01:01,611 INFO: APO : JSON GET Request was a Success!
+2021-01-31 23:01:01,613 INFO: Successful JSON file creation of APO!
+2021-01-31 23:01:14,359 INFO: APOG : JSON GET Request was a Success!
+2021-01-31 23:01:14,361 INFO: Successful JSON file creation of APOG!
+2021-01-31 23:01:26,784 INFO: APOP : JSON GET Request was a Success!
+2021-01-31 23:01:26,786 INFO: Successful JSON file creation of APOP!
+2021-01-31 23:01:39,250 INFO: APPF : JSON GET Request was a Success!
+2021-01-31 23:01:39,252 INFO: Successful JSON file creation of APPF!
+2021-01-31 23:01:51,692 INFO: APPN : JSON GET Request was a Success!
+2021-01-31 23:01:51,693 INFO: Successful JSON file creation of APPN!
+2021-01-31 23:02:04,322 INFO: APPS : JSON GET Request was a Success!
+2021-01-31 23:02:04,324 INFO: Successful JSON file creation of APPS!
+2021-01-31 23:02:16,746 INFO: APRE : JSON GET Request was a Success!
+2021-01-31 23:02:16,748 INFO: Successful JSON file creation of APRE!
+2021-01-31 23:02:29,200 INFO: APRN : JSON GET Request was a Success!
+2021-01-31 23:02:29,202 INFO: Successful JSON file creation of APRN!
+2021-01-31 23:02:41,703 INFO: APSG : JSON GET Request was a Success!
+2021-01-31 23:02:41,704 INFO: Successful JSON file creation of APSG!
+2021-01-31 23:02:54,421 INFO: APT : JSON GET Request was a Success!
+2021-01-31 23:02:54,423 INFO: Successful JSON file creation of APT!
+2021-01-31 23:03:06,859 INFO: APTO : JSON GET Request was a Success!
+2021-01-31 23:03:06,861 INFO: Successful JSON file creation of APTO!
+2021-01-31 23:03:19,389 INFO: APTS : JSON GET Request was a Success!
+2021-01-31 23:03:19,391 INFO: Successful JSON file creation of APTS!
+2021-01-31 23:03:31,982 INFO: APTV : JSON GET Request was a Success!
+2021-01-31 23:03:31,984 INFO: Successful JSON file creation of APTV!
+2021-01-31 23:03:44,394 INFO: APTX : JSON GET Request was a Success!
+2021-01-31 23:03:44,396 INFO: Successful JSON file creation of APTX!
+2021-01-31 23:03:56,733 INFO: APVO : JSON GET Request was a Success!
+2021-01-31 23:03:56,735 INFO: Successful JSON file creation of APVO!
+2021-01-31 23:04:09,334 INFO: APWC : JSON GET Request was a Success!
+2021-01-31 23:04:09,335 INFO: Successful JSON file creation of APWC!
+2021-01-31 23:04:21,737 INFO: APXT : JSON GET Request was a Success!
+2021-01-31 23:04:21,739 INFO: Successful JSON file creation of APXT!
+2021-01-31 23:04:34,141 INFO: APYX : JSON GET Request was a Success!
+2021-01-31 23:04:34,143 INFO: Successful JSON file creation of APYX!
+2021-01-31 23:04:46,634 INFO: AQB : JSON GET Request was a Success!
+2021-01-31 23:04:46,636 INFO: Successful JSON file creation of AQB!
+2021-01-31 23:04:59,102 INFO: AQMS : JSON GET Request was a Success!
+2021-01-31 23:04:59,104 INFO: Successful JSON file creation of AQMS!
+2021-01-31 23:05:11,655 INFO: AQN : JSON GET Request was a Success!
+2021-01-31 23:05:11,657 INFO: Successful JSON file creation of AQN!
+2021-01-31 23:05:24,341 INFO: AQNA : JSON GET Request was a Success!
+2021-01-31 23:05:24,343 INFO: Successful JSON file creation of AQNA!
+2021-01-31 23:05:36,982 INFO: AQNB : JSON GET Request was a Success!
+2021-01-31 23:05:36,983 INFO: Successful JSON file creation of AQNB!
+2021-01-31 23:05:49,308 INFO: AQST : JSON GET Request was a Success!
+2021-01-31 23:05:49,310 INFO: Successful JSON file creation of AQST!
+2021-01-31 23:06:01,908 INFO: AQUA : JSON GET Request was a Success!
+2021-01-31 23:06:01,909 INFO: Successful JSON file creation of AQUA!
+2021-01-31 23:06:14,608 INFO: ARAV : JSON GET Request was a Success!
+2021-01-31 23:06:14,610 INFO: Successful JSON file creation of ARAV!
+2021-01-31 23:06:27,168 INFO: ARAY : JSON GET Request was a Success!
+2021-01-31 23:06:27,170 INFO: Successful JSON file creation of ARAY!
+2021-01-31 23:06:39,723 INFO: ARB : JSON GET Request was a Success!
+2021-01-31 23:06:39,725 INFO: Successful JSON file creation of ARB!
+2021-01-31 23:06:52,243 INFO: ARBG : JSON GET Request was a Success!
+2021-01-31 23:06:52,244 INFO: Successful JSON file creation of ARBG!
+2021-01-31 23:07:04,985 INFO: ARC : JSON GET Request was a Success!
+2021-01-31 23:07:04,987 INFO: Successful JSON file creation of ARC!
+2021-01-31 23:07:17,674 INFO: ARCB : JSON GET Request was a Success!
+2021-01-31 23:07:17,676 INFO: Successful JSON file creation of ARCB!
+2021-01-31 23:07:30,235 INFO: ARCC : JSON GET Request was a Success!
+2021-01-31 23:07:30,237 INFO: Successful JSON file creation of ARCC!
+2021-01-31 23:07:42,655 INFO: ARCE : JSON GET Request was a Success!
+2021-01-31 23:07:42,657 INFO: Successful JSON file creation of ARCE!
+2021-01-31 23:07:55,062 INFO: ARCH : JSON GET Request was a Success!
+2021-01-31 23:07:55,064 INFO: Successful JSON file creation of ARCH!
+2021-01-31 23:08:07,747 INFO: ARCM : JSON GET Request was a Success!
+2021-01-31 23:08:07,749 INFO: Successful JSON file creation of ARCM!
+2021-01-31 23:08:20,279 INFO: ARCO : JSON GET Request was a Success!
+2021-01-31 23:08:20,281 INFO: Successful JSON file creation of ARCO!
+2021-01-31 23:08:32,799 INFO: ARCT : JSON GET Request was a Success!
+2021-01-31 23:08:32,800 INFO: Successful JSON file creation of ARCT!
+2021-01-31 23:08:45,135 INFO: ARD : JSON GET Request was a Success!
+2021-01-31 23:08:45,137 INFO: Successful JSON file creation of ARD!
+2021-01-31 23:08:57,697 INFO: ARDC : JSON GET Request was a Success!
+2021-01-31 23:08:57,699 INFO: Successful JSON file creation of ARDC!
+2021-01-31 23:09:10,031 INFO: ARDS : JSON GET Request was a Success!
+2021-01-31 23:09:10,033 INFO: Successful JSON file creation of ARDS!
+2021-01-31 23:09:22,501 INFO: ARDX : JSON GET Request was a Success!
+2021-01-31 23:09:22,503 INFO: Successful JSON file creation of ARDX!
+2021-01-31 23:09:35,262 INFO: ARE : JSON GET Request was a Success!
+2021-01-31 23:09:35,264 INFO: Successful JSON file creation of ARE!
+2021-01-31 23:09:47,715 INFO: AREC : JSON GET Request was a Success!
+2021-01-31 23:09:47,717 INFO: Successful JSON file creation of AREC!
+2021-01-31 23:10:00,184 INFO: ARES : JSON GET Request was a Success!
+2021-01-31 23:10:00,186 INFO: Successful JSON file creation of ARES!
+2021-01-31 23:10:12,908 INFO: ARGD : JSON GET Request was a Success!
+2021-01-31 23:10:12,910 INFO: Successful JSON file creation of ARGD!
+2021-01-31 23:10:25,525 INFO: ARGO : JSON GET Request was a Success!
+2021-01-31 23:10:25,527 INFO: Successful JSON file creation of ARGO!
+2021-01-31 23:10:38,624 INFO: ARGT : JSON GET Request was a Success!
+2021-01-31 23:10:38,626 INFO: Successful JSON file creation of ARGT!
+2021-01-31 23:10:51,050 INFO: ARGX : JSON GET Request was a Success!
+2021-01-31 23:10:51,051 INFO: Successful JSON file creation of ARGX!
+2021-01-31 23:11:03,619 INFO: ARI : JSON GET Request was a Success!
+2021-01-31 23:11:03,621 INFO: Successful JSON file creation of ARI!
+2021-01-31 23:11:16,285 INFO: ARKF : JSON GET Request was a Success!
+2021-01-31 23:11:16,287 INFO: Successful JSON file creation of ARKF!
+2021-01-31 23:11:28,739 INFO: ARKG : JSON GET Request was a Success!
+2021-01-31 23:11:28,741 INFO: Successful JSON file creation of ARKG!
+2021-01-31 23:11:41,238 INFO: ARKK : JSON GET Request was a Success!
+2021-01-31 23:11:41,240 INFO: Successful JSON file creation of ARKK!
+2021-01-31 23:11:53,886 INFO: ARKO : JSON GET Request was a Success!
+2021-01-31 23:11:53,887 INFO: Successful JSON file creation of ARKO!
+2021-01-31 23:12:06,962 INFO: ARKQ : JSON GET Request was a Success!
+2021-01-31 23:12:06,964 INFO: Successful JSON file creation of ARKQ!
+2021-01-31 23:12:19,670 INFO: ARKR : JSON GET Request was a Success!
+2021-01-31 23:12:19,672 INFO: Successful JSON file creation of ARKR!
+2021-01-31 23:12:32,525 INFO: ARKW : JSON GET Request was a Success!
+2021-01-31 23:12:32,527 INFO: Successful JSON file creation of ARKW!
+2021-01-31 23:12:45,206 INFO: ARL : JSON GET Request was a Success!
+2021-01-31 23:12:45,208 INFO: Successful JSON file creation of ARL!
+2021-01-31 23:12:57,639 INFO: ARLO : JSON GET Request was a Success!
+2021-01-31 23:12:57,641 INFO: Successful JSON file creation of ARLO!
+2021-01-31 23:13:10,399 INFO: ARLP : JSON GET Request was a Success!
+2021-01-31 23:13:10,400 INFO: Successful JSON file creation of ARLP!
+2021-01-31 23:13:22,810 INFO: ARMK : JSON GET Request was a Success!
+2021-01-31 23:13:22,812 INFO: Successful JSON file creation of ARMK!
+2021-01-31 23:13:35,315 INFO: ARMP : JSON GET Request was a Success!
+2021-01-31 23:13:35,317 INFO: Successful JSON file creation of ARMP!
+2021-01-31 23:13:47,877 INFO: ARMR : JSON GET Request was a Success!
+2021-01-31 23:13:47,879 INFO: Successful JSON file creation of ARMR!
+2021-01-31 23:14:00,633 INFO: ARNA : JSON GET Request was a Success!
+2021-01-31 23:14:00,635 INFO: Successful JSON file creation of ARNA!
+2021-01-31 23:14:13,030 INFO: ARNC : JSON GET Request was a Success!
+2021-01-31 23:14:13,032 INFO: Successful JSON file creation of ARNC!
+2021-01-31 23:14:25,468 INFO: AROC : JSON GET Request was a Success!
+2021-01-31 23:14:25,470 INFO: Successful JSON file creation of AROC!
+2021-01-31 23:14:38,180 INFO: AROW : JSON GET Request was a Success!
+2021-01-31 23:14:38,182 INFO: Successful JSON file creation of AROW!
+2021-01-31 23:14:50,601 INFO: ARPO : JSON GET Request was a Success!
+2021-01-31 23:14:50,603 INFO: Successful JSON file creation of ARPO!
+2021-01-31 23:15:04,097 INFO: ARQT : JSON GET Request was a Success!
+2021-01-31 23:15:04,099 INFO: Successful JSON file creation of ARQT!
+2021-01-31 23:15:16,985 INFO: ARR : JSON GET Request was a Success!
+2021-01-31 23:15:16,987 INFO: Successful JSON file creation of ARR!
+2021-01-31 23:15:29,376 INFO: ARRY : JSON GET Request was a Success!
+2021-01-31 23:15:29,378 INFO: Successful JSON file creation of ARRY!
+2021-01-31 23:15:41,791 INFO: ARTL : JSON GET Request was a Success!
+2021-01-31 23:15:41,793 INFO: Successful JSON file creation of ARTL!
+2021-01-31 23:15:54,492 INFO: ARTW : JSON GET Request was a Success!
+2021-01-31 23:15:54,495 INFO: Successful JSON file creation of ARTW!
+2021-01-31 23:16:06,904 INFO: ARVN : JSON GET Request was a Success!
+2021-01-31 23:16:06,906 INFO: Successful JSON file creation of ARVN!
+2021-01-31 23:16:19,604 INFO: ARW : JSON GET Request was a Success!
+2021-01-31 23:16:19,605 INFO: Successful JSON file creation of ARW!
+2021-01-31 23:16:32,353 INFO: ARWR : JSON GET Request was a Success!
+2021-01-31 23:16:32,355 INFO: Successful JSON file creation of ARWR!
+2021-01-31 23:16:44,775 INFO: ARYA : JSON GET Request was a Success!
+2021-01-31 23:16:44,777 INFO: Successful JSON file creation of ARYA!
+2021-01-31 23:16:57,516 INFO: ASA : JSON GET Request was a Success!
+2021-01-31 23:16:57,518 INFO: Successful JSON file creation of ASA!
+2021-01-31 23:17:10,037 INFO: ASAN : JSON GET Request was a Success!
+2021-01-31 23:17:10,039 INFO: Successful JSON file creation of ASAN!
+2021-01-31 23:17:22,545 INFO: ASAQ : JSON GET Request was a Success!
+2021-01-31 23:17:22,547 INFO: Successful JSON file creation of ASAQ!
+2021-01-31 23:17:35,275 INFO: ASB : JSON GET Request was a Success!
+2021-01-31 23:17:35,277 INFO: Successful JSON file creation of ASB!
+2021-01-31 23:17:47,914 INFO: ASC : JSON GET Request was a Success!
+2021-01-31 23:17:47,916 INFO: Successful JSON file creation of ASC!
+2021-01-31 23:18:01,531 INFO: ASEA : JSON GET Request was a Success!
+2021-01-31 23:18:01,532 INFO: Successful JSON file creation of ASEA!
+2021-01-31 23:18:13,980 INFO: ASET : JSON GET Request was a Success!
+2021-01-31 23:18:13,982 INFO: Successful JSON file creation of ASET!
+2021-01-31 23:18:26,708 INFO: ASG : JSON GET Request was a Success!
+2021-01-31 23:18:26,710 INFO: Successful JSON file creation of ASG!
+2021-01-31 23:18:39,236 INFO: ASGI : JSON GET Request was a Success!
+2021-01-31 23:18:39,238 INFO: Successful JSON file creation of ASGI!
+2021-01-31 23:18:51,941 INFO: ASGN : JSON GET Request was a Success!
+2021-01-31 23:18:51,943 INFO: Successful JSON file creation of ASGN!
+2021-01-31 23:19:04,640 INFO: ASH : JSON GET Request was a Success!
+2021-01-31 23:19:04,641 INFO: Successful JSON file creation of ASH!
+2021-01-31 23:19:17,771 INFO: ASHR : JSON GET Request was a Success!
+2021-01-31 23:19:17,772 INFO: Successful JSON file creation of ASHR!
+2021-01-31 23:19:30,712 INFO: ASHS : JSON GET Request was a Success!
+2021-01-31 23:19:30,714 INFO: Successful JSON file creation of ASHS!
+2021-01-31 23:19:43,575 INFO: ASHX : JSON GET Request was a Success!
+2021-01-31 23:19:43,576 INFO: Successful JSON file creation of ASHX!
+2021-01-31 23:19:56,008 INFO: ASIX : JSON GET Request was a Success!
+2021-01-31 23:19:56,010 INFO: Successful JSON file creation of ASIX!
+2021-01-31 23:20:08,617 INFO: ASLE : JSON GET Request was a Success!
+2021-01-31 23:20:08,619 INFO: Successful JSON file creation of ASLE!
+2021-01-31 23:20:21,045 INFO: ASLN : JSON GET Request was a Success!
+2021-01-31 23:20:21,047 INFO: Successful JSON file creation of ASLN!
+2021-01-31 23:20:34,318 INFO: ASM : JSON GET Request was a Success!
+2021-01-31 23:20:34,320 INFO: Successful JSON file creation of ASM!
+2021-01-31 23:20:46,777 INFO: ASMB : JSON GET Request was a Success!
+2021-01-31 23:20:46,778 INFO: Successful JSON file creation of ASMB!
+2021-01-31 23:20:59,497 INFO: ASML : JSON GET Request was a Success!
+2021-01-31 23:20:59,498 INFO: Successful JSON file creation of ASML!
+2021-01-31 23:21:12,019 INFO: ASND : JSON GET Request was a Success!
+2021-01-31 23:21:12,021 INFO: Successful JSON file creation of ASND!
+2021-01-31 23:21:24,612 INFO: ASO : JSON GET Request was a Success!
+2021-01-31 23:21:24,614 INFO: Successful JSON file creation of ASO!
+2021-01-31 23:21:37,094 INFO: ASPL : JSON GET Request was a Success!
+2021-01-31 23:21:37,095 INFO: Successful JSON file creation of ASPL!
+2021-01-31 23:21:49,616 INFO: ASPN : JSON GET Request was a Success!
+2021-01-31 23:21:49,618 INFO: Successful JSON file creation of ASPN!
+2021-01-31 23:22:02,223 INFO: ASPS : JSON GET Request was a Success!
+2021-01-31 23:22:02,225 INFO: Successful JSON file creation of ASPS!
+2021-01-31 23:22:14,770 INFO: ASPU : JSON GET Request was a Success!
+2021-01-31 23:22:14,771 INFO: Successful JSON file creation of ASPU!
+2021-01-31 23:22:27,479 INFO: ASR : JSON GET Request was a Success!
+2021-01-31 23:22:27,481 INFO: Successful JSON file creation of ASR!
+2021-01-31 23:22:40,104 INFO: ASRT : JSON GET Request was a Success!
+2021-01-31 23:22:40,106 INFO: Successful JSON file creation of ASRT!
+2021-01-31 23:22:52,820 INFO: ASRV : JSON GET Request was a Success!
+2021-01-31 23:22:52,822 INFO: Successful JSON file creation of ASRV!
+2021-01-31 23:23:05,525 INFO: ASTC : JSON GET Request was a Success!
+2021-01-31 23:23:05,527 INFO: Successful JSON file creation of ASTC!
+2021-01-31 23:23:18,225 INFO: ASTE : JSON GET Request was a Success!
+2021-01-31 23:23:18,226 INFO: Successful JSON file creation of ASTE!
+2021-01-31 23:23:30,951 INFO: ASUR : JSON GET Request was a Success!
+2021-01-31 23:23:30,953 INFO: Successful JSON file creation of ASUR!
+2021-01-31 23:23:43,622 INFO: ASX : JSON GET Request was a Success!
+2021-01-31 23:23:43,625 INFO: Successful JSON file creation of ASX!
+2021-01-31 23:23:56,299 INFO: ASYS : JSON GET Request was a Success!
+2021-01-31 23:23:56,300 INFO: Successful JSON file creation of ASYS!
+2021-01-31 23:24:08,778 INFO: ATA : JSON GET Request was a Success!
+2021-01-31 23:24:08,778 INFO: Successful JSON file creation of ATA!
+2021-01-31 23:24:21,314 INFO: ATAC : JSON GET Request was a Success!
+2021-01-31 23:24:21,316 INFO: Successful JSON file creation of ATAC!
+2021-01-31 23:24:33,948 INFO: ATAX : JSON GET Request was a Success!
+2021-01-31 23:24:33,950 INFO: Successful JSON file creation of ATAX!
+2021-01-31 23:24:46,352 INFO: ATCO : JSON GET Request was a Success!
+2021-01-31 23:24:46,354 INFO: Successful JSON file creation of ATCO!
+2021-01-31 23:24:58,854 INFO: ATCX : JSON GET Request was a Success!
+2021-01-31 23:24:58,856 INFO: Successful JSON file creation of ATCX!
+2021-01-31 23:25:11,451 INFO: ATEC : JSON GET Request was a Success!
+2021-01-31 23:25:11,453 INFO: Successful JSON file creation of ATEC!
+2021-01-31 23:25:23,932 INFO: ATEN : JSON GET Request was a Success!
+2021-01-31 23:25:23,934 INFO: Successful JSON file creation of ATEN!
+2021-01-31 23:25:36,412 INFO: ATEX : JSON GET Request was a Success!
+2021-01-31 23:25:36,414 INFO: Successful JSON file creation of ATEX!
+2021-01-31 23:25:49,178 INFO: ATGE : JSON GET Request was a Success!
+2021-01-31 23:25:49,180 INFO: Successful JSON file creation of ATGE!
+2021-01-31 23:26:01,563 INFO: ATH : JSON GET Request was a Success!
+2021-01-31 23:26:01,565 INFO: Successful JSON file creation of ATH!
+2021-01-31 23:26:13,962 INFO: ATHA : JSON GET Request was a Success!
+2021-01-31 23:26:13,964 INFO: Successful JSON file creation of ATHA!
+2021-01-31 23:26:26,672 INFO: ATHE : JSON GET Request was a Success!
+2021-01-31 23:26:26,673 INFO: Successful JSON file creation of ATHE!
+2021-01-31 23:26:39,217 INFO: ATHM : JSON GET Request was a Success!
+2021-01-31 23:26:39,219 INFO: Successful JSON file creation of ATHM!
+2021-01-31 23:26:51,831 INFO: ATHX : JSON GET Request was a Success!
+2021-01-31 23:26:51,833 INFO: Successful JSON file creation of ATHX!
+2021-01-31 23:27:04,605 INFO: ATI : JSON GET Request was a Success!
+2021-01-31 23:27:04,607 INFO: Successful JSON file creation of ATI!
+2021-01-31 23:27:17,015 INFO: ATIF : JSON GET Request was a Success!
+2021-01-31 23:27:17,017 INFO: Successful JSON file creation of ATIF!
+2021-01-31 23:27:29,519 INFO: ATKR : JSON GET Request was a Success!
+2021-01-31 23:27:29,521 INFO: Successful JSON file creation of ATKR!
+2021-01-31 23:27:42,249 INFO: ATLC : JSON GET Request was a Success!
+2021-01-31 23:27:42,251 INFO: Successful JSON file creation of ATLC!
+2021-01-31 23:27:54,958 INFO: ATLO : JSON GET Request was a Success!
+2021-01-31 23:27:54,960 INFO: Successful JSON file creation of ATLO!
+2021-01-31 23:28:07,986 INFO: ATMP : JSON GET Request was a Success!
+2021-01-31 23:28:07,988 INFO: Successful JSON file creation of ATMP!
+2021-01-31 23:28:20,405 INFO: ATNF : JSON GET Request was a Success!
+2021-01-31 23:28:20,407 INFO: Successful JSON file creation of ATNF!
+2021-01-31 23:28:33,041 INFO: ATNI : JSON GET Request was a Success!
+2021-01-31 23:28:33,043 INFO: Successful JSON file creation of ATNI!
+2021-01-31 23:28:45,568 INFO: ATNM : JSON GET Request was a Success!
+2021-01-31 23:28:45,570 INFO: Successful JSON file creation of ATNM!
+2021-01-31 23:28:58,046 INFO: ATNX : JSON GET Request was a Success!
+2021-01-31 23:28:58,048 INFO: Successful JSON file creation of ATNX!
+2021-01-31 23:29:10,805 INFO: ATO : JSON GET Request was a Success!
+2021-01-31 23:29:10,807 INFO: Successful JSON file creation of ATO!
+2021-01-31 23:29:23,261 INFO: ATOM : JSON GET Request was a Success!
+2021-01-31 23:29:23,262 INFO: Successful JSON file creation of ATOM!
+2021-01-31 23:29:35,764 INFO: ATOS : JSON GET Request was a Success!
+2021-01-31 23:29:35,765 INFO: Successful JSON file creation of ATOS!
+2021-01-31 23:29:48,524 INFO: ATR : JSON GET Request was a Success!
+2021-01-31 23:29:48,525 INFO: Successful JSON file creation of ATR!
+2021-01-31 23:30:02,778 INFO: ATRA : JSON GET Request was a Success!
+2021-01-31 23:30:02,779 INFO: Successful JSON file creation of ATRA!
+2021-01-31 23:30:15,384 INFO: ATRC : JSON GET Request was a Success!
+2021-01-31 23:30:15,386 INFO: Successful JSON file creation of ATRC!
+2021-01-31 23:30:28,104 INFO: ATRI : JSON GET Request was a Success!
+2021-01-31 23:30:28,106 INFO: Successful JSON file creation of ATRI!
+2021-01-31 23:30:40,961 INFO: ATRO : JSON GET Request was a Success!
+2021-01-31 23:30:40,963 INFO: Successful JSON file creation of ATRO!
+2021-01-31 23:30:53,672 INFO: ATRS : JSON GET Request was a Success!
+2021-01-31 23:30:53,674 INFO: Successful JSON file creation of ATRS!
+2021-01-31 23:31:06,452 INFO: ATSG : JSON GET Request was a Success!
+2021-01-31 23:31:06,454 INFO: Successful JSON file creation of ATSG!
+2021-01-31 23:31:18,905 INFO: ATTO : JSON GET Request was a Success!
+2021-01-31 23:31:18,907 INFO: Successful JSON file creation of ATTO!
+2021-01-31 23:31:31,339 INFO: ATUS : JSON GET Request was a Success!
+2021-01-31 23:31:31,341 INFO: Successful JSON file creation of ATUS!
+2021-01-31 23:31:43,964 INFO: ATV : JSON GET Request was a Success!
+2021-01-31 23:31:43,966 INFO: Successful JSON file creation of ATV!
+2021-01-31 23:31:56,774 INFO: ATVI : JSON GET Request was a Success!
+2021-01-31 23:31:56,775 INFO: Successful JSON file creation of ATVI!
+2021-01-31 23:32:09,193 INFO: ATXI : JSON GET Request was a Success!
+2021-01-31 23:32:09,195 INFO: Successful JSON file creation of ATXI!
+2021-01-31 23:32:21,943 INFO: AUB : JSON GET Request was a Success!
+2021-01-31 23:32:21,945 INFO: Successful JSON file creation of AUB!
+2021-01-31 23:32:34,679 INFO: AUBN : JSON GET Request was a Success!
+2021-01-31 23:32:34,682 INFO: Successful JSON file creation of AUBN!
+2021-01-31 23:32:47,679 INFO: AUDC : JSON GET Request was a Success!
+2021-01-31 23:32:47,681 INFO: Successful JSON file creation of AUDC!
+2021-01-31 23:33:00,187 INFO: AUGZ : JSON GET Request was a Success!
+2021-01-31 23:33:00,189 INFO: Successful JSON file creation of AUGZ!
+2021-01-31 23:33:12,765 INFO: AUMN : JSON GET Request was a Success!
+2021-01-31 23:33:12,766 INFO: Successful JSON file creation of AUMN!
+2021-01-31 23:33:25,264 INFO: AUPH : JSON GET Request was a Success!
+2021-01-31 23:33:25,266 INFO: Successful JSON file creation of AUPH!
+2021-01-31 23:33:38,267 INFO: AUSF : JSON GET Request was a Success!
+2021-01-31 23:33:38,268 INFO: Successful JSON file creation of AUSF!
+2021-01-31 23:33:50,700 INFO: AUTL : JSON GET Request was a Success!
+2021-01-31 23:33:50,702 INFO: Successful JSON file creation of AUTL!
+2021-01-31 23:34:03,352 INFO: AUTO : JSON GET Request was a Success!
+2021-01-31 23:34:03,354 INFO: Successful JSON file creation of AUTO!
+2021-01-31 23:34:15,890 INFO: AUVI : JSON GET Request was a Success!
+2021-01-31 23:34:15,892 INFO: Successful JSON file creation of AUVI!
+2021-01-31 23:34:28,571 INFO: AUY : JSON GET Request was a Success!
+2021-01-31 23:34:28,572 INFO: Successful JSON file creation of AUY!
+2021-01-31 23:34:41,294 INFO: AVA : JSON GET Request was a Success!
+2021-01-31 23:34:41,296 INFO: Successful JSON file creation of AVA!
+2021-01-31 23:34:53,712 INFO: AVAL : JSON GET Request was a Success!
+2021-01-31 23:34:53,714 INFO: Successful JSON file creation of AVAL!
+2021-01-31 23:35:06,184 INFO: AVAN : JSON GET Request was a Success!
+2021-01-31 23:35:06,185 INFO: Successful JSON file creation of AVAN!
+2021-01-31 23:35:18,723 INFO: AVAV : JSON GET Request was a Success!
+2021-01-31 23:35:18,724 INFO: Successful JSON file creation of AVAV!
+2021-01-31 23:35:31,448 INFO: AVB : JSON GET Request was a Success!
+2021-01-31 23:35:31,450 INFO: Successful JSON file creation of AVB!
+2021-01-31 23:35:43,927 INFO: AVCO : JSON GET Request was a Success!
+2021-01-31 23:35:43,929 INFO: Successful JSON file creation of AVCO!
+2021-01-31 23:35:56,348 INFO: AVCT : JSON GET Request was a Success!
+2021-01-31 23:35:56,350 INFO: Successful JSON file creation of AVCT!
+2021-01-31 23:36:09,140 INFO: AVD : JSON GET Request was a Success!
+2021-01-31 23:36:09,142 INFO: Successful JSON file creation of AVD!
+2021-01-31 23:36:21,798 INFO: AVDE : JSON GET Request was a Success!
+2021-01-31 23:36:21,800 INFO: Successful JSON file creation of AVDE!
+2021-01-31 23:36:34,279 INFO: AVDG : JSON GET Request was a Success!
+2021-01-31 23:36:34,280 INFO: Successful JSON file creation of AVDG!
+2021-01-31 23:36:46,856 INFO: AVDL : JSON GET Request was a Success!
+2021-01-31 23:36:46,858 INFO: Successful JSON file creation of AVDL!
+2021-01-31 23:36:59,306 INFO: AVDR : JSON GET Request was a Success!
+2021-01-31 23:36:59,306 INFO: Successful JSON file creation of AVDR!
+2021-01-31 23:37:11,905 INFO: AVDV : JSON GET Request was a Success!
+2021-01-31 23:37:11,907 INFO: Successful JSON file creation of AVDV!
+2021-01-31 23:37:24,494 INFO: AVEM : JSON GET Request was a Success!
+2021-01-31 23:37:24,496 INFO: Successful JSON file creation of AVEM!
+2021-01-31 23:37:37,088 INFO: AVEO : JSON GET Request was a Success!
+2021-01-31 23:37:37,090 INFO: Successful JSON file creation of AVEO!
+2021-01-31 23:37:49,642 INFO: AVGO : JSON GET Request was a Success!
+2021-01-31 23:37:49,644 INFO: Successful JSON file creation of AVGO!
+2021-01-31 23:38:02,219 INFO: AVGR : JSON GET Request was a Success!
+2021-01-31 23:38:02,221 INFO: Successful JSON file creation of AVGR!
+2021-01-31 23:38:14,953 INFO: AVID : JSON GET Request was a Success!
+2021-01-31 23:38:14,955 INFO: Successful JSON file creation of AVID!
+2021-01-31 23:38:27,527 INFO: AVIG : JSON GET Request was a Success!
+2021-01-31 23:38:27,529 INFO: Successful JSON file creation of AVIG!
+2021-01-31 23:38:40,068 INFO: AVIR : JSON GET Request was a Success!
+2021-01-31 23:38:40,070 INFO: Successful JSON file creation of AVIR!
+2021-01-31 23:38:52,738 INFO: AVK : JSON GET Request was a Success!
+2021-01-31 23:38:52,740 INFO: Successful JSON file creation of AVK!
+2021-01-31 23:39:05,154 INFO: AVLR : JSON GET Request was a Success!
+2021-01-31 23:39:05,156 INFO: Successful JSON file creation of AVLR!
+2021-01-31 23:39:17,641 INFO: AVMU : JSON GET Request was a Success!
+2021-01-31 23:39:17,642 INFO: Successful JSON file creation of AVMU!
+2021-01-31 23:39:30,004 INFO: AVNS : JSON GET Request was a Success!
+2021-01-31 23:39:30,006 INFO: Successful JSON file creation of AVNS!
+2021-01-31 23:39:42,747 INFO: AVNT : JSON GET Request was a Success!
+2021-01-31 23:39:42,749 INFO: Successful JSON file creation of AVNT!
+2021-01-31 23:39:55,408 INFO: AVNW : JSON GET Request was a Success!
+2021-01-31 23:39:55,410 INFO: Successful JSON file creation of AVNW!
+2021-01-31 23:40:07,810 INFO: AVO : JSON GET Request was a Success!
+2021-01-31 23:40:07,812 INFO: Successful JSON file creation of AVO!
+2021-01-31 23:40:20,228 INFO: AVRO : JSON GET Request was a Success!
+2021-01-31 23:40:20,230 INFO: Successful JSON file creation of AVRO!
+2021-01-31 23:40:32,807 INFO: AVSF : JSON GET Request was a Success!
+2021-01-31 23:40:32,809 INFO: Successful JSON file creation of AVSF!
+2021-01-31 23:40:45,732 INFO: AVT : JSON GET Request was a Success!
+2021-01-31 23:40:45,734 INFO: Successful JSON file creation of AVT!
+2021-01-31 23:40:58,130 INFO: AVTR : JSON GET Request was a Success!
+2021-01-31 23:40:58,132 INFO: Successful JSON file creation of AVTR!
+2021-01-31 23:41:10,766 INFO: AVUS : JSON GET Request was a Success!
+2021-01-31 23:41:10,767 INFO: Successful JSON file creation of AVUS!
+2021-01-31 23:41:23,292 INFO: AVUV : JSON GET Request was a Success!
+2021-01-31 23:41:23,294 INFO: Successful JSON file creation of AVUV!
+2021-01-31 23:41:35,866 INFO: AVXL : JSON GET Request was a Success!
+2021-01-31 23:41:35,867 INFO: Successful JSON file creation of AVXL!
+2021-01-31 23:41:48,526 INFO: AVY : JSON GET Request was a Success!
+2021-01-31 23:41:48,528 INFO: Successful JSON file creation of AVY!
+2021-01-31 23:42:01,026 INFO: AVYA : JSON GET Request was a Success!
+2021-01-31 23:42:01,027 INFO: Successful JSON file creation of AVYA!
+2021-01-31 23:42:13,934 INFO: AWAY : JSON GET Request was a Success!
+2021-01-31 23:42:13,936 INFO: Successful JSON file creation of AWAY!
+2021-01-31 23:42:26,621 INFO: AWF : JSON GET Request was a Success!
+2021-01-31 23:42:26,622 INFO: Successful JSON file creation of AWF!
+2021-01-31 23:42:39,240 INFO: AWH : JSON GET Request was a Success!
+2021-01-31 23:42:39,242 INFO: Successful JSON file creation of AWH!
+2021-01-31 23:42:51,819 INFO: AWI : JSON GET Request was a Success!
+2021-01-31 23:42:51,820 INFO: Successful JSON file creation of AWI!
+2021-01-31 23:43:04,553 INFO: AWK : JSON GET Request was a Success!
+2021-01-31 23:43:04,555 INFO: Successful JSON file creation of AWK!
+2021-01-31 23:43:17,230 INFO: AWP : JSON GET Request was a Success!
+2021-01-31 23:43:17,232 INFO: Successful JSON file creation of AWP!
+2021-01-31 23:43:29,947 INFO: AWR : JSON GET Request was a Success!
+2021-01-31 23:43:29,949 INFO: Successful JSON file creation of AWR!
+2021-01-31 23:43:42,699 INFO: AWRE : JSON GET Request was a Success!
+2021-01-31 23:43:42,701 INFO: Successful JSON file creation of AWRE!
+2021-01-31 23:43:55,335 INFO: AWTM : JSON GET Request was a Success!
+2021-01-31 23:43:55,337 INFO: Successful JSON file creation of AWTM!
+2021-01-31 23:44:08,137 INFO: AWX : JSON GET Request was a Success!
+2021-01-31 23:44:08,139 INFO: Successful JSON file creation of AWX!
+2021-01-31 23:44:20,902 INFO: AXAS : JSON GET Request was a Success!
+2021-01-31 23:44:20,904 INFO: Successful JSON file creation of AXAS!
+2021-01-31 23:44:33,592 INFO: AXDX : JSON GET Request was a Success!
+2021-01-31 23:44:33,594 INFO: Successful JSON file creation of AXDX!
+2021-01-31 23:44:46,280 INFO: AXGN : JSON GET Request was a Success!
+2021-01-31 23:44:46,282 INFO: Successful JSON file creation of AXGN!
+2021-01-31 23:44:58,940 INFO: AXL : JSON GET Request was a Success!
+2021-01-31 23:44:58,942 INFO: Successful JSON file creation of AXL!
+2021-01-31 23:45:11,333 INFO: AXLA : JSON GET Request was a Success!
+2021-01-31 23:45:11,335 INFO: Successful JSON file creation of AXLA!
+2021-01-31 23:45:23,751 INFO: AXNX : JSON GET Request was a Success!
+2021-01-31 23:45:23,753 INFO: Successful JSON file creation of AXNX!
+2021-01-31 23:45:36,496 INFO: AXO : JSON GET Request was a Success!
+2021-01-31 23:45:36,498 INFO: Successful JSON file creation of AXO!
+2021-01-31 23:45:50,064 INFO: AXON : JSON GET Request was a Success!
+2021-01-31 23:45:50,066 INFO: Successful JSON file creation of AXON!
+2021-01-31 23:46:02,804 INFO: AXP : JSON GET Request was a Success!
+2021-01-31 23:46:02,806 INFO: Successful JSON file creation of AXP!
+2021-01-31 23:46:15,541 INFO: AXR : JSON GET Request was a Success!
+2021-01-31 23:46:15,544 INFO: Successful JSON file creation of AXR!
+2021-01-31 23:46:28,237 INFO: AXS : JSON GET Request was a Success!
+2021-01-31 23:46:28,239 INFO: Successful JSON file creation of AXS!
+2021-01-31 23:46:40,581 INFO: AXSM : JSON GET Request was a Success!
+2021-01-31 23:46:40,583 INFO: Successful JSON file creation of AXSM!
+2021-01-31 23:46:53,091 INFO: AXTA : JSON GET Request was a Success!
+2021-01-31 23:46:53,093 INFO: Successful JSON file creation of AXTA!
+2021-01-31 23:47:05,922 INFO: AXTI : JSON GET Request was a Success!
+2021-01-31 23:47:05,924 INFO: Successful JSON file creation of AXTI!
+2021-01-31 23:47:18,535 INFO: AXU : JSON GET Request was a Success!
+2021-01-31 23:47:18,537 INFO: Successful JSON file creation of AXU!
+2021-01-31 23:47:31,590 INFO: AYI : JSON GET Request was a Success!
+2021-01-31 23:47:31,592 INFO: Successful JSON file creation of AYI!
+2021-01-31 23:47:43,996 INFO: AYLA : JSON GET Request was a Success!
+2021-01-31 23:47:43,997 INFO: Successful JSON file creation of AYLA!
+2021-01-31 23:47:56,318 INFO: AYRO : JSON GET Request was a Success!
+2021-01-31 23:47:56,320 INFO: Successful JSON file creation of AYRO!
+2021-01-31 23:48:09,036 INFO: AYTU : JSON GET Request was a Success!
+2021-01-31 23:48:09,038 INFO: Successful JSON file creation of AYTU!
+2021-01-31 23:48:21,451 INFO: AYX : JSON GET Request was a Success!
+2021-01-31 23:48:21,452 INFO: Successful JSON file creation of AYX!
+2021-01-31 23:48:34,021 INFO: AZAA : JSON GET Request was a Success!
+2021-01-31 23:48:34,023 INFO: Successful JSON file creation of AZAA!
+2021-01-31 23:48:46,467 INFO: AZAJ : JSON GET Request was a Success!
+2021-01-31 23:48:46,468 INFO: Successful JSON file creation of AZAJ!
+2021-01-31 23:48:58,927 INFO: AZAL : JSON GET Request was a Success!
+2021-01-31 23:48:58,928 INFO: Successful JSON file creation of AZAL!
+2021-01-31 23:49:11,460 INFO: AZAO : JSON GET Request was a Success!
+2021-01-31 23:49:11,461 INFO: Successful JSON file creation of AZAO!
+2021-01-31 23:49:23,904 INFO: AZBA : JSON GET Request was a Success!
+2021-01-31 23:49:23,906 INFO: Successful JSON file creation of AZBA!
+2021-01-31 23:49:36,489 INFO: AZBJ : JSON GET Request was a Success!
+2021-01-31 23:49:36,490 INFO: Successful JSON file creation of AZBJ!
+2021-01-31 23:49:49,083 INFO: AZBL : JSON GET Request was a Success!
+2021-01-31 23:49:49,085 INFO: Successful JSON file creation of AZBL!
+2021-01-31 23:50:01,613 INFO: AZBO : JSON GET Request was a Success!
+2021-01-31 23:50:01,615 INFO: Successful JSON file creation of AZBO!
+2021-01-31 23:50:14,008 INFO: AZEK : JSON GET Request was a Success!
+2021-01-31 23:50:14,010 INFO: Successful JSON file creation of AZEK!
+2021-01-31 23:50:26,747 INFO: AZN : JSON GET Request was a Success!
+2021-01-31 23:50:26,749 INFO: Successful JSON file creation of AZN!
+2021-01-31 23:50:39,438 INFO: AZO : JSON GET Request was a Success!
+2021-01-31 23:50:39,440 INFO: Successful JSON file creation of AZO!
+2021-01-31 23:50:52,101 INFO: AZPN : JSON GET Request was a Success!
+2021-01-31 23:50:52,103 INFO: Successful JSON file creation of AZPN!
+2021-01-31 23:51:04,540 INFO: AZRE : JSON GET Request was a Success!
+2021-01-31 23:51:04,542 INFO: Successful JSON file creation of AZRE!
+2021-01-31 23:51:17,018 INFO: AZRX : JSON GET Request was a Success!
+2021-01-31 23:51:17,020 INFO: Successful JSON file creation of AZRX!
+2021-01-31 23:51:29,486 INFO: AZUL : JSON GET Request was a Success!
+2021-01-31 23:51:29,488 INFO: Successful JSON file creation of AZUL!
+2021-01-31 23:51:41,887 INFO: AZYO : JSON GET Request was a Success!
+2021-01-31 23:51:41,889 INFO: Successful JSON file creation of AZYO!
+2021-01-31 23:51:54,592 INFO: AZZ : JSON GET Request was a Success!
+2021-01-31 23:51:54,594 INFO: Successful JSON file creation of AZZ!
+2021-01-31 23:52:07,951 INFO: BAB : JSON GET Request was a Success!
+2021-01-31 23:52:07,953 INFO: Successful JSON file creation of BAB!
+2021-01-31 23:52:20,333 INFO: BABA : JSON GET Request was a Success!
+2021-01-31 23:52:20,335 INFO: Successful JSON file creation of BABA!
+2021-01-31 23:52:33,085 INFO: BAC : JSON GET Request was a Success!
+2021-01-31 23:52:33,087 INFO: Successful JSON file creation of BAC!
+2021-01-31 23:52:45,755 INFO: BAF : JSON GET Request was a Success!
+2021-01-31 23:52:45,757 INFO: Successful JSON file creation of BAF!
+2021-01-31 23:52:58,247 INFO: BAH : JSON GET Request was a Success!
+2021-01-31 23:52:58,249 INFO: Successful JSON file creation of BAH!
+2021-01-31 23:53:11,029 INFO: BAK : JSON GET Request was a Success!
+2021-01-31 23:53:11,031 INFO: Successful JSON file creation of BAK!
+2021-01-31 23:53:23,456 INFO: BAL : JSON GET Request was a Success!
+2021-01-31 23:53:23,458 INFO: Successful JSON file creation of BAL!
+2021-01-31 23:53:35,997 INFO: BALY : JSON GET Request was a Success!
+2021-01-31 23:53:35,999 INFO: Successful JSON file creation of BALY!
+2021-01-31 23:53:48,667 INFO: BAM : JSON GET Request was a Success!
+2021-01-31 23:53:48,668 INFO: Successful JSON file creation of BAM!
+2021-01-31 23:54:01,165 INFO: BAMH : JSON GET Request was a Success!
+2021-01-31 23:54:01,167 INFO: Successful JSON file creation of BAMH!
+2021-01-31 23:54:13,613 INFO: BAMI : JSON GET Request was a Success!
+2021-01-31 23:54:13,614 INFO: Successful JSON file creation of BAMI!
+2021-01-31 23:54:26,229 INFO: BANC : JSON GET Request was a Success!
+2021-01-31 23:54:26,231 INFO: Successful JSON file creation of BANC!
+2021-01-31 23:54:38,672 INFO: BAND : JSON GET Request was a Success!
+2021-01-31 23:54:38,674 INFO: Successful JSON file creation of BAND!
+2021-01-31 23:54:51,271 INFO: BANF : JSON GET Request was a Success!
+2021-01-31 23:54:51,273 INFO: Successful JSON file creation of BANF!
+2021-01-31 23:55:03,990 INFO: BANR : JSON GET Request was a Success!
+2021-01-31 23:55:03,992 INFO: Successful JSON file creation of BANR!
+2021-01-31 23:55:16,506 INFO: BANX : JSON GET Request was a Success!
+2021-01-31 23:55:16,508 INFO: Successful JSON file creation of BANX!
+2021-01-31 23:55:29,304 INFO: BAP : JSON GET Request was a Success!
+2021-01-31 23:55:29,306 INFO: Successful JSON file creation of BAP!
+2021-01-31 23:55:41,960 INFO: BAPR : JSON GET Request was a Success!
+2021-01-31 23:55:41,962 INFO: Successful JSON file creation of BAPR!
+2021-01-31 23:55:54,695 INFO: BAR : JSON GET Request was a Success!
+2021-01-31 23:55:54,697 INFO: Successful JSON file creation of BAR!
+2021-01-31 23:56:07,421 INFO: BASI : JSON GET Request was a Success!
+2021-01-31 23:56:07,423 INFO: Successful JSON file creation of BASI!
+2021-01-31 23:56:19,846 INFO: BATL : JSON GET Request was a Success!
+2021-01-31 23:56:19,848 INFO: Successful JSON file creation of BATL!
+2021-01-31 23:56:32,530 INFO: BATT : JSON GET Request was a Success!
+2021-01-31 23:56:32,532 INFO: Successful JSON file creation of BATT!
+2021-01-31 23:56:45,080 INFO: BAUG : JSON GET Request was a Success!
+2021-01-31 23:56:45,081 INFO: Successful JSON file creation of BAUG!
+2021-01-31 23:56:57,795 INFO: BAX : JSON GET Request was a Success!
+2021-01-31 23:56:57,797 INFO: Successful JSON file creation of BAX!
+2021-01-31 23:57:10,507 INFO: BBAR : JSON GET Request was a Success!
+2021-01-31 23:57:10,509 INFO: Successful JSON file creation of BBAR!
+2021-01-31 23:57:23,223 INFO: BBAX : JSON GET Request was a Success!
+2021-01-31 23:57:23,224 INFO: Successful JSON file creation of BBAX!
+2021-01-31 23:57:35,885 INFO: BBBY : JSON GET Request was a Success!
+2021-01-31 23:57:35,887 INFO: Successful JSON file creation of BBBY!
+2021-01-31 23:57:48,780 INFO: BBC : JSON GET Request was a Success!
+2021-01-31 23:57:48,782 INFO: Successful JSON file creation of BBC!
+2021-01-31 23:58:01,461 INFO: BBCA : JSON GET Request was a Success!
+2021-01-31 23:58:01,463 INFO: Successful JSON file creation of BBCA!
+2021-01-31 23:58:13,889 INFO: BBCP : JSON GET Request was a Success!
+2021-01-31 23:58:13,891 INFO: Successful JSON file creation of BBCP!
+2021-01-31 23:58:26,539 INFO: BBD : JSON GET Request was a Success!
+2021-01-31 23:58:26,541 INFO: Successful JSON file creation of BBD!
+2021-01-31 23:58:38,953 INFO: BBDC : JSON GET Request was a Success!
+2021-01-31 23:58:38,955 INFO: Successful JSON file creation of BBDC!
+2021-01-31 23:58:51,450 INFO: BBDO : JSON GET Request was a Success!
+2021-01-31 23:58:51,452 INFO: Successful JSON file creation of BBDO!
+2021-01-31 23:59:04,175 INFO: BBEU : JSON GET Request was a Success!
+2021-01-31 23:59:04,176 INFO: Successful JSON file creation of BBEU!
+2021-01-31 23:59:18,086 INFO: BBF : JSON GET Request was a Success!
+2021-01-31 23:59:18,088 INFO: Successful JSON file creation of BBF!
+2021-01-31 23:59:30,809 INFO: BBGI : JSON GET Request was a Success!
+2021-01-31 23:59:30,811 INFO: Successful JSON file creation of BBGI!
+2021-01-31 23:59:44,776 INFO: BBH : JSON GET Request was a Success!
+2021-01-31 23:59:44,778 INFO: Successful JSON file creation of BBH!
+2021-01-31 23:59:57,538 INFO: BBI : JSON GET Request was a Success!
+2021-01-31 23:59:57,540 INFO: Successful JSON file creation of BBI!
+2021-02-01 00:00:09,883 INFO: BBIG : JSON GET Request was a Success!
+2021-02-01 00:00:09,885 INFO: Successful JSON file creation of BBIG!
+2021-02-01 00:00:22,465 INFO: BBIN : JSON GET Request was a Success!
+2021-02-01 00:00:22,467 INFO: Successful JSON file creation of BBIN!
+2021-02-01 00:00:34,878 INFO: BBIO : JSON GET Request was a Success!
+2021-02-01 00:00:34,880 INFO: Successful JSON file creation of BBIO!
+2021-02-01 00:00:47,576 INFO: BBJP : JSON GET Request was a Success!
+2021-02-01 00:00:47,578 INFO: Successful JSON file creation of BBJP!
+2021-02-01 00:01:01,503 INFO: BBK : JSON GET Request was a Success!
+2021-02-01 00:01:01,505 INFO: Successful JSON file creation of BBK!
+2021-02-01 00:01:14,185 INFO: BBL : JSON GET Request was a Success!
+2021-02-01 00:01:14,187 INFO: Successful JSON file creation of BBL!
+2021-02-01 00:01:26,738 INFO: BBMC : JSON GET Request was a Success!
+2021-02-01 00:01:26,740 INFO: Successful JSON file creation of BBMC!
+2021-02-01 00:01:39,180 INFO: BBN : JSON GET Request was a Success!
+2021-02-01 00:01:39,182 INFO: Successful JSON file creation of BBN!
+2021-02-01 00:01:51,644 INFO: BBP : JSON GET Request was a Success!
+2021-02-01 00:01:51,646 INFO: Successful JSON file creation of BBP!
+2021-02-01 00:02:04,360 INFO: BBQ : JSON GET Request was a Success!
+2021-02-01 00:02:04,362 INFO: Successful JSON file creation of BBQ!
+2021-02-01 00:02:17,113 INFO: BBRE : JSON GET Request was a Success!
+2021-02-01 00:02:17,115 INFO: Successful JSON file creation of BBRE!
+2021-02-01 00:02:29,740 INFO: BBSA : JSON GET Request was a Success!
+2021-02-01 00:02:29,742 INFO: Successful JSON file creation of BBSA!
+2021-02-01 00:02:42,220 INFO: BBSC : JSON GET Request was a Success!
+2021-02-01 00:02:42,221 INFO: Successful JSON file creation of BBSC!
+2021-02-01 00:02:54,830 INFO: BBSI : JSON GET Request was a Success!
+2021-02-01 00:02:54,832 INFO: Successful JSON file creation of BBSI!
+2021-02-01 00:03:07,681 INFO: BBU : JSON GET Request was a Success!
+2021-02-01 00:03:07,683 INFO: Successful JSON file creation of BBU!
+2021-02-01 00:03:20,327 INFO: BBUS : JSON GET Request was a Success!
+2021-02-01 00:03:20,329 INFO: Successful JSON file creation of BBUS!
+2021-02-01 00:03:33,089 INFO: BBVA : JSON GET Request was a Success!
+2021-02-01 00:03:33,091 INFO: Successful JSON file creation of BBVA!
+2021-02-01 00:03:45,863 INFO: BBW : JSON GET Request was a Success!
+2021-02-01 00:03:45,865 INFO: Successful JSON file creation of BBW!
+2021-02-01 00:03:58,529 INFO: BBY : JSON GET Request was a Success!
+2021-02-01 00:03:58,531 INFO: Successful JSON file creation of BBY!
+2021-02-01 00:04:10,911 INFO: BCAB : JSON GET Request was a Success!
+2021-02-01 00:04:10,912 INFO: Successful JSON file creation of BCAB!
+2021-02-01 00:04:23,757 INFO: BCAT : JSON GET Request was a Success!
+2021-02-01 00:04:23,758 INFO: Successful JSON file creation of BCAT!
+2021-02-01 00:04:36,345 INFO: BCBP : JSON GET Request was a Success!
+2021-02-01 00:04:36,347 INFO: Successful JSON file creation of BCBP!
+2021-02-01 00:04:48,827 INFO: BCC : JSON GET Request was a Success!
+2021-02-01 00:04:48,829 INFO: Successful JSON file creation of BCC!
+2021-02-01 00:05:01,623 INFO: BCD : JSON GET Request was a Success!
+2021-02-01 00:05:01,625 INFO: Successful JSON file creation of BCD!
+2021-02-01 00:05:14,148 INFO: BCDA : JSON GET Request was a Success!
+2021-02-01 00:05:14,150 INFO: Successful JSON file creation of BCDA!
+2021-02-01 00:05:26,850 INFO: BCE : JSON GET Request was a Success!
+2021-02-01 00:05:26,852 INFO: Successful JSON file creation of BCE!
+2021-02-01 00:05:39,284 INFO: BCEI : JSON GET Request was a Success!
+2021-02-01 00:05:39,286 INFO: Successful JSON file creation of BCEI!
+2021-02-01 00:05:51,696 INFO: BCEL : JSON GET Request was a Success!
+2021-02-01 00:05:51,698 INFO: Successful JSON file creation of BCEL!
+2021-02-01 00:06:04,415 INFO: BCH : JSON GET Request was a Success!
+2021-02-01 00:06:04,417 INFO: Successful JSON file creation of BCH!
+2021-02-01 00:06:17,481 INFO: BCI : JSON GET Request was a Success!
+2021-02-01 00:06:17,482 INFO: Successful JSON file creation of BCI!
+2021-02-01 00:06:30,155 INFO: BCLI : JSON GET Request was a Success!
+2021-02-01 00:06:30,157 INFO: Successful JSON file creation of BCLI!
+2021-02-01 00:06:43,204 INFO: BCM : JSON GET Request was a Success!
+2021-02-01 00:06:43,206 INFO: Successful JSON file creation of BCM!
+2021-02-01 00:06:55,743 INFO: BCML : JSON GET Request was a Success!
+2021-02-01 00:06:55,745 INFO: Successful JSON file creation of BCML!
+2021-02-01 00:07:08,483 INFO: BCO : JSON GET Request was a Success!
+2021-02-01 00:07:08,485 INFO: Successful JSON file creation of BCO!
+2021-02-01 00:07:21,246 INFO: BCOR : JSON GET Request was a Success!
+2021-02-01 00:07:21,248 INFO: Successful JSON file creation of BCOR!
+2021-02-01 00:07:33,770 INFO: BCOV : JSON GET Request was a Success!
+2021-02-01 00:07:33,772 INFO: Successful JSON file creation of BCOV!
+2021-02-01 00:07:46,350 INFO: BCOW : JSON GET Request was a Success!
+2021-02-01 00:07:46,352 INFO: Successful JSON file creation of BCOW!
+2021-02-01 00:07:58,959 INFO: BCPC : JSON GET Request was a Success!
+2021-02-01 00:07:58,961 INFO: Successful JSON file creation of BCPC!
+2021-02-01 00:08:11,714 INFO: BCRX : JSON GET Request was a Success!
+2021-02-01 00:08:11,716 INFO: Successful JSON file creation of BCRX!
+2021-02-01 00:08:24,415 INFO: BCS : JSON GET Request was a Success!
+2021-02-01 00:08:24,417 INFO: Successful JSON file creation of BCS!
+2021-02-01 00:08:36,831 INFO: BCSF : JSON GET Request was a Success!
+2021-02-01 00:08:36,833 INFO: Successful JSON file creation of BCSF!
+2021-02-01 00:08:49,236 INFO: BCTG : JSON GET Request was a Success!
+2021-02-01 00:08:49,238 INFO: Successful JSON file creation of BCTG!
+2021-02-01 00:09:03,427 INFO: BCV : JSON GET Request was a Success!
+2021-02-01 00:09:03,429 INFO: Successful JSON file creation of BCV!
+2021-02-01 00:09:15,855 INFO: BCX : JSON GET Request was a Success!
+2021-02-01 00:09:15,857 INFO: Successful JSON file creation of BCX!
+2021-02-01 00:09:28,276 INFO: BCYC : JSON GET Request was a Success!
+2021-02-01 00:09:28,278 INFO: Successful JSON file creation of BCYC!
+2021-02-01 00:09:41,003 INFO: BDC : JSON GET Request was a Success!
+2021-02-01 00:09:41,005 INFO: Successful JSON file creation of BDC!
+2021-02-01 00:09:53,527 INFO: BDCX : JSON GET Request was a Success!
+2021-02-01 00:09:53,529 INFO: Successful JSON file creation of BDCX!
+2021-02-01 00:10:06,430 INFO: BDCZ : JSON GET Request was a Success!
+2021-02-01 00:10:06,431 INFO: Successful JSON file creation of BDCZ!
+2021-02-01 00:10:19,063 INFO: BDEC : JSON GET Request was a Success!
+2021-02-01 00:10:19,065 INFO: Successful JSON file creation of BDEC!
+2021-02-01 00:10:31,768 INFO: BDGE : JSON GET Request was a Success!
+2021-02-01 00:10:31,770 INFO: Successful JSON file creation of BDGE!
+2021-02-01 00:10:45,414 INFO: BDJ : JSON GET Request was a Success!
+2021-02-01 00:10:45,416 INFO: Successful JSON file creation of BDJ!
+2021-02-01 00:10:58,096 INFO: BDL : JSON GET Request was a Success!
+2021-02-01 00:10:58,098 INFO: Successful JSON file creation of BDL!
+2021-02-01 00:11:10,789 INFO: BDN : JSON GET Request was a Success!
+2021-02-01 00:11:10,791 INFO: Successful JSON file creation of BDN!
+2021-02-01 00:11:23,496 INFO: BDR : JSON GET Request was a Success!
+2021-02-01 00:11:23,498 INFO: Successful JSON file creation of BDR!
+2021-02-01 00:11:36,152 INFO: BDRY : JSON GET Request was a Success!
+2021-02-01 00:11:36,153 INFO: Successful JSON file creation of BDRY!
+2021-02-01 00:11:48,752 INFO: BDSI : JSON GET Request was a Success!
+2021-02-01 00:11:48,754 INFO: Successful JSON file creation of BDSI!
+2021-02-01 00:12:01,295 INFO: BDSX : JSON GET Request was a Success!
+2021-02-01 00:12:01,297 INFO: Successful JSON file creation of BDSX!
+2021-02-01 00:12:13,707 INFO: BDTX : JSON GET Request was a Success!
+2021-02-01 00:12:13,709 INFO: Successful JSON file creation of BDTX!
+2021-02-01 00:12:26,593 INFO: BDX : JSON GET Request was a Success!
+2021-02-01 00:12:26,594 INFO: Successful JSON file creation of BDX!
+2021-02-01 00:12:39,146 INFO: BDXB : JSON GET Request was a Success!
+2021-02-01 00:12:39,148 INFO: Successful JSON file creation of BDXB!
+2021-02-01 00:12:51,558 INFO: BEAM : JSON GET Request was a Success!
+2021-02-01 00:12:51,560 INFO: Successful JSON file creation of BEAM!
+2021-02-01 00:13:04,175 INFO: BEAT : JSON GET Request was a Success!
+2021-02-01 00:13:04,176 INFO: Successful JSON file creation of BEAT!
+2021-02-01 00:13:16,756 INFO: BECN : JSON GET Request was a Success!
+2021-02-01 00:13:16,758 INFO: Successful JSON file creation of BECN!
+2021-02-01 00:13:29,192 INFO: BEDU : JSON GET Request was a Success!
+2021-02-01 00:13:29,194 INFO: Successful JSON file creation of BEDU!
+2021-02-01 00:13:41,715 INFO: BEEM : JSON GET Request was a Success!
+2021-02-01 00:13:41,717 INFO: Successful JSON file creation of BEEM!
+2021-02-01 00:13:54,124 INFO: BEKE : JSON GET Request was a Success!
+2021-02-01 00:13:54,126 INFO: Successful JSON file creation of BEKE!
+2021-02-01 00:14:06,828 INFO: BEN : JSON GET Request was a Success!
+2021-02-01 00:14:06,830 INFO: Successful JSON file creation of BEN!
+2021-02-01 00:14:19,215 INFO: BENE : JSON GET Request was a Success!
+2021-02-01 00:14:19,215 INFO: Successful JSON file creation of BENE!
+2021-02-01 00:14:31,905 INFO: BEP : JSON GET Request was a Success!
+2021-02-01 00:14:31,907 INFO: Successful JSON file creation of BEP!
+2021-02-01 00:14:44,216 INFO: BEPC : JSON GET Request was a Success!
+2021-02-01 00:14:44,218 INFO: Successful JSON file creation of BEPC!
+2021-02-01 00:14:56,755 INFO: BERY : JSON GET Request was a Success!
+2021-02-01 00:14:56,757 INFO: Successful JSON file creation of BERY!
+2021-02-01 00:15:09,193 INFO: BEST : JSON GET Request was a Success!
+2021-02-01 00:15:09,195 INFO: Successful JSON file creation of BEST!
+2021-02-01 00:15:21,768 INFO: BETZ : JSON GET Request was a Success!
+2021-02-01 00:15:21,770 INFO: Successful JSON file creation of BETZ!
+2021-02-01 00:15:34,169 INFO: BFAM : JSON GET Request was a Success!
+2021-02-01 00:15:34,171 INFO: Successful JSON file creation of BFAM!
+2021-02-01 00:15:46,709 INFO: BFC : JSON GET Request was a Success!
+2021-02-01 00:15:46,711 INFO: Successful JSON file creation of BFC!
+2021-02-01 00:15:59,306 INFO: BFEB : JSON GET Request was a Success!
+2021-02-01 00:15:59,308 INFO: Successful JSON file creation of BFEB!
+2021-02-01 00:16:11,952 INFO: BFI : JSON GET Request was a Success!
+2021-02-01 00:16:11,954 INFO: Successful JSON file creation of BFI!
+2021-02-01 00:16:24,614 INFO: BFIN : JSON GET Request was a Success!
+2021-02-01 00:16:24,615 INFO: Successful JSON file creation of BFIN!
+2021-02-01 00:16:37,071 INFO: BFIT : JSON GET Request was a Success!
+2021-02-01 00:16:37,073 INFO: Successful JSON file creation of BFIT!
+2021-02-01 00:16:49,760 INFO: BFK : JSON GET Request was a Success!
+2021-02-01 00:16:49,762 INFO: Successful JSON file creation of BFK!
+2021-02-01 00:17:03,053 INFO: BFOR : JSON GET Request was a Success!
+2021-02-01 00:17:03,055 INFO: Successful JSON file creation of BFOR!
+2021-02-01 00:17:15,417 INFO: BFRA : JSON GET Request was a Success!
+2021-02-01 00:17:15,419 INFO: Successful JSON file creation of BFRA!
+2021-02-01 00:17:28,151 INFO: BFS : JSON GET Request was a Success!
+2021-02-01 00:17:28,153 INFO: Successful JSON file creation of BFS!
+2021-02-01 00:17:40,576 INFO: BFST : JSON GET Request was a Success!
+2021-02-01 00:17:40,578 INFO: Successful JSON file creation of BFST!
+2021-02-01 00:17:53,150 INFO: BFT : JSON GET Request was a Success!
+2021-02-01 00:17:53,152 INFO: Successful JSON file creation of BFT!
+2021-02-01 00:18:05,643 INFO: BFTR : JSON GET Request was a Success!
+2021-02-01 00:18:05,645 INFO: Successful JSON file creation of BFTR!
+2021-02-01 00:18:19,468 INFO: BFY : JSON GET Request was a Success!
+2021-02-01 00:18:19,470 INFO: Successful JSON file creation of BFY!
+2021-02-01 00:18:32,200 INFO: BFZ : JSON GET Request was a Success!
+2021-02-01 00:18:32,202 INFO: Successful JSON file creation of BFZ!
+2021-02-01 00:18:44,742 INFO: BGB : JSON GET Request was a Success!
+2021-02-01 00:18:44,744 INFO: Successful JSON file creation of BGB!
+2021-02-01 00:18:57,489 INFO: BGCP : JSON GET Request was a Success!
+2021-02-01 00:18:57,491 INFO: Successful JSON file creation of BGCP!
+2021-02-01 00:19:10,144 INFO: BGFV : JSON GET Request was a Success!
+2021-02-01 00:19:10,146 INFO: Successful JSON file creation of BGFV!
+2021-02-01 00:19:22,665 INFO: BGH : JSON GET Request was a Success!
+2021-02-01 00:19:22,667 INFO: Successful JSON file creation of BGH!
+2021-02-01 00:19:35,299 INFO: BGI : JSON GET Request was a Success!
+2021-02-01 00:19:35,301 INFO: Successful JSON file creation of BGI!
+2021-02-01 00:19:47,641 INFO: BGIO : JSON GET Request was a Success!
+2021-02-01 00:19:47,643 INFO: Successful JSON file creation of BGIO!
+2021-02-01 00:20:00,106 INFO: BGLD : JSON GET Request was a Success!
+2021-02-01 00:20:00,107 INFO: Successful JSON file creation of BGLD!
+2021-02-01 00:20:12,615 INFO: BGNE : JSON GET Request was a Success!
+2021-02-01 00:20:12,617 INFO: Successful JSON file creation of BGNE!
+2021-02-01 00:20:25,160 INFO: BGR : JSON GET Request was a Success!
+2021-02-01 00:20:25,162 INFO: Successful JSON file creation of BGR!
+2021-02-01 00:20:37,547 INFO: BGRN : JSON GET Request was a Success!
+2021-02-01 00:20:37,550 INFO: Successful JSON file creation of BGRN!
+2021-02-01 00:20:50,114 INFO: BGS : JSON GET Request was a Success!
+2021-02-01 00:20:50,115 INFO: Successful JSON file creation of BGS!
+2021-02-01 00:21:02,634 INFO: BGSF : JSON GET Request was a Success!
+2021-02-01 00:21:02,636 INFO: Successful JSON file creation of BGSF!
+2021-02-01 00:21:15,210 INFO: BGT : JSON GET Request was a Success!
+2021-02-01 00:21:15,212 INFO: Successful JSON file creation of BGT!
+2021-02-01 00:21:27,799 INFO: BGX : JSON GET Request was a Success!
+2021-02-01 00:21:27,801 INFO: Successful JSON file creation of BGX!
+2021-02-01 00:21:40,390 INFO: BGY : JSON GET Request was a Success!
+2021-02-01 00:21:40,392 INFO: Successful JSON file creation of BGY!
+2021-02-01 00:21:52,723 INFO: BHAT : JSON GET Request was a Success!
+2021-02-01 00:21:52,725 INFO: Successful JSON file creation of BHAT!
+2021-02-01 00:22:05,462 INFO: BHB : JSON GET Request was a Success!
+2021-02-01 00:22:05,465 INFO: Successful JSON file creation of BHB!
+2021-02-01 00:22:18,127 INFO: BHC : JSON GET Request was a Success!
+2021-02-01 00:22:18,129 INFO: Successful JSON file creation of BHC!
+2021-02-01 00:22:30,734 INFO: BHE : JSON GET Request was a Success!
+2021-02-01 00:22:30,736 INFO: Successful JSON file creation of BHE!
+2021-02-01 00:22:43,236 INFO: BHF : JSON GET Request was a Success!
+2021-02-01 00:22:43,237 INFO: Successful JSON file creation of BHF!
+2021-02-01 00:22:55,976 INFO: BHK : JSON GET Request was a Success!
+2021-02-01 00:22:55,978 INFO: Successful JSON file creation of BHK!
+2021-02-01 00:23:08,836 INFO: BHLB : JSON GET Request was a Success!
+2021-02-01 00:23:08,838 INFO: Successful JSON file creation of BHLB!
+2021-02-01 00:23:21,393 INFO: BHP : JSON GET Request was a Success!
+2021-02-01 00:23:21,394 INFO: Successful JSON file creation of BHP!
+2021-02-01 00:23:33,963 INFO: BHR : JSON GET Request was a Success!
+2021-02-01 00:23:33,965 INFO: Successful JSON file creation of BHR!
+2021-02-01 00:23:46,447 INFO: BHSE : JSON GET Request was a Success!
+2021-02-01 00:23:46,448 INFO: Successful JSON file creation of BHSE!
+2021-02-01 00:23:58,871 INFO: BHTG : JSON GET Request was a Success!
+2021-02-01 00:23:58,873 INFO: Successful JSON file creation of BHTG!
+2021-02-01 00:24:11,567 INFO: BHV : JSON GET Request was a Success!
+2021-02-01 00:24:11,569 INFO: Successful JSON file creation of BHV!
+2021-02-01 00:24:24,004 INFO: BHVN : JSON GET Request was a Success!
+2021-02-01 00:24:24,006 INFO: Successful JSON file creation of BHVN!
+2021-02-01 00:24:37,078 INFO: BIB : JSON GET Request was a Success!
+2021-02-01 00:24:37,080 INFO: Successful JSON file creation of BIB!
+2021-02-01 00:24:49,763 INFO: BIBL : JSON GET Request was a Success!
+2021-02-01 00:24:49,765 INFO: Successful JSON file creation of BIBL!
+2021-02-01 00:25:03,425 INFO: BICK : JSON GET Request was a Success!
+2021-02-01 00:25:03,427 INFO: Successful JSON file creation of BICK!
+2021-02-01 00:25:16,080 INFO: BIDU : JSON GET Request was a Success!
+2021-02-01 00:25:16,082 INFO: Successful JSON file creation of BIDU!
+2021-02-01 00:25:30,203 INFO: BIF : JSON GET Request was a Success!
+2021-02-01 00:25:30,205 INFO: Successful JSON file creation of BIF!
+2021-02-01 00:25:42,894 INFO: BIG : JSON GET Request was a Success!
+2021-02-01 00:25:42,896 INFO: Successful JSON file creation of BIG!
+2021-02-01 00:25:55,175 INFO: BIGC : JSON GET Request was a Success!
+2021-02-01 00:25:55,177 INFO: Successful JSON file creation of BIGC!
+2021-02-01 00:26:07,755 INFO: BIIB : JSON GET Request was a Success!
+2021-02-01 00:26:07,756 INFO: Successful JSON file creation of BIIB!
+2021-02-01 00:26:21,241 INFO: BIL : JSON GET Request was a Success!
+2021-02-01 00:26:21,243 INFO: Successful JSON file creation of BIL!
+2021-02-01 00:26:33,695 INFO: BILI : JSON GET Request was a Success!
+2021-02-01 00:26:33,697 INFO: Successful JSON file creation of BILI!
+2021-02-01 00:26:46,113 INFO: BILL : JSON GET Request was a Success!
+2021-02-01 00:26:46,115 INFO: Successful JSON file creation of BILL!
+2021-02-01 00:26:58,595 INFO: BILS : JSON GET Request was a Success!
+2021-02-01 00:26:58,597 INFO: Successful JSON file creation of BILS!
+2021-02-01 00:27:11,237 INFO: BIMI : JSON GET Request was a Success!
+2021-02-01 00:27:11,239 INFO: Successful JSON file creation of BIMI!
+2021-02-01 00:27:23,873 INFO: BIO : JSON GET Request was a Success!
+2021-02-01 00:27:23,875 INFO: Successful JSON file creation of BIO!
+2021-02-01 00:27:36,421 INFO: BIOC : JSON GET Request was a Success!
+2021-02-01 00:27:36,423 INFO: Successful JSON file creation of BIOC!
+2021-02-01 00:27:49,135 INFO: BIOL : JSON GET Request was a Success!
+2021-02-01 00:27:49,137 INFO: Successful JSON file creation of BIOL!
+2021-02-01 00:28:01,590 INFO: BIOX : JSON GET Request was a Success!
+2021-02-01 00:28:01,592 INFO: Successful JSON file creation of BIOX!
+2021-02-01 00:28:14,176 INFO: BIP : JSON GET Request was a Success!
+2021-02-01 00:28:14,178 INFO: Successful JSON file creation of BIP!
+2021-02-01 00:28:26,829 INFO: BIPC : JSON GET Request was a Success!
+2021-02-01 00:28:26,831 INFO: Successful JSON file creation of BIPC!
+2021-02-01 00:28:40,106 INFO: BIS : JSON GET Request was a Success!
+2021-02-01 00:28:40,108 INFO: Successful JSON file creation of BIS!
+2021-02-01 00:28:52,592 INFO: BIT : JSON GET Request was a Success!
+2021-02-01 00:28:52,594 INFO: Successful JSON file creation of BIT!
+2021-02-01 00:29:06,026 INFO: BIV : JSON GET Request was a Success!
+2021-02-01 00:29:06,028 INFO: Successful JSON file creation of BIV!
+2021-02-01 00:29:18,491 INFO: BIVI : JSON GET Request was a Success!
+2021-02-01 00:29:18,493 INFO: Successful JSON file creation of BIVI!
+2021-02-01 00:29:31,623 INFO: BIZD : JSON GET Request was a Success!
+2021-02-01 00:29:31,625 INFO: Successful JSON file creation of BIZD!
+2021-02-01 00:29:44,305 INFO: BJAN : JSON GET Request was a Success!
+2021-02-01 00:29:44,307 INFO: Successful JSON file creation of BJAN!
+2021-02-01 00:29:56,888 INFO: BJK : JSON GET Request was a Success!
+2021-02-01 00:29:56,890 INFO: Successful JSON file creation of BJK!
+2021-02-01 00:30:09,527 INFO: BJRI : JSON GET Request was a Success!
+2021-02-01 00:30:09,529 INFO: Successful JSON file creation of BJRI!
+2021-02-01 00:30:22,171 INFO: BJUL : JSON GET Request was a Success!
+2021-02-01 00:30:22,173 INFO: Successful JSON file creation of BJUL!
+2021-02-01 00:30:34,669 INFO: BJUN : JSON GET Request was a Success!
+2021-02-01 00:30:34,671 INFO: Successful JSON file creation of BJUN!
+2021-02-01 00:30:47,282 INFO: BKAG : JSON GET Request was a Success!
+2021-02-01 00:30:47,284 INFO: Successful JSON file creation of BKAG!
+2021-02-01 00:30:59,820 INFO: BKCC : JSON GET Request was a Success!
+2021-02-01 00:30:59,822 INFO: Successful JSON file creation of BKCC!
+2021-02-01 00:31:12,792 INFO: BKD : JSON GET Request was a Success!
+2021-02-01 00:31:12,794 INFO: Successful JSON file creation of BKD!
+2021-02-01 00:31:25,572 INFO: BKE : JSON GET Request was a Success!
+2021-02-01 00:31:25,574 INFO: Successful JSON file creation of BKE!
+2021-02-01 00:31:38,113 INFO: BKEM : JSON GET Request was a Success!
+2021-02-01 00:31:38,115 INFO: Successful JSON file creation of BKEM!
+2021-02-01 00:31:50,599 INFO: BKEP : JSON GET Request was a Success!
+2021-02-01 00:31:50,601 INFO: Successful JSON file creation of BKEP!
+2021-02-01 00:32:03,194 INFO: BKF : JSON GET Request was a Success!
+2021-02-01 00:32:03,196 INFO: Successful JSON file creation of BKF!
+2021-02-01 00:32:16,012 INFO: BKH : JSON GET Request was a Success!
+2021-02-01 00:32:16,014 INFO: Successful JSON file creation of BKH!
+2021-02-01 00:32:28,549 INFO: BKHY : JSON GET Request was a Success!
+2021-02-01 00:32:28,551 INFO: Successful JSON file creation of BKHY!
+2021-02-01 00:32:41,014 INFO: BKI : JSON GET Request was a Success!
+2021-02-01 00:32:41,016 INFO: Successful JSON file creation of BKI!
+2021-02-01 00:32:53,554 INFO: BKIE : JSON GET Request was a Success!
+2021-02-01 00:32:53,556 INFO: Successful JSON file creation of BKIE!
+2021-02-01 00:33:06,117 INFO: BKLC : JSON GET Request was a Success!
+2021-02-01 00:33:06,119 INFO: Successful JSON file creation of BKLC!
+2021-02-01 00:33:19,388 INFO: BKLN : JSON GET Request was a Success!
+2021-02-01 00:33:19,390 INFO: Successful JSON file creation of BKLN!
+2021-02-01 00:33:31,952 INFO: BKMC : JSON GET Request was a Success!
+2021-02-01 00:33:31,954 INFO: Successful JSON file creation of BKMC!
+2021-02-01 00:33:44,708 INFO: BKN : JSON GET Request was a Success!
+2021-02-01 00:33:44,710 INFO: Successful JSON file creation of BKN!
+2021-02-01 00:33:57,396 INFO: BKNG : JSON GET Request was a Success!
+2021-02-01 00:33:57,396 INFO: Successful JSON file creation of BKNG!
+2021-02-01 00:34:09,822 INFO: BKR : JSON GET Request was a Success!
+2021-02-01 00:34:09,824 INFO: Successful JSON file creation of BKR!
+2021-02-01 00:34:22,381 INFO: BKSB : JSON GET Request was a Success!
+2021-02-01 00:34:22,382 INFO: Successful JSON file creation of BKSB!
+2021-02-01 00:34:35,121 INFO: BKSC : JSON GET Request was a Success!
+2021-02-01 00:34:35,123 INFO: Successful JSON file creation of BKSC!
+2021-02-01 00:34:47,670 INFO: BKSE : JSON GET Request was a Success!
+2021-02-01 00:34:47,672 INFO: Successful JSON file creation of BKSE!
+2021-02-01 00:35:00,394 INFO: BKT : JSON GET Request was a Success!
+2021-02-01 00:35:00,396 INFO: Successful JSON file creation of BKT!
+2021-02-01 00:35:13,064 INFO: BKTI : JSON GET Request was a Success!
+2021-02-01 00:35:13,067 INFO: Successful JSON file creation of BKTI!
+2021-02-01 00:35:25,470 INFO: BKU : JSON GET Request was a Success!
+2021-02-01 00:35:25,472 INFO: Successful JSON file creation of BKU!
+2021-02-01 00:35:38,156 INFO: BKYI : JSON GET Request was a Success!
+2021-02-01 00:35:38,158 INFO: Successful JSON file creation of BKYI!
+2021-02-01 00:35:50,613 INFO: BLBD : JSON GET Request was a Success!
+2021-02-01 00:35:50,615 INFO: Successful JSON file creation of BLBD!
+2021-02-01 00:36:03,070 INFO: BLCM : JSON GET Request was a Success!
+2021-02-01 00:36:03,072 INFO: Successful JSON file creation of BLCM!
+2021-02-01 00:36:15,875 INFO: BLCN : JSON GET Request was a Success!
+2021-02-01 00:36:15,877 INFO: Successful JSON file creation of BLCN!
+2021-02-01 00:36:28,268 INFO: BLCT : JSON GET Request was a Success!
+2021-02-01 00:36:28,269 INFO: Successful JSON file creation of BLCT!
+2021-02-01 00:36:40,857 INFO: BLD : JSON GET Request was a Success!
+2021-02-01 00:36:40,859 INFO: Successful JSON file creation of BLD!
+2021-02-01 00:36:53,369 INFO: BLDG : JSON GET Request was a Success!
+2021-02-01 00:36:53,371 INFO: Successful JSON file creation of BLDG!
+2021-02-01 00:37:06,045 INFO: BLDP : JSON GET Request was a Success!
+2021-02-01 00:37:06,047 INFO: Successful JSON file creation of BLDP!
+2021-02-01 00:37:18,703 INFO: BLDR : JSON GET Request was a Success!
+2021-02-01 00:37:18,705 INFO: Successful JSON file creation of BLDR!
+2021-02-01 00:37:31,362 INFO: BLE : JSON GET Request was a Success!
+2021-02-01 00:37:31,364 INFO: Successful JSON file creation of BLE!
+2021-02-01 00:37:44,160 INFO: BLES : JSON GET Request was a Success!
+2021-02-01 00:37:44,162 INFO: Successful JSON file creation of BLES!
+2021-02-01 00:37:56,843 INFO: BLFS : JSON GET Request was a Success!
+2021-02-01 00:37:56,845 INFO: Successful JSON file creation of BLFS!
+2021-02-01 00:38:09,636 INFO: BLHY : JSON GET Request was a Success!
+2021-02-01 00:38:09,638 INFO: Successful JSON file creation of BLHY!
+2021-02-01 00:38:22,041 INFO: BLI : JSON GET Request was a Success!
+2021-02-01 00:38:22,043 INFO: Successful JSON file creation of BLI!
+2021-02-01 00:38:34,588 INFO: BLIN : JSON GET Request was a Success!
+2021-02-01 00:38:34,590 INFO: Successful JSON file creation of BLIN!
+2021-02-01 00:38:47,267 INFO: BLK : JSON GET Request was a Success!
+2021-02-01 00:38:47,269 INFO: Successful JSON file creation of BLK!
+2021-02-01 00:38:59,871 INFO: BLKB : JSON GET Request was a Success!
+2021-02-01 00:38:59,873 INFO: Successful JSON file creation of BLKB!
+2021-02-01 00:39:12,610 INFO: BLL : JSON GET Request was a Success!
+2021-02-01 00:39:12,611 INFO: Successful JSON file creation of BLL!
+2021-02-01 00:39:25,101 INFO: BLMN : JSON GET Request was a Success!
+2021-02-01 00:39:25,103 INFO: Successful JSON file creation of BLMN!
+2021-02-01 00:39:37,549 INFO: BLNK : JSON GET Request was a Success!
+2021-02-01 00:39:37,551 INFO: Successful JSON file creation of BLNK!
+2021-02-01 00:39:50,286 INFO: BLOK : JSON GET Request was a Success!
+2021-02-01 00:39:50,288 INFO: Successful JSON file creation of BLOK!
+2021-02-01 00:40:03,070 INFO: BLPH : JSON GET Request was a Success!
+2021-02-01 00:40:03,072 INFO: Successful JSON file creation of BLPH!
+2021-02-01 00:40:15,575 INFO: BLRX : JSON GET Request was a Success!
+2021-02-01 00:40:15,576 INFO: Successful JSON file creation of BLRX!
+2021-02-01 00:40:27,945 INFO: BLSA : JSON GET Request was a Success!
+2021-02-01 00:40:27,947 INFO: Successful JSON file creation of BLSA!
+2021-02-01 00:40:41,502 INFO: BLU : JSON GET Request was a Success!
+2021-02-01 00:40:41,504 INFO: Successful JSON file creation of BLU!
+2021-02-01 00:40:54,038 INFO: BLUE : JSON GET Request was a Success!
+2021-02-01 00:40:54,040 INFO: Successful JSON file creation of BLUE!
+2021-02-01 00:41:07,592 INFO: BLV : JSON GET Request was a Success!
+2021-02-01 00:41:07,594 INFO: Successful JSON file creation of BLV!
+2021-02-01 00:41:20,301 INFO: BLW : JSON GET Request was a Success!
+2021-02-01 00:41:20,303 INFO: Successful JSON file creation of BLW!
+2021-02-01 00:41:33,294 INFO: BLX : JSON GET Request was a Success!
+2021-02-01 00:41:33,296 INFO: Successful JSON file creation of BLX!
+2021-02-01 00:41:45,989 INFO: BMA : JSON GET Request was a Success!
+2021-02-01 00:41:45,990 INFO: Successful JSON file creation of BMA!
+2021-02-01 00:41:58,684 INFO: BMAR : JSON GET Request was a Success!
+2021-02-01 00:41:58,686 INFO: Successful JSON file creation of BMAR!
+2021-02-01 00:42:11,117 INFO: BMAY : JSON GET Request was a Success!
+2021-02-01 00:42:11,119 INFO: Successful JSON file creation of BMAY!
+2021-02-01 00:42:23,774 INFO: BME : JSON GET Request was a Success!
+2021-02-01 00:42:23,776 INFO: Successful JSON file creation of BME!
+2021-02-01 00:42:36,313 INFO: BMED : JSON GET Request was a Success!
+2021-02-01 00:42:36,315 INFO: Successful JSON file creation of BMED!
+2021-02-01 00:42:48,726 INFO: BMEZ : JSON GET Request was a Success!
+2021-02-01 00:42:48,728 INFO: Successful JSON file creation of BMEZ!
+2021-02-01 00:43:01,428 INFO: BMI : JSON GET Request was a Success!
+2021-02-01 00:43:01,430 INFO: Successful JSON file creation of BMI!
+2021-02-01 00:43:13,871 INFO: BMLP : JSON GET Request was a Success!
+2021-02-01 00:43:13,873 INFO: Successful JSON file creation of BMLP!
+2021-02-01 00:43:26,523 INFO: BMO : JSON GET Request was a Success!
+2021-02-01 00:43:26,525 INFO: Successful JSON file creation of BMO!
+2021-02-01 00:43:39,104 INFO: BMRA : JSON GET Request was a Success!
+2021-02-01 00:43:39,106 INFO: Successful JSON file creation of BMRA!
+2021-02-01 00:43:51,857 INFO: BMRC : JSON GET Request was a Success!
+2021-02-01 00:43:51,859 INFO: Successful JSON file creation of BMRC!
+2021-02-01 00:44:04,682 INFO: BMRN : JSON GET Request was a Success!
+2021-02-01 00:44:04,684 INFO: Successful JSON file creation of BMRN!
+2021-02-01 00:44:17,650 INFO: BMTC : JSON GET Request was a Success!
+2021-02-01 00:44:17,652 INFO: Successful JSON file creation of BMTC!
+2021-02-01 00:44:30,283 INFO: BMTX : JSON GET Request was a Success!
+2021-02-01 00:44:30,285 INFO: Successful JSON file creation of BMTX!
+2021-02-01 00:44:43,053 INFO: BMY : JSON GET Request was a Success!
+2021-02-01 00:44:43,055 INFO: Successful JSON file creation of BMY!
+2021-02-01 00:44:56,663 INFO: BND : JSON GET Request was a Success!
+2021-02-01 00:44:56,665 INFO: Successful JSON file creation of BND!
+2021-02-01 00:45:09,351 INFO: BNDC : JSON GET Request was a Success!
+2021-02-01 00:45:09,353 INFO: Successful JSON file creation of BNDC!
+2021-02-01 00:45:21,750 INFO: BNDW : JSON GET Request was a Success!
+2021-02-01 00:45:21,752 INFO: Successful JSON file creation of BNDW!
+2021-02-01 00:45:34,282 INFO: BNDX : JSON GET Request was a Success!
+2021-02-01 00:45:34,284 INFO: Successful JSON file creation of BNDX!
+2021-02-01 00:45:46,750 INFO: BNE : JSON GET Request was a Success!
+2021-02-01 00:45:46,751 INFO: Successful JSON file creation of BNE!
+2021-02-01 00:45:59,102 INFO: BNED : JSON GET Request was a Success!
+2021-02-01 00:45:59,104 INFO: Successful JSON file creation of BNED!
+2021-02-01 00:46:11,578 INFO: BNFT : JSON GET Request was a Success!
+2021-02-01 00:46:11,580 INFO: Successful JSON file creation of BNFT!
+2021-02-01 00:46:23,898 INFO: BNGO : JSON GET Request was a Success!
+2021-02-01 00:46:23,900 INFO: Successful JSON file creation of BNGO!
+2021-02-01 00:46:36,743 INFO: BNKD : JSON GET Request was a Success!
+2021-02-01 00:46:36,745 INFO: Successful JSON file creation of BNKD!
+2021-02-01 00:46:49,379 INFO: BNKU : JSON GET Request was a Success!
+2021-02-01 00:46:49,381 INFO: Successful JSON file creation of BNKU!
+2021-02-01 00:47:01,702 INFO: BNL : JSON GET Request was a Success!
+2021-02-01 00:47:01,704 INFO: Successful JSON file creation of BNL!
+2021-02-01 00:47:13,991 INFO: BNO : JSON GET Request was a Success!

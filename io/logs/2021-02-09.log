@@ -1,0 +1,2118 @@
+2021-02-09 04:13:53,588 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-09 04:13:53,588 INFO: Creating a filtered list of symbols.
+2021-02-09 04:13:53,818 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:13:54,230 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:13:54,231 INFO:  IFF* : Success!
+2021-02-09 04:13:54,232 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-09 04:13:54,232 ERROR: Failure JSON file creation of IFF*!
+2021-02-09 04:14:09,235 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:14:09,941 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:14:10,074 INFO:  PRN : Success!
+2021-02-09 04:14:10,078 ERROR: Failure JSON file creation of PRN!
+2021-02-09 04:14:25,090 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:14:25,463 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VEL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:14:25,512 INFO:  VEL : Success!
+2021-02-09 04:14:25,516 INFO: Successful JSON file creation of VEL!
+2021-02-09 04:14:40,521 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:14:41,373 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VEON&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:14:41,533 INFO:  VEON : Success!
+2021-02-09 04:14:41,602 INFO: Successful JSON file creation of VEON!
+2021-02-09 04:14:49,708 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-09 04:14:49,708 INFO: Creating a filtered list of symbols.
+2021-02-09 04:14:49,925 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:14:50,320 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:14:50,322 INFO:  IFF* : Success!
+2021-02-09 04:14:50,322 INFO:  IFF* : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-09 04:14:50,322 ERROR: Failure JSON file creation of IFF*!
+2021-02-09 04:15:05,328 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:15:13,109 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:15:13,388 INFO:  PRN : Success!
+2021-02-09 04:15:13,392 ERROR: Failure JSON file creation of PRN!
+2021-02-09 04:15:28,408 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:15:28,881 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VER&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:15:28,998 INFO:  VER : Success!
+2021-02-09 04:15:29,018 INFO: Successful JSON file creation of VER!
+2021-02-09 04:15:44,032 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:15:44,503 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:15:44,600 INFO:  VERB : Success!
+2021-02-09 04:15:44,618 INFO: Successful JSON file creation of VERB!
+2021-02-09 04:15:59,627 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:16:00,096 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:16:00,173 INFO:  VERI : Success!
+2021-02-09 04:16:00,186 INFO: Successful JSON file creation of VERI!
+2021-02-09 04:16:15,195 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:16:15,739 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:16:15,839 INFO:  VERO : Success!
+2021-02-09 04:16:15,865 INFO: Successful JSON file creation of VERO!
+2021-02-09 04:16:30,877 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:16:31,707 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:16:31,852 INFO:  VERU : Success!
+2021-02-09 04:16:31,919 INFO: Successful JSON file creation of VERU!
+2021-02-09 04:16:46,935 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:16:47,305 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:16:47,326 INFO:  VERX : Success!
+2021-02-09 04:16:47,328 INFO: Successful JSON file creation of VERX!
+2021-02-09 04:17:02,340 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:17:03,103 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VERY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:17:03,155 INFO:  VERY : Success!
+2021-02-09 04:17:03,160 INFO: Successful JSON file creation of VERY!
+2021-02-09 04:17:18,171 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:17:18,844 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VET&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:17:18,968 INFO:  VET : Success!
+2021-02-09 04:17:19,001 INFO: Successful JSON file creation of VET!
+2021-02-09 04:17:34,008 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:17:34,623 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VETS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:17:34,698 INFO:  VETS : Success!
+2021-02-09 04:17:34,707 INFO: Successful JSON file creation of VETS!
+2021-02-09 04:17:49,713 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:17:50,469 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VEU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:17:50,607 INFO:  VEU : Success!
+2021-02-09 04:17:50,652 INFO: Successful JSON file creation of VEU!
+2021-02-09 04:18:05,664 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:18:06,553 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:18:06,698 INFO:  VFC : Success!
+2021-02-09 04:18:06,766 INFO: Successful JSON file creation of VFC!
+2021-02-09 04:18:21,781 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:18:22,416 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:18:22,539 INFO:  VFF : Success!
+2021-02-09 04:18:22,575 INFO: Successful JSON file creation of VFF!
+2021-02-09 04:18:37,578 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:18:38,434 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:18:38,576 INFO:  VFH : Success!
+2021-02-09 04:18:38,632 INFO: Successful JSON file creation of VFH!
+2021-02-09 04:18:53,648 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:18:54,018 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFIN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:18:54,020 INFO:  VFIN : Success!
+2021-02-09 04:18:54,021 INFO: Successful JSON file creation of VFIN!
+2021-02-09 04:19:09,024 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:19:09,938 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:19:10,084 INFO:  VFL : Success!
+2021-02-09 04:19:10,153 INFO: Successful JSON file creation of VFL!
+2021-02-09 04:19:25,161 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:19:25,904 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFLQ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:19:25,975 INFO:  VFLQ : Success!
+2021-02-09 04:19:25,984 INFO: Successful JSON file creation of VFLQ!
+2021-02-09 04:19:40,994 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:19:41,689 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFMF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:19:41,763 INFO:  VFMF : Success!
+2021-02-09 04:19:41,774 INFO: Successful JSON file creation of VFMF!
+2021-02-09 04:19:56,782 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:19:57,591 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFMO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:19:57,663 INFO:  VFMO : Success!
+2021-02-09 04:19:57,673 INFO: Successful JSON file creation of VFMO!
+2021-02-09 04:20:12,685 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:20:13,485 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFMV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:20:13,555 INFO:  VFMV : Success!
+2021-02-09 04:20:13,565 INFO: Successful JSON file creation of VFMV!
+2021-02-09 04:20:28,568 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:20:29,331 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFQY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:20:29,399 INFO:  VFQY : Success!
+2021-02-09 04:20:29,409 INFO: Successful JSON file creation of VFQY!
+2021-02-09 04:20:44,415 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:20:45,129 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VFVA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:20:45,205 INFO:  VFVA : Success!
+2021-02-09 04:20:45,214 INFO: Successful JSON file creation of VFVA!
+2021-02-09 04:21:00,221 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:21:00,589 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:21:00,590 INFO:  VGAC : Success!
+2021-02-09 04:21:00,592 INFO: Successful JSON file creation of VGAC!
+2021-02-09 04:21:15,606 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:21:16,075 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:21:16,191 INFO:  VGI : Success!
+2021-02-09 04:21:16,222 INFO: Successful JSON file creation of VGI!
+2021-02-09 04:21:31,228 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:21:31,864 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGIT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:21:31,985 INFO:  VGIT : Success!
+2021-02-09 04:21:32,020 INFO: Successful JSON file creation of VGIT!
+2021-02-09 04:21:47,030 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:21:47,774 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:21:48,106 INFO:  VGK : Success!
+2021-02-09 04:21:48,157 INFO: Successful JSON file creation of VGK!
+2021-02-09 04:22:03,169 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:22:03,840 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGLT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:22:03,966 INFO:  VGLT : Success!
+2021-02-09 04:22:04,001 INFO: Successful JSON file creation of VGLT!
+2021-02-09 04:22:19,014 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:22:19,795 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:22:19,944 INFO:  VGM : Success!
+2021-02-09 04:22:20,013 INFO: Successful JSON file creation of VGM!
+2021-02-09 04:22:35,019 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:22:35,936 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:22:36,079 INFO:  VGR : Success!
+2021-02-09 04:22:36,147 INFO: Successful JSON file creation of VGR!
+2021-02-09 04:22:51,163 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:22:51,763 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGSH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:22:51,858 INFO:  VGSH : Success!
+2021-02-09 04:22:51,897 INFO: Successful JSON file creation of VGSH!
+2021-02-09 04:23:06,910 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:23:07,703 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:23:07,828 INFO:  VGT : Success!
+2021-02-09 04:23:07,886 INFO: Successful JSON file creation of VGT!
+2021-02-09 04:23:22,897 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:23:23,722 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VGZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:23:23,864 INFO:  VGZ : Success!
+2021-02-09 04:23:23,933 INFO: Successful JSON file creation of VGZ!
+2021-02-09 04:23:38,946 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:23:40,141 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VHC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:23:40,506 INFO:  VHC : Success!
+2021-02-09 04:23:40,574 INFO: Successful JSON file creation of VHC!
+2021-02-09 04:23:55,585 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:23:56,379 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VHI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:23:56,516 INFO:  VHI : Success!
+2021-02-09 04:23:56,584 INFO: Successful JSON file creation of VHI!
+2021-02-09 04:24:11,595 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:24:12,358 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VHT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:24:12,485 INFO:  VHT : Success!
+2021-02-09 04:24:12,539 INFO: Successful JSON file creation of VHT!
+2021-02-09 04:24:27,549 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:24:28,205 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:24:28,333 INFO:  VIAC : Success!
+2021-02-09 04:24:28,380 INFO: Successful JSON file creation of VIAC!
+2021-02-09 04:24:43,389 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:24:43,768 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIAO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:24:43,790 INFO:  VIAO : Success!
+2021-02-09 04:24:43,791 INFO: Successful JSON file creation of VIAO!
+2021-02-09 04:24:58,801 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:24:59,251 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIAV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:24:59,368 INFO:  VIAV : Success!
+2021-02-09 04:24:59,386 INFO: Successful JSON file creation of VIAV!
+2021-02-09 04:25:14,401 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:25:14,882 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VICE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:25:14,884 INFO:  VICE : Success!
+2021-02-09 04:25:14,886 INFO: Successful JSON file creation of VICE!
+2021-02-09 04:25:29,890 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:25:30,376 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VICI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:25:30,473 INFO:  VICI : Success!
+2021-02-09 04:25:30,487 INFO: Successful JSON file creation of VICI!
+2021-02-09 04:25:45,490 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:25:46,555 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VICR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:25:46,935 INFO:  VICR : Success!
+2021-02-09 04:25:47,004 INFO: Successful JSON file creation of VICR!
+2021-02-09 04:26:02,021 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:26:02,712 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIDI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:26:02,862 INFO:  VIDI : Success!
+2021-02-09 04:26:02,885 INFO: Successful JSON file creation of VIDI!
+2021-02-09 04:26:17,896 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:26:18,308 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:26:18,360 INFO:  VIE : Success!
+2021-02-09 04:26:18,366 INFO: Successful JSON file creation of VIE!
+2021-02-09 04:26:33,371 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:26:34,090 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:26:34,243 INFO:  VIG : Success!
+2021-02-09 04:26:34,288 INFO: Successful JSON file creation of VIG!
+2021-02-09 04:26:49,304 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:26:49,846 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIGI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:26:49,944 INFO:  VIGI : Success!
+2021-02-09 04:26:49,960 INFO: Successful JSON file creation of VIGI!
+2021-02-09 04:27:04,967 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:27:05,513 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:27:05,516 INFO:  VIH : Success!
+2021-02-09 04:27:05,517 INFO: Successful JSON file creation of VIH!
+2021-02-09 04:27:20,531 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:27:21,106 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VINC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:27:21,133 INFO:  VINC : Success!
+2021-02-09 04:27:21,136 INFO: Successful JSON file creation of VINC!
+2021-02-09 04:27:36,144 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:27:36,619 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VINP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:27:36,620 INFO:  VINP : Success!
+2021-02-09 04:27:36,621 INFO: Successful JSON file creation of VINP!
+2021-02-09 04:27:51,626 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:27:53,028 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIOG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:27:53,145 INFO:  VIOG : Success!
+2021-02-09 04:27:53,177 INFO: Successful JSON file creation of VIOG!
+2021-02-09 04:28:08,192 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:28:09,667 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIOO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:28:09,785 INFO:  VIOO : Success!
+2021-02-09 04:28:09,817 INFO: Successful JSON file creation of VIOO!
+2021-02-09 04:28:24,830 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:28:25,240 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIOT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:28:25,297 INFO:  VIOT : Success!
+2021-02-09 04:28:25,305 INFO: Successful JSON file creation of VIOT!
+2021-02-09 04:28:40,319 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:28:41,709 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIOV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:28:41,819 INFO:  VIOV : Success!
+2021-02-09 04:28:41,856 INFO: Successful JSON file creation of VIOV!
+2021-02-09 04:28:56,868 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:28:57,414 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIPS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:28:57,536 INFO:  VIPS : Success!
+2021-02-09 04:28:57,565 INFO: Successful JSON file creation of VIPS!
+2021-02-09 04:29:12,568 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:29:12,959 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:29:13,008 INFO:  VIR : Success!
+2021-02-09 04:29:13,015 INFO: Successful JSON file creation of VIR!
+2021-02-09 04:29:28,024 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:29:28,860 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIRC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:29:29,004 INFO:  VIRC : Success!
+2021-02-09 04:29:29,073 INFO: Successful JSON file creation of VIRC!
+2021-02-09 04:29:44,088 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:29:44,576 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIRI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:29:44,577 INFO:  VIRI : Success!
+2021-02-09 04:29:44,578 INFO: Successful JSON file creation of VIRI!
+2021-02-09 04:29:59,591 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:30:00,124 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIRS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:30:00,149 INFO:  VIRS : Success!
+2021-02-09 04:30:00,151 INFO: Successful JSON file creation of VIRS!
+2021-02-09 04:30:15,166 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:30:15,650 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIRT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:30:15,761 INFO:  VIRT : Success!
+2021-02-09 04:30:15,780 INFO: Successful JSON file creation of VIRT!
+2021-02-09 04:30:30,795 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:30:31,546 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:30:31,824 INFO:  VIS : Success!
+2021-02-09 04:30:31,874 INFO: Successful JSON file creation of VIS!
+2021-02-09 04:30:46,885 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:30:47,451 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VISL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:30:47,547 INFO:  VISL : Success!
+2021-02-09 04:30:47,575 INFO: Successful JSON file creation of VISL!
+2021-02-09 04:31:02,591 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:31:02,973 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIST&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:31:03,026 INFO:  VIST : Success!
+2021-02-09 04:31:03,031 INFO: Successful JSON file creation of VIST!
+2021-02-09 04:31:18,040 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:31:18,431 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VITL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:31:18,447 INFO:  VITL : Success!
+2021-02-09 04:31:18,449 INFO: Successful JSON file creation of VITL!
+2021-02-09 04:31:33,452 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:31:34,367 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:31:34,513 INFO:  VIV : Success!
+2021-02-09 04:31:34,581 INFO: Successful JSON file creation of VIV!
+2021-02-09 04:31:49,588 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:31:50,317 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIVE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:31:50,452 INFO:  VIVE : Success!
+2021-02-09 04:31:50,520 INFO: Successful JSON file creation of VIVE!
+2021-02-09 04:32:05,533 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:32:06,530 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIVO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:32:06,650 INFO:  VIVO : Success!
+2021-02-09 04:32:06,721 INFO: Successful JSON file creation of VIVO!
+2021-02-09 04:32:21,729 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:32:22,325 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIXM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:32:22,447 INFO:  VIXM : Success!
+2021-02-09 04:32:22,478 INFO: Successful JSON file creation of VIXM!
+2021-02-09 04:32:37,495 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:32:38,072 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VIXY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:32:38,195 INFO:  VIXY : Success!
+2021-02-09 04:32:38,226 INFO: Successful JSON file creation of VIXY!
+2021-02-09 04:32:53,229 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:32:53,754 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VJET&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:32:53,940 INFO:  VJET : Success!
+2021-02-09 04:32:53,962 INFO: Successful JSON file creation of VJET!
+2021-02-09 04:33:08,974 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:33:09,839 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VKI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:33:10,254 INFO:  VKI : Success!
+2021-02-09 04:33:10,326 INFO: Successful JSON file creation of VKI!
+2021-02-09 04:33:25,339 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:33:26,211 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VKQ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:33:26,358 INFO:  VKQ : Success!
+2021-02-09 04:33:26,432 INFO: Successful JSON file creation of VKQ!
+2021-02-09 04:33:41,436 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:33:41,914 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VKTX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:33:42,057 INFO:  VKTX : Success!
+2021-02-09 04:33:42,074 INFO: Successful JSON file creation of VKTX!
+2021-02-09 04:33:57,081 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:33:57,476 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLDR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:33:57,547 INFO:  VLDR : Success!
+2021-02-09 04:33:57,555 INFO: Successful JSON file creation of VLDR!
+2021-02-09 04:34:12,559 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:34:13,494 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:34:13,644 INFO:  VLO : Success!
+2021-02-09 04:34:13,708 INFO: Successful JSON file creation of VLO!
+2021-02-09 04:34:28,722 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:34:29,226 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLRS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:34:29,327 INFO:  VLRS : Success!
+2021-02-09 04:34:29,350 INFO: Successful JSON file creation of VLRS!
+2021-02-09 04:34:44,365 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:34:45,313 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:34:45,739 INFO:  VLT : Success!
+2021-02-09 04:34:45,815 INFO: Successful JSON file creation of VLT!
+2021-02-09 04:35:00,830 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:35:02,000 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:35:02,178 INFO:  VLU : Success!
+2021-02-09 04:35:02,206 INFO: Successful JSON file creation of VLU!
+2021-02-09 04:35:17,212 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:35:18,215 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLUE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:35:18,315 INFO:  VLUE : Success!
+2021-02-09 04:35:18,341 INFO: Successful JSON file creation of VLUE!
+2021-02-09 04:35:33,350 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:35:34,233 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VLY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:35:34,375 INFO:  VLY : Success!
+2021-02-09 04:35:34,444 INFO: Successful JSON file creation of VLY!
+2021-02-09 04:35:49,459 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:35:49,932 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:35:49,956 INFO:  VMAC : Success!
+2021-02-09 04:35:49,958 INFO: Successful JSON file creation of VMAC!
+2021-02-09 04:36:04,969 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:36:05,333 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMAR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:36:05,334 INFO:  VMAR : Success!
+2021-02-09 04:36:05,335 INFO: Successful JSON file creation of VMAR!
+2021-02-09 04:36:20,351 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:36:20,962 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMBS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:36:21,086 INFO:  VMBS : Success!
+2021-02-09 04:36:21,123 INFO: Successful JSON file creation of VMBS!
+2021-02-09 04:36:36,130 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:36:37,022 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:36:37,172 INFO:  VMC : Success!
+2021-02-09 04:36:37,243 INFO: Successful JSON file creation of VMC!
+2021-02-09 04:36:52,251 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:36:52,664 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:36:52,736 INFO:  VMD : Success!
+2021-02-09 04:36:52,746 INFO: Successful JSON file creation of VMD!
+2021-02-09 04:37:07,750 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:37:08,730 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:37:08,873 INFO:  VMI : Success!
+2021-02-09 04:37:08,940 INFO: Successful JSON file creation of VMI!
+2021-02-09 04:37:23,944 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:37:24,837 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:37:24,984 INFO:  VMM : Success!
+2021-02-09 04:37:25,055 INFO: Successful JSON file creation of VMM!
+2021-02-09 04:37:40,060 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:37:40,876 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:37:41,051 INFO:  VMO : Success!
+2021-02-09 04:37:41,120 INFO: Successful JSON file creation of VMO!
+2021-02-09 04:37:56,134 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:37:56,892 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMOT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:37:56,971 INFO:  VMOT : Success!
+2021-02-09 04:37:56,983 INFO: Successful JSON file creation of VMOT!
+2021-02-09 04:38:12,000 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:38:12,639 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VMW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:38:12,766 INFO:  VMW : Success!
+2021-02-09 04:38:12,809 INFO: Successful JSON file creation of VMW!
+2021-02-09 04:38:27,816 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:38:28,317 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNCE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:38:28,418 INFO:  VNCE : Success!
+2021-02-09 04:38:28,442 INFO: Successful JSON file creation of VNCE!
+2021-02-09 04:38:43,447 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:38:44,175 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNDA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:38:44,310 INFO:  VNDA : Success!
+2021-02-09 04:38:44,359 INFO: Successful JSON file creation of VNDA!
+2021-02-09 04:38:59,362 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:38:59,788 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:38:59,860 INFO:  VNE : Success!
+2021-02-09 04:38:59,869 INFO: Successful JSON file creation of VNE!
+2021-02-09 04:39:14,882 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:39:15,504 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNET&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:39:15,618 INFO:  VNET : Success!
+2021-02-09 04:39:15,650 INFO: Successful JSON file creation of VNET!
+2021-02-09 04:39:30,653 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:39:31,490 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNLA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:39:31,588 INFO:  VNLA : Success!
+2021-02-09 04:39:31,601 INFO: Successful JSON file creation of VNLA!
+2021-02-09 04:39:46,607 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:39:48,066 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:39:48,179 INFO:  VNM : Success!
+2021-02-09 04:39:48,217 INFO: Successful JSON file creation of VNM!
+2021-02-09 04:40:03,232 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:40:03,967 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNMC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:40:03,992 INFO:  VNMC : Success!
+2021-02-09 04:40:03,993 INFO: Successful JSON file creation of VNMC!
+2021-02-09 04:40:19,006 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:40:19,900 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:40:20,042 INFO:  VNO : Success!
+2021-02-09 04:40:20,114 INFO: Successful JSON file creation of VNO!
+2021-02-09 04:40:35,128 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:40:35,620 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNOM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:40:35,720 INFO:  VNOM : Success!
+2021-02-09 04:40:35,742 INFO: Successful JSON file creation of VNOM!
+2021-02-09 04:40:50,753 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:40:51,563 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNQ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:40:51,714 INFO:  VNQ : Success!
+2021-02-09 04:40:51,769 INFO: Successful JSON file creation of VNQ!
+2021-02-09 04:41:06,776 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:41:07,344 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNQI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:41:07,468 INFO:  VNQI : Success!
+2021-02-09 04:41:07,501 INFO: Successful JSON file creation of VNQI!
+2021-02-09 04:41:22,511 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:41:23,141 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNRX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:41:23,256 INFO:  VNRX : Success!
+2021-02-09 04:41:23,291 INFO: Successful JSON file creation of VNRX!
+2021-02-09 04:41:38,295 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:41:38,805 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNSE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:41:38,829 INFO:  VNSE : Success!
+2021-02-09 04:41:38,831 INFO: Successful JSON file creation of VNSE!
+2021-02-09 04:41:53,838 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:41:54,211 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:41:54,237 INFO:  VNT : Success!
+2021-02-09 04:41:54,238 INFO: Successful JSON file creation of VNT!
+2021-02-09 04:42:09,252 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:42:09,744 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VNTR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:42:09,815 INFO:  VNTR : Success!
+2021-02-09 04:42:09,827 INFO: Successful JSON file creation of VNTR!
+2021-02-09 04:42:24,838 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:42:25,331 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:42:25,453 INFO:  VOC : Success!
+2021-02-09 04:42:25,482 INFO: Successful JSON file creation of VOC!
+2021-02-09 04:42:40,498 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:42:41,312 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:42:41,456 INFO:  VOD : Success!
+2021-02-09 04:42:41,525 INFO: Successful JSON file creation of VOD!
+2021-02-09 04:42:56,529 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:42:58,198 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:42:58,330 INFO:  VOE : Success!
+2021-02-09 04:42:58,376 INFO: Successful JSON file creation of VOE!
+2021-02-09 04:43:13,381 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:43:14,264 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOLT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:43:14,409 INFO:  VOLT : Success!
+2021-02-09 04:43:14,473 INFO: Successful JSON file creation of VOLT!
+2021-02-09 04:43:29,480 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:43:30,084 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VONE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:43:30,207 INFO:  VONE : Success!
+2021-02-09 04:43:30,241 INFO: Successful JSON file creation of VONE!
+2021-02-09 04:43:45,248 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:43:45,849 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VONG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:43:45,966 INFO:  VONG : Success!
+2021-02-09 04:43:45,999 INFO: Successful JSON file creation of VONG!
+2021-02-09 04:44:01,012 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:44:01,508 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VONV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:44:01,630 INFO:  VONV : Success!
+2021-02-09 04:44:01,666 INFO: Successful JSON file creation of VONV!
+2021-02-09 04:44:16,674 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:44:17,286 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:44:17,479 INFO:  VOO : Success!
+2021-02-09 04:44:17,513 INFO: Successful JSON file creation of VOO!
+2021-02-09 04:44:32,520 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:44:33,003 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOOG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:44:33,221 INFO:  VOOG : Success!
+2021-02-09 04:44:33,253 INFO: Successful JSON file creation of VOOG!
+2021-02-09 04:44:48,255 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:44:48,765 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOOV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:44:48,970 INFO:  VOOV : Success!
+2021-02-09 04:44:49,002 INFO: Successful JSON file creation of VOOV!
+2021-02-09 04:45:04,013 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:45:06,841 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:45:06,973 INFO:  VOT : Success!
+2021-02-09 04:45:07,022 INFO: Successful JSON file creation of VOT!
+2021-02-09 04:45:22,034 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:45:22,817 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:45:23,096 INFO:  VOX : Success!
+2021-02-09 04:45:23,146 INFO: Successful JSON file creation of VOX!
+2021-02-09 04:45:38,158 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:45:39,041 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOXX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:45:39,204 INFO:  VOXX : Success!
+2021-02-09 04:45:39,272 INFO: Successful JSON file creation of VOXX!
+2021-02-09 04:45:54,285 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:45:54,748 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VOYA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:45:54,823 INFO:  VOYA : Success!
+2021-02-09 04:45:54,848 INFO: Successful JSON file creation of VOYA!
+2021-02-09 04:46:09,853 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:46:10,471 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:46:10,541 INFO:  VPC : Success!
+2021-02-09 04:46:10,548 INFO: Successful JSON file creation of VPC!
+2021-02-09 04:46:25,563 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:46:26,205 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:46:26,324 INFO:  VPG : Success!
+2021-02-09 04:46:26,357 INFO: Successful JSON file creation of VPG!
+2021-02-09 04:46:41,369 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:46:42,102 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:46:42,265 INFO:  VPL : Success!
+2021-02-09 04:46:42,315 INFO: Successful JSON file creation of VPL!
+2021-02-09 04:46:57,329 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:46:57,852 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:46:57,873 INFO:  VPN : Success!
+2021-02-09 04:46:57,875 INFO: Successful JSON file creation of VPN!
+2021-02-09 04:47:12,877 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:47:13,344 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPOP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:47:13,346 INFO:  VPOP : Success!
+2021-02-09 04:47:13,346 INFO: Successful JSON file creation of VPOP!
+2021-02-09 04:47:28,353 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:47:30,164 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:47:30,304 INFO:  VPU : Success!
+2021-02-09 04:47:30,356 INFO: Successful JSON file creation of VPU!
+2021-02-09 04:47:45,369 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:47:46,261 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VPV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:47:46,414 INFO:  VPV : Success!
+2021-02-09 04:47:46,482 INFO: Successful JSON file creation of VPV!
+2021-02-09 04:48:01,493 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:48:02,002 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:48:02,039 INFO:  VRA : Success!
+2021-02-09 04:48:02,071 INFO: Successful JSON file creation of VRA!
+2021-02-09 04:48:17,085 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:48:17,489 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRAI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:48:17,550 INFO:  VRAI : Success!
+2021-02-09 04:48:17,557 INFO: Successful JSON file creation of VRAI!
+2021-02-09 04:48:32,574 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:48:33,059 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRAY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:48:33,159 INFO:  VRAY : Success!
+2021-02-09 04:48:33,176 INFO: Successful JSON file creation of VRAY!
+2021-02-09 04:48:48,178 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:48:48,609 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRCA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:48:48,684 INFO:  VRCA : Success!
+2021-02-09 04:48:48,694 INFO: Successful JSON file creation of VRCA!
+2021-02-09 04:49:03,707 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:49:05,180 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRDN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:49:05,319 INFO:  VRDN : Success!
+2021-02-09 04:49:05,340 INFO: Successful JSON file creation of VRDN!
+2021-02-09 04:49:20,342 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:49:20,784 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VREX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:49:20,864 INFO:  VREX : Success!
+2021-02-09 04:49:20,879 INFO: Successful JSON file creation of VREX!
+2021-02-09 04:49:35,895 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:49:36,366 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRIG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:49:36,460 INFO:  VRIG : Success!
+2021-02-09 04:49:36,473 INFO: Successful JSON file creation of VRIG!
+2021-02-09 04:49:51,482 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:49:51,854 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:49:51,887 INFO:  VRM : Success!
+2021-02-09 04:49:51,890 INFO: Successful JSON file creation of VRM!
+2021-02-09 04:50:06,898 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:50:07,514 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRME&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:50:07,635 INFO:  VRME : Success!
+2021-02-09 04:50:07,674 INFO: Successful JSON file creation of VRME!
+2021-02-09 04:50:22,679 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:50:23,129 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRNA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:50:23,201 INFO:  VRNA : Success!
+2021-02-09 04:50:23,213 INFO: Successful JSON file creation of VRNA!
+2021-02-09 04:50:38,217 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:50:38,709 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRNS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:50:38,874 INFO:  VRNS : Success!
+2021-02-09 04:50:38,896 INFO: Successful JSON file creation of VRNS!
+2021-02-09 04:50:53,903 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:50:54,714 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRNT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:50:54,857 INFO:  VRNT : Success!
+2021-02-09 04:50:54,915 INFO: Successful JSON file creation of VRNT!
+2021-02-09 04:51:09,930 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:51:10,894 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:51:11,035 INFO:  VRP : Success!
+2021-02-09 04:51:11,059 INFO: Successful JSON file creation of VRP!
+2021-02-09 04:51:26,068 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:51:26,485 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRRM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:51:26,574 INFO:  VRRM : Success!
+2021-02-09 04:51:26,587 INFO: Successful JSON file creation of VRRM!
+2021-02-09 04:51:41,595 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:51:42,039 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:51:42,136 INFO:  VRS : Success!
+2021-02-09 04:51:42,151 INFO: Successful JSON file creation of VRS!
+2021-02-09 04:51:57,168 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:51:57,805 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRSK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:51:57,944 INFO:  VRSK : Success!
+2021-02-09 04:51:57,983 INFO: Successful JSON file creation of VRSK!
+2021-02-09 04:52:12,994 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:52:13,774 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRSN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:52:14,168 INFO:  VRSN : Success!
+2021-02-09 04:52:14,235 INFO: Successful JSON file creation of VRSN!
+2021-02-09 04:52:29,238 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:52:29,918 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:52:29,994 INFO:  VRT : Success!
+2021-02-09 04:52:30,003 INFO: Successful JSON file creation of VRT!
+2021-02-09 04:52:45,011 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:52:45,694 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRTS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:52:45,812 INFO:  VRTS : Success!
+2021-02-09 04:52:45,851 INFO: Successful JSON file creation of VRTS!
+2021-02-09 04:53:00,857 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:53:01,568 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRTU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:53:01,847 INFO:  VRTU : Success!
+2021-02-09 04:53:01,892 INFO: Successful JSON file creation of VRTU!
+2021-02-09 04:53:16,907 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:53:17,460 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRTV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:53:17,603 INFO:  VRTV : Success!
+2021-02-09 04:53:17,627 INFO: Successful JSON file creation of VRTV!
+2021-02-09 04:53:32,630 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:53:33,525 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VRTX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:53:33,672 INFO:  VRTX : Success!
+2021-02-09 04:53:33,743 INFO: Successful JSON file creation of VRTX!
+2021-02-09 04:53:48,755 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:53:49,676 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSAT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:53:50,074 INFO:  VSAT : Success!
+2021-02-09 04:53:50,143 INFO: Successful JSON file creation of VSAT!
+2021-02-09 04:54:05,159 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:54:05,579 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSDA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:54:05,653 INFO:  VSDA : Success!
+2021-02-09 04:54:05,666 INFO: Successful JSON file creation of VSDA!
+2021-02-09 04:54:20,670 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:54:21,606 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSEC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:54:21,745 INFO:  VSEC : Success!
+2021-02-09 04:54:21,814 INFO: Successful JSON file creation of VSEC!
+2021-02-09 04:54:36,817 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:54:37,538 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSGX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:54:37,612 INFO:  VSGX : Success!
+2021-02-09 04:54:37,620 INFO: Successful JSON file creation of VSGX!
+2021-02-09 04:54:52,634 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:54:53,546 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:54:53,704 INFO:  VSH : Success!
+2021-02-09 04:54:53,774 INFO: Successful JSON file creation of VSH!
+2021-02-09 04:55:08,778 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:55:09,271 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:55:09,345 INFO:  VSL : Success!
+2021-02-09 04:55:09,355 INFO: Successful JSON file creation of VSL!
+2021-02-09 04:55:24,360 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:55:24,882 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSMV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:55:24,954 INFO:  VSMV : Success!
+2021-02-09 04:55:24,966 INFO: Successful JSON file creation of VSMV!
+2021-02-09 04:55:40,027 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:55:40,512 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSPR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:55:40,515 INFO:  VSPR : Success!
+2021-02-09 04:55:40,516 INFO: Successful JSON file creation of VSPR!
+2021-02-09 04:55:55,525 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:55:56,984 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:55:57,242 INFO:  VSS : Success!
+2021-02-09 04:55:57,281 INFO: Successful JSON file creation of VSS!
+2021-02-09 04:56:12,293 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:56:12,761 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VST&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:56:12,858 INFO:  VST : Success!
+2021-02-09 04:56:12,872 INFO: Successful JSON file creation of VST!
+2021-02-09 04:56:27,875 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:56:28,233 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSTA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:56:28,261 INFO:  VSTA : Success!
+2021-02-09 04:56:28,263 INFO: Successful JSON file creation of VSTA!
+2021-02-09 04:56:43,265 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:56:43,799 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSTM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:56:43,915 INFO:  VSTM : Success!
+2021-02-09 04:56:43,944 INFO: Successful JSON file creation of VSTM!
+2021-02-09 04:56:58,958 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:56:59,541 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VSTO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:56:59,643 INFO:  VSTO : Success!
+2021-02-09 04:56:59,663 INFO: Successful JSON file creation of VSTO!
+2021-02-09 04:57:14,679 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:57:15,488 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:57:15,633 INFO:  VTA : Success!
+2021-02-09 04:57:15,678 INFO: Successful JSON file creation of VTA!
+2021-02-09 04:57:30,693 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:57:31,111 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:57:31,183 INFO:  VTC : Success!
+2021-02-09 04:57:31,195 INFO: Successful JSON file creation of VTC!
+2021-02-09 04:57:46,204 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:57:47,171 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTEB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:57:47,274 INFO:  VTEB : Success!
+2021-02-09 04:57:47,291 INFO: Successful JSON file creation of VTEB!
+2021-02-09 04:58:02,300 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:58:02,795 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTGN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:58:02,884 INFO:  VTGN : Success!
+2021-02-09 04:58:02,899 INFO: Successful JSON file creation of VTGN!
+2021-02-09 04:58:17,906 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:58:18,615 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTHR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:58:18,757 INFO:  VTHR : Success!
+2021-02-09 04:58:18,790 INFO: Successful JSON file creation of VTHR!
+2021-02-09 04:58:33,794 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:58:34,654 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:58:34,801 INFO:  VTI : Success!
+2021-02-09 04:58:34,865 INFO: Successful JSON file creation of VTI!
+2021-02-09 04:58:49,878 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:58:50,512 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTIP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:58:50,615 INFO:  VTIP : Success!
+2021-02-09 04:58:50,641 INFO: Successful JSON file creation of VTIP!
+2021-02-09 04:59:05,657 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:59:06,502 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:59:06,638 INFO:  VTN : Success!
+2021-02-09 04:59:06,712 INFO: Successful JSON file creation of VTN!
+2021-02-09 04:59:21,728 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:59:22,640 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTNR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:59:22,784 INFO:  VTNR : Success!
+2021-02-09 04:59:22,852 INFO: Successful JSON file creation of VTNR!
+2021-02-09 04:59:37,861 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:59:38,431 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTOL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:59:38,545 INFO:  VTOL : Success!
+2021-02-09 04:59:38,570 INFO: Successful JSON file creation of VTOL!
+2021-02-09 04:59:53,573 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 04:59:54,361 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 04:59:54,785 INFO:  VTR : Success!
+2021-02-09 04:59:54,851 INFO: Successful JSON file creation of VTR!
+2021-02-09 05:00:09,867 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:00:10,367 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:00:10,369 INFO:  VTRN : Success!
+2021-02-09 05:00:10,370 INFO: Successful JSON file creation of VTRN!
+2021-02-09 05:00:25,379 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:00:25,643 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTRS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:00:25,647 INFO:  VTRS : Success!
+2021-02-09 05:00:25,648 INFO: Successful JSON file creation of VTRS!
+2021-02-09 05:00:40,659 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:00:41,025 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTRU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:00:41,048 INFO:  VTRU : Success!
+2021-02-09 05:00:41,051 INFO: Successful JSON file creation of VTRU!
+2021-02-09 05:00:56,054 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:00:56,533 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTSI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:00:56,616 INFO:  VTSI : Success!
+2021-02-09 05:00:56,631 INFO: Successful JSON file creation of VTSI!
+2021-02-09 05:01:11,633 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:01:13,417 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:01:13,776 INFO:  VTV : Success!
+2021-02-09 05:01:13,835 INFO: Successful JSON file creation of VTV!
+2021-02-09 05:01:28,845 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:01:29,355 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTVT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:01:29,451 INFO:  VTVT : Success!
+2021-02-09 05:01:29,471 INFO: Successful JSON file creation of VTVT!
+2021-02-09 05:01:44,477 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:01:45,149 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTWG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:01:45,293 INFO:  VTWG : Success!
+2021-02-09 05:01:45,329 INFO: Successful JSON file creation of VTWG!
+2021-02-09 05:02:00,334 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:02:01,237 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTWO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:02:01,429 INFO:  VTWO : Success!
+2021-02-09 05:02:01,461 INFO: Successful JSON file creation of VTWO!
+2021-02-09 05:02:16,477 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:02:17,072 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VTWV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:02:17,216 INFO:  VTWV : Success!
+2021-02-09 05:02:17,252 INFO: Successful JSON file creation of VTWV!
+2021-02-09 05:02:32,255 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:02:34,088 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VUG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:02:34,428 INFO:  VUG : Success!
+2021-02-09 05:02:34,485 INFO: Successful JSON file creation of VUG!
+2021-02-09 05:02:49,499 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:02:49,954 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VUSE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:02:50,120 INFO:  VUSE : Success!
+2021-02-09 05:02:50,143 INFO: Successful JSON file creation of VUSE!
+2021-02-09 05:03:05,149 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:03:05,809 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VUZI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:03:05,933 INFO:  VUZI : Success!
+2021-02-09 05:03:05,968 INFO: Successful JSON file creation of VUZI!
+2021-02-09 05:03:20,984 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:03:21,733 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:03:21,876 INFO:  VVI : Success!
+2021-02-09 05:03:21,932 INFO: Successful JSON file creation of VVI!
+2021-02-09 05:03:36,947 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:03:37,307 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVNT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:03:37,357 INFO:  VVNT : Success!
+2021-02-09 05:03:37,361 INFO: Successful JSON file creation of VVNT!
+2021-02-09 05:03:52,374 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:03:52,722 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVOS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:03:52,723 INFO:  VVOS : Success!
+2021-02-09 05:03:52,724 INFO: Successful JSON file creation of VVOS!
+2021-02-09 05:04:07,738 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:04:08,208 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVPR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:04:08,288 INFO:  VVPR : Success!
+2021-02-09 05:04:08,301 INFO: Successful JSON file creation of VVPR!
+2021-02-09 05:04:23,312 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:04:24,134 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:04:24,272 INFO:  VVR : Success!
+2021-02-09 05:04:24,341 INFO: Successful JSON file creation of VVR!
+2021-02-09 05:04:39,346 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:04:39,866 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VVV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:04:39,961 INFO:  VVV : Success!
+2021-02-09 05:04:39,975 INFO: Successful JSON file creation of VVV!
+2021-02-09 05:04:54,988 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:04:55,741 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VWID&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:04:55,815 INFO:  VWID : Success!
+2021-02-09 05:04:55,826 INFO: Successful JSON file creation of VWID!
+2021-02-09 05:05:10,830 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:05:11,438 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VWO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:05:11,570 INFO:  VWO : Success!
+2021-02-09 05:05:11,621 INFO: Successful JSON file creation of VWO!
+2021-02-09 05:05:26,631 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:05:27,137 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VWOB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:05:27,329 INFO:  VWOB : Success!
+2021-02-09 05:05:27,353 INFO: Successful JSON file creation of VWOB!
+2021-02-09 05:05:42,355 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:05:44,419 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VXF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:05:44,560 INFO:  VXF : Success!
+2021-02-09 05:05:44,621 INFO: Successful JSON file creation of VXF!
+2021-02-09 05:05:59,630 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:06:00,149 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VXRT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:06:00,222 INFO:  VXRT : Success!
+2021-02-09 05:06:00,232 INFO: Successful JSON file creation of VXRT!
+2021-02-09 05:06:15,235 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:06:15,807 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VXUS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:06:15,930 INFO:  VXUS : Success!
+2021-02-09 05:06:15,963 INFO: Successful JSON file creation of VXUS!
+2021-02-09 05:06:30,979 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:06:31,611 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VXX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:06:31,733 INFO:  VXX : Success!
+2021-02-09 05:06:31,772 INFO: Successful JSON file creation of VXX!
+2021-02-09 05:06:46,778 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:06:47,387 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VXZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:06:47,461 INFO:  VXZ : Success!
+2021-02-09 05:06:47,472 INFO: Successful JSON file creation of VXZ!
+2021-02-09 05:07:02,475 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:07:02,997 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VYGG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:07:03,000 INFO:  VYGG : Success!
+2021-02-09 05:07:03,000 INFO: Successful JSON file creation of VYGG!
+2021-02-09 05:07:18,008 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:07:18,498 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VYGR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:07:18,640 INFO:  VYGR : Success!
+2021-02-09 05:07:18,659 INFO: Successful JSON file creation of VYGR!
+2021-02-09 05:07:33,675 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:07:34,317 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VYM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:07:34,452 INFO:  VYM : Success!
+2021-02-09 05:07:34,502 INFO: Successful JSON file creation of VYM!
+2021-02-09 05:07:49,518 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:07:50,005 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VYMI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:07:50,127 INFO:  VYMI : Success!
+2021-02-09 05:07:50,142 INFO: Successful JSON file creation of VYMI!
+2021-02-09 05:08:05,145 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:08:05,507 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=VYNE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:08:05,566 INFO:  VYNE : Success!
+2021-02-09 05:08:05,575 INFO: Successful JSON file creation of VYNE!
+2021-02-09 05:08:20,588 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:08:21,493 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WAB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:08:21,640 INFO:  WAB : Success!
+2021-02-09 05:08:21,708 INFO: Successful JSON file creation of WAB!
+2021-02-09 05:08:36,719 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:08:37,543 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WABC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:08:37,965 INFO:  WABC : Success!
+2021-02-09 05:08:38,037 INFO: Successful JSON file creation of WABC!
+2021-02-09 05:08:53,044 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:08:53,941 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WAFD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:08:54,086 INFO:  WAFD : Success!
+2021-02-09 05:08:54,155 INFO: Successful JSON file creation of WAFD!
+2021-02-09 05:09:09,162 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:09:09,572 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WAFU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:09:09,617 INFO:  WAFU : Success!
+2021-02-09 05:09:09,623 INFO: Successful JSON file creation of WAFU!
+2021-02-09 05:09:24,638 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:09:25,422 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WAL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:09:25,547 INFO:  WAL : Success!
+2021-02-09 05:09:25,596 INFO: Successful JSON file creation of WAL!
+2021-02-09 05:09:40,609 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:09:41,085 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WALA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:09:41,204 INFO:  WALA : Success!
+2021-02-09 05:09:41,220 INFO: Successful JSON file creation of WALA!
+2021-02-09 05:09:56,234 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:09:56,854 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WANT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:09:56,942 INFO:  WANT : Success!
+2021-02-09 05:09:56,949 INFO: Successful JSON file creation of WANT!
+2021-02-09 05:10:11,952 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:10:12,672 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WASH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:10:12,834 INFO:  WASH : Success!
+2021-02-09 05:10:12,904 INFO: Successful JSON file creation of WASH!
+2021-02-09 05:10:27,914 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:10:28,869 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WAT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:10:29,301 INFO:  WAT : Success!
+2021-02-09 05:10:29,368 INFO: Successful JSON file creation of WAT!
+2021-02-09 05:10:44,378 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:10:44,874 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WATT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:10:44,976 INFO:  WATT : Success!
+2021-02-09 05:10:44,997 INFO: Successful JSON file creation of WATT!
+2021-02-09 05:11:00,013 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:11:00,860 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:11:01,190 INFO:  WBA : Success!
+2021-02-09 05:11:01,261 INFO: Successful JSON file creation of WBA!
+2021-02-09 05:11:16,264 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:11:16,772 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBAI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:11:16,887 INFO:  WBAI : Success!
+2021-02-09 05:11:16,911 INFO: Successful JSON file creation of WBAI!
+2021-02-09 05:11:31,921 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:11:33,397 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:11:33,495 INFO:  WBIE : Success!
+2021-02-09 05:11:33,523 INFO: Successful JSON file creation of WBIE!
+2021-02-09 05:11:48,536 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:11:49,524 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:11:49,622 INFO:  WBIF : Success!
+2021-02-09 05:11:49,642 INFO: Successful JSON file creation of WBIF!
+2021-02-09 05:12:04,658 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:12:05,618 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:12:05,645 INFO:  WBIG : Success!
+2021-02-09 05:12:05,666 INFO: Successful JSON file creation of WBIG!
+2021-02-09 05:12:20,680 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:12:21,690 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBII&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:12:21,834 INFO:  WBII : Success!
+2021-02-09 05:12:21,855 INFO: Successful JSON file creation of WBII!
+2021-02-09 05:12:36,871 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:12:37,839 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:12:37,941 INFO:  WBIL : Success!
+2021-02-09 05:12:37,962 INFO: Successful JSON file creation of WBIL!
+2021-02-09 05:12:52,975 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:12:53,608 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:12:53,664 INFO:  WBIN : Success!
+2021-02-09 05:12:53,670 INFO: Successful JSON file creation of WBIN!
+2021-02-09 05:13:08,673 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:13:09,338 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:13:09,393 INFO:  WBIT : Success!
+2021-02-09 05:13:09,399 INFO: Successful JSON file creation of WBIT!
+2021-02-09 05:13:24,414 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:13:25,225 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBIY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:13:25,299 INFO:  WBIY : Success!
+2021-02-09 05:13:25,311 INFO: Successful JSON file creation of WBIY!
+2021-02-09 05:13:40,320 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:13:41,238 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:13:41,389 INFO:  WBK : Success!
+2021-02-09 05:13:41,456 INFO: Successful JSON file creation of WBK!
+2021-02-09 05:13:56,471 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:13:56,876 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBND&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:13:56,945 INFO:  WBND : Success!
+2021-02-09 05:13:56,955 INFO: Successful JSON file creation of WBND!
+2021-02-09 05:14:11,965 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:14:12,875 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:14:13,049 INFO:  WBS : Success!
+2021-02-09 05:14:13,115 INFO: Successful JSON file creation of WBS!
+2021-02-09 05:14:28,121 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:14:28,522 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WBT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:14:28,642 INFO:  WBT : Success!
+2021-02-09 05:14:28,658 INFO: Successful JSON file creation of WBT!
+2021-02-09 05:14:43,664 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:14:44,113 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WCBR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:14:44,115 INFO:  WCBR : Success!
+2021-02-09 05:14:44,115 INFO: Successful JSON file creation of WCBR!
+2021-02-09 05:14:59,123 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:15:00,007 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WCC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:15:00,175 INFO:  WCC : Success!
+2021-02-09 05:15:00,252 INFO: Successful JSON file creation of WCC!
+2021-02-09 05:15:15,268 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:15:15,565 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WCLD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:15:15,595 INFO:  WCLD : Success!
+2021-02-09 05:15:15,600 INFO: Successful JSON file creation of WCLD!
+2021-02-09 05:15:30,616 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:15:31,352 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WCN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:15:31,446 INFO:  WCN : Success!
+2021-02-09 05:15:31,514 INFO: Successful JSON file creation of WCN!
+2021-02-09 05:15:46,521 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:15:47,050 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WDAY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:15:47,234 INFO:  WDAY : Success!
+2021-02-09 05:15:47,260 INFO: Successful JSON file creation of WDAY!
+2021-02-09 05:16:02,266 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:16:03,178 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WDC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:16:03,619 INFO:  WDC : Success!
+2021-02-09 05:16:03,691 INFO: Successful JSON file creation of WDC!
+2021-02-09 05:16:18,700 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:16:19,640 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WDFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:16:19,792 INFO:  WDFC : Success!
+2021-02-09 05:16:19,864 INFO: Successful JSON file creation of WDFC!
+2021-02-09 05:16:34,870 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:16:36,015 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WDIV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:16:36,121 INFO:  WDIV : Success!
+2021-02-09 05:16:36,144 INFO: Successful JSON file creation of WDIV!
+2021-02-09 05:16:51,148 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:16:52,023 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WDR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:16:52,171 INFO:  WDR : Success!
+2021-02-09 05:16:52,238 INFO: Successful JSON file creation of WDR!
+2021-02-09 05:17:07,241 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:17:08,111 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:17:08,508 INFO:  WEA : Success!
+2021-02-09 05:17:08,570 INFO: Successful JSON file creation of WEA!
+2021-02-09 05:17:23,587 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:17:24,618 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEAT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:17:24,736 INFO:  WEAT : Success!
+2021-02-09 05:17:24,766 INFO: Successful JSON file creation of WEAT!
+2021-02-09 05:17:39,774 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:17:40,325 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEBL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:17:40,375 INFO:  WEBL : Success!
+2021-02-09 05:17:40,379 INFO: Successful JSON file creation of WEBL!
+2021-02-09 05:17:55,389 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:17:55,771 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEBS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:17:55,819 INFO:  WEBS : Success!
+2021-02-09 05:17:55,823 INFO: Successful JSON file creation of WEBS!
+2021-02-09 05:18:10,836 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:18:11,703 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:18:11,849 INFO:  WEC : Success!
+2021-02-09 05:18:11,914 INFO: Successful JSON file creation of WEC!
+2021-02-09 05:18:26,927 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:18:27,372 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:18:27,445 INFO:  WEI : Success!
+2021-02-09 05:18:27,452 INFO: Successful JSON file creation of WEI!
+2021-02-09 05:18:42,455 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:18:43,259 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WELL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:18:43,409 INFO:  WELL : Success!
+2021-02-09 05:18:43,473 INFO: Successful JSON file creation of WELL!
+2021-02-09 05:18:58,488 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:18:59,283 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:18:59,433 INFO:  WEN : Success!
+2021-02-09 05:18:59,499 INFO: Successful JSON file creation of WEN!
+2021-02-09 05:19:14,504 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:19:15,440 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WERN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:19:15,862 INFO:  WERN : Success!
+2021-02-09 05:19:15,927 INFO: Successful JSON file creation of WERN!
+2021-02-09 05:19:30,932 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:19:31,452 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WES&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:19:31,622 INFO:  WES : Success!
+2021-02-09 05:19:31,646 INFO: Successful JSON file creation of WES!
+2021-02-09 05:19:46,658 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:19:47,499 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WETF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:19:47,919 INFO:  WETF : Success!
+2021-02-09 05:19:47,992 INFO: Successful JSON file creation of WETF!
+2021-02-09 05:20:03,011 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:20:03,810 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:20:03,969 INFO:  WEX : Success!
+2021-02-09 05:20:04,022 INFO: Successful JSON file creation of WEX!
+2021-02-09 05:20:19,035 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:20:19,890 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WEYS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:20:20,071 INFO:  WEYS : Success!
+2021-02-09 05:20:20,142 INFO: Successful JSON file creation of WEYS!
+2021-02-09 05:20:35,158 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:20:36,027 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:20:36,337 INFO:  WFC : Success!
+2021-02-09 05:20:36,410 INFO: Successful JSON file creation of WFC!
+2021-02-09 05:20:51,424 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:20:52,040 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WFH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:20:52,066 INFO:  WFH : Success!
+2021-02-09 05:20:52,068 INFO: Successful JSON file creation of WFH!
+2021-02-09 05:21:07,072 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:21:07,933 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WFHY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:21:08,052 INFO:  WFHY : Success!
+2021-02-09 05:21:08,067 INFO: Successful JSON file creation of WFHY!
+2021-02-09 05:21:23,083 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:21:23,915 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WFIG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:21:24,006 INFO:  WFIG : Success!
+2021-02-09 05:21:24,022 INFO: Successful JSON file creation of WFIG!
+2021-02-09 05:21:39,032 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:21:39,915 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WGO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:21:40,062 INFO:  WGO : Success!
+2021-02-09 05:21:40,139 INFO: Successful JSON file creation of WGO!
+2021-02-09 05:21:55,153 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:21:55,558 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:21:55,631 INFO:  WHD : Success!
+2021-02-09 05:21:55,641 INFO: Successful JSON file creation of WHD!
+2021-02-09 05:22:10,649 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:22:11,118 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:22:11,153 INFO:  WHF : Success!
+2021-02-09 05:22:11,182 INFO: Successful JSON file creation of WHF!
+2021-02-09 05:22:26,185 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:22:26,965 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:22:27,108 INFO:  WHG : Success!
+2021-02-09 05:22:27,170 INFO: Successful JSON file creation of WHG!
+2021-02-09 05:22:42,177 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:22:42,970 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHLM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:22:43,116 INFO:  WHLM : Success!
+2021-02-09 05:22:43,182 INFO: Successful JSON file creation of WHLM!
+2021-02-09 05:22:58,193 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:22:58,759 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHLR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:22:58,864 INFO:  WHLR : Success!
+2021-02-09 05:22:58,889 INFO: Successful JSON file creation of WHLR!
+2021-02-09 05:23:13,900 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:23:14,765 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WHR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:23:14,917 INFO:  WHR : Success!
+2021-02-09 05:23:14,983 INFO: Successful JSON file creation of WHR!
+2021-02-09 05:23:29,998 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:23:30,781 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:23:31,072 INFO:  WIA : Success!
+2021-02-09 05:23:31,130 INFO: Successful JSON file creation of WIA!
+2021-02-09 05:23:46,139 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:23:46,715 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIFI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:23:46,895 INFO:  WIFI : Success!
+2021-02-09 05:23:46,927 INFO: Successful JSON file creation of WIFI!
+2021-02-09 05:24:01,942 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:24:02,864 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:24:02,966 INFO:  WIL : Success!
+2021-02-09 05:24:02,989 INFO: Successful JSON file creation of WIL!
+2021-02-09 05:24:17,992 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:24:18,838 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WILC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:24:19,016 INFO:  WILC : Success!
+2021-02-09 05:24:19,096 INFO: Successful JSON file creation of WILC!
+2021-02-09 05:24:34,102 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:24:34,568 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIMI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:24:34,616 INFO:  WIMI : Success!
+2021-02-09 05:24:34,619 INFO: Successful JSON file creation of WIMI!
+2021-02-09 05:24:49,622 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:24:50,618 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WINA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:24:50,756 INFO:  WINA : Success!
+2021-02-09 05:24:50,824 INFO: Successful JSON file creation of WINA!
+2021-02-09 05:25:05,836 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:25:06,138 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WINC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:25:06,202 INFO:  WINC : Success!
+2021-02-09 05:25:06,209 INFO: Successful JSON file creation of WINC!
+2021-02-09 05:25:21,226 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:25:21,735 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WING&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:25:21,861 INFO:  WING : Success!
+2021-02-09 05:25:21,879 INFO: Successful JSON file creation of WING!
+2021-02-09 05:25:36,890 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:25:37,359 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WINT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:25:37,479 INFO:  WINT : Success!
+2021-02-09 05:25:37,495 INFO: Successful JSON file creation of WINT!
+2021-02-09 05:25:52,506 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:25:53,250 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:25:53,510 INFO:  WIP : Success!
+2021-02-09 05:25:53,552 INFO: Successful JSON file creation of WIP!
+2021-02-09 05:26:08,555 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:26:09,456 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIRE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:26:09,622 INFO:  WIRE : Success!
+2021-02-09 05:26:09,688 INFO: Successful JSON file creation of WIRE!
+2021-02-09 05:26:24,705 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:26:25,110 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WISA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:26:25,184 INFO:  WISA : Success!
+2021-02-09 05:26:25,194 INFO: Successful JSON file creation of WISA!
+2021-02-09 05:26:40,207 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:26:40,589 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WISH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:26:40,595 INFO:  WISH : Success!
+2021-02-09 05:26:40,596 INFO: Successful JSON file creation of WISH!
+2021-02-09 05:26:55,602 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:26:56,382 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:26:56,526 INFO:  WIT : Success!
+2021-02-09 05:26:56,594 INFO: Successful JSON file creation of WIT!
+2021-02-09 05:27:11,609 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:27:12,400 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:27:12,760 INFO:  WIW : Success!
+2021-02-09 05:27:12,813 INFO: Successful JSON file creation of WIW!
+2021-02-09 05:27:27,825 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:27:28,447 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:27:28,547 INFO:  WIX : Success!
+2021-02-09 05:27:28,572 INFO: Successful JSON file creation of WIX!
+2021-02-09 05:27:43,576 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:27:44,164 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WIZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:27:44,213 INFO:  WIZ : Success!
+2021-02-09 05:27:44,217 INFO: Successful JSON file creation of WIZ!
+2021-02-09 05:27:59,233 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:27:59,659 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WKEY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:27:59,727 INFO:  WKEY : Success!
+2021-02-09 05:27:59,735 INFO: Successful JSON file creation of WKEY!
+2021-02-09 05:28:14,748 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:28:15,225 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WKHS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:28:15,366 INFO:  WKHS : Success!
+2021-02-09 05:28:15,389 INFO: Successful JSON file creation of WKHS!
+2021-02-09 05:28:30,399 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:28:30,950 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLDN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:28:31,071 INFO:  WLDN : Success!
+2021-02-09 05:28:31,115 INFO: Successful JSON file creation of WLDN!
+2021-02-09 05:28:46,124 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:28:46,833 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLDR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:28:46,845 INFO:  WLDR : Success!
+2021-02-09 05:28:46,855 INFO: Successful JSON file creation of WLDR!
+2021-02-09 05:29:01,858 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:29:02,755 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:29:03,049 INFO:  WLFC : Success!
+2021-02-09 05:29:03,120 INFO: Successful JSON file creation of WLFC!
+2021-02-09 05:29:18,128 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:29:18,887 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:29:19,024 INFO:  WLK : Success!
+2021-02-09 05:29:19,077 INFO: Successful JSON file creation of WLK!
+2021-02-09 05:29:34,080 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:29:34,574 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLKP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:29:34,665 INFO:  WLKP : Success!
+2021-02-09 05:29:34,685 INFO: Successful JSON file creation of WLKP!
+2021-02-09 05:29:49,701 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:29:50,078 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:29:50,094 INFO:  WLL : Success!
+2021-02-09 05:29:50,096 INFO: Successful JSON file creation of WLL!
+2021-02-09 05:30:05,112 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:30:06,031 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WLTW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:30:06,132 INFO:  WLTW : Success!
+2021-02-09 05:30:06,148 INFO: Successful JSON file creation of WLTW!
+2021-02-09 05:30:21,165 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:30:22,086 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:30:22,243 INFO:  WMB : Success!
+2021-02-09 05:30:22,307 INFO: Successful JSON file creation of WMB!
+2021-02-09 05:30:37,311 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:30:37,846 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:30:37,952 INFO:  WMC : Success!
+2021-02-09 05:30:37,980 INFO: Successful JSON file creation of WMC!
+2021-02-09 05:30:52,993 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:30:53,346 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:30:53,372 INFO:  WMG : Success!
+2021-02-09 05:30:53,375 INFO: Successful JSON file creation of WMG!
+2021-02-09 05:31:08,380 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:31:10,768 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:31:11,053 INFO:  WMK : Success!
+2021-02-09 05:31:11,118 INFO: Successful JSON file creation of WMK!
+2021-02-09 05:31:26,122 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:31:27,163 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:31:27,304 INFO:  WMS : Success!
+2021-02-09 05:31:27,324 INFO: Successful JSON file creation of WMS!
+2021-02-09 05:31:42,339 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:31:44,558 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WMT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:31:44,704 INFO:  WMT : Success!
+2021-02-09 05:31:44,770 INFO: Successful JSON file creation of WMT!
+2021-02-09 05:31:59,778 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:32:03,343 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WNC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:32:03,490 INFO:  WNC : Success!
+2021-02-09 05:32:03,560 INFO: Successful JSON file creation of WNC!
+2021-02-09 05:32:18,573 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:32:20,656 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WNEB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:32:20,793 INFO:  WNEB : Success!
+2021-02-09 05:32:20,851 INFO: Successful JSON file creation of WNEB!
+2021-02-09 05:32:35,858 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:32:37,283 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WNS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:32:37,395 INFO:  WNS : Success!
+2021-02-09 05:32:37,441 INFO: Successful JSON file creation of WNS!
+2021-02-09 05:32:52,456 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:32:53,050 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WNW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:32:53,053 INFO:  WNW : Success!
+2021-02-09 05:32:53,054 INFO: Successful JSON file creation of WNW!
+2021-02-09 05:33:08,065 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:33:08,654 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WOMN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:33:08,718 INFO:  WOMN : Success!
+2021-02-09 05:33:08,726 INFO: Successful JSON file creation of WOMN!
+2021-02-09 05:33:23,732 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:33:25,119 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WOOD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:33:25,384 INFO:  WOOD : Success!
+2021-02-09 05:33:25,423 INFO: Successful JSON file creation of WOOD!
+2021-02-09 05:33:40,437 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:33:40,829 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WOOF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:33:40,832 INFO:  WOOF : Success!
+2021-02-09 05:33:40,832 INFO: Successful JSON file creation of WOOF!
+2021-02-09 05:33:55,842 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:33:58,122 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WOR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:33:58,545 INFO:  WOR : Success!
+2021-02-09 05:33:58,611 INFO: Successful JSON file creation of WOR!
+2021-02-09 05:34:13,618 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:34:14,265 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WORK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:34:14,318 INFO:  WORK : Success!
+2021-02-09 05:34:14,323 INFO: Successful JSON file creation of WORK!
+2021-02-09 05:34:29,332 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:34:30,069 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WORX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:34:30,164 INFO:  WORX : Success!
+2021-02-09 05:34:30,177 INFO: Successful JSON file creation of WORX!
+2021-02-09 05:34:45,190 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:34:45,881 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WOW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:34:45,976 INFO:  WOW : Success!
+2021-02-09 05:34:45,989 INFO: Successful JSON file creation of WOW!
+2021-02-09 05:35:00,995 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:35:03,791 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:35:03,896 INFO:  WPC : Success!
+2021-02-09 05:35:03,969 INFO: Successful JSON file creation of WPC!
+2021-02-09 05:35:18,982 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:35:19,535 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:35:19,563 INFO:  WPF : Success!
+2021-02-09 05:35:19,565 INFO: Successful JSON file creation of WPF!
+2021-02-09 05:35:34,576 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:35:35,484 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:35:35,583 INFO:  WPG : Success!
+2021-02-09 05:35:35,607 INFO: Successful JSON file creation of WPG!
+2021-02-09 05:35:50,618 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:35:51,474 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:35:51,572 INFO:  WPM : Success!
+2021-02-09 05:35:51,589 INFO: Successful JSON file creation of WPM!
+2021-02-09 05:36:06,595 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:36:15,492 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:36:15,898 INFO:  WPP : Success!
+2021-02-09 05:36:15,966 INFO: Successful JSON file creation of WPP!
+2021-02-09 05:36:30,971 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:36:32,175 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPRT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:36:32,456 INFO:  WPRT : Success!
+2021-02-09 05:36:32,497 INFO: Successful JSON file creation of WPRT!
+2021-02-09 05:36:47,510 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:36:49,119 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WPS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:36:49,246 INFO:  WPS : Success!
+2021-02-09 05:36:49,291 INFO: Successful JSON file creation of WPS!
+2021-02-09 05:37:04,307 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:37:04,943 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRAP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:37:05,018 INFO:  WRAP : Success!
+2021-02-09 05:37:05,028 INFO: Successful JSON file creation of WRAP!
+2021-02-09 05:37:20,036 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:37:22,191 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:37:22,615 INFO:  WRB : Success!
+2021-02-09 05:37:22,687 INFO: Successful JSON file creation of WRB!
+2021-02-09 05:37:37,702 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:37:39,901 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:37:40,300 INFO:  WRE : Success!
+2021-02-09 05:37:40,368 INFO: Successful JSON file creation of WRE!
+2021-02-09 05:37:55,378 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:37:57,745 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:37:57,894 INFO:  WRI : Success!
+2021-02-09 05:37:57,963 INFO: Successful JSON file creation of WRI!
+2021-02-09 05:38:12,974 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:38:13,906 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:38:13,999 INFO:  WRK : Success!
+2021-02-09 05:38:14,017 INFO: Successful JSON file creation of WRK!
+2021-02-09 05:38:29,023 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:38:30,783 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRLD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:38:30,935 INFO:  WRLD : Success!
+2021-02-09 05:38:31,004 INFO: Successful JSON file creation of WRLD!
+2021-02-09 05:38:46,019 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:38:47,454 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:38:47,600 INFO:  WRN : Success!
+2021-02-09 05:38:47,651 INFO: Successful JSON file creation of WRN!
+2021-02-09 05:39:02,664 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:39:04,814 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSBC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:39:04,964 INFO:  WSBC : Success!
+2021-02-09 05:39:05,030 INFO: Successful JSON file creation of WSBC!
+2021-02-09 05:39:20,035 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:39:20,765 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSBF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:39:20,893 INFO:  WSBF : Success!
+2021-02-09 05:39:20,943 INFO: Successful JSON file creation of WSBF!
+2021-02-09 05:39:35,958 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:39:36,379 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:39:36,460 INFO:  WSC : Success!
+2021-02-09 05:39:36,470 INFO: Successful JSON file creation of WSC!
+2021-02-09 05:39:51,484 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:39:52,383 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSFS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:39:52,529 INFO:  WSFS : Success!
+2021-02-09 05:39:52,597 INFO: Successful JSON file creation of WSFS!
+2021-02-09 05:40:07,608 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:40:08,174 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:40:08,229 INFO:  WSG : Success!
+2021-02-09 05:40:08,236 INFO: Successful JSON file creation of WSG!
+2021-02-09 05:40:23,246 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:40:25,445 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:40:25,862 INFO:  WSM : Success!
+2021-02-09 05:40:25,929 INFO: Successful JSON file creation of WSM!
+2021-02-09 05:40:40,940 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:40:43,129 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:40:43,305 INFO:  WSO : Success!
+2021-02-09 05:40:43,373 INFO: Successful JSON file creation of WSO!
+2021-02-09 05:40:58,384 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:40:59,717 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:40:59,837 INFO:  WSR : Success!
+2021-02-09 05:40:59,871 INFO: Successful JSON file creation of WSR!
+2021-02-09 05:41:14,879 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:41:17,245 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WST&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:41:17,390 INFO:  WST : Success!
+2021-02-09 05:41:17,457 INFO: Successful JSON file creation of WST!
+2021-02-09 05:41:32,470 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:41:33,249 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WSTG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:41:33,390 INFO:  WSTG : Success!
+2021-02-09 05:41:33,456 INFO: Successful JSON file creation of WSTG!
+2021-02-09 05:41:48,475 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:41:49,416 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTBA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:41:49,561 INFO:  WTBA : Success!
+2021-02-09 05:41:49,625 INFO: Successful JSON file creation of WTBA!
+2021-02-09 05:42:04,637 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:42:05,103 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTER&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:42:05,267 INFO:  WTER : Success!
+2021-02-09 05:42:05,294 INFO: Successful JSON file creation of WTER!
+2021-02-09 05:42:20,307 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:42:21,103 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:42:21,405 INFO:  WTFC : Success!
+2021-02-09 05:42:21,473 INFO: Successful JSON file creation of WTFC!
+2021-02-09 05:42:36,489 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:42:38,162 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:42:38,296 INFO:  WTI : Success!
+2021-02-09 05:42:38,350 INFO: Successful JSON file creation of WTI!
+2021-02-09 05:42:53,355 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:42:55,473 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:42:55,617 INFO:  WTM : Success!
+2021-02-09 05:42:55,687 INFO: Successful JSON file creation of WTM!
+2021-02-09 05:43:10,701 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:43:12,081 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTMF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:43:12,294 INFO:  WTMF : Success!
+2021-02-09 05:43:12,325 INFO: Successful JSON file creation of WTMF!
+2021-02-09 05:43:27,339 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:43:27,737 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTRE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:43:27,795 INFO:  WTRE : Success!
+2021-02-09 05:43:27,802 INFO: Successful JSON file creation of WTRE!
+2021-02-09 05:43:42,807 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:43:44,988 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTRG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:43:45,384 INFO:  WTRG : Success!
+2021-02-09 05:43:45,456 INFO: Successful JSON file creation of WTRG!
+2021-02-09 05:44:00,468 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:44:00,924 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTRH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:44:01,018 INFO:  WTRH : Success!
+2021-02-09 05:44:01,032 INFO: Successful JSON file creation of WTRH!
+2021-02-09 05:44:16,045 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:44:18,309 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:44:18,453 INFO:  WTS : Success!
+2021-02-09 05:44:18,520 INFO: Successful JSON file creation of WTS!
+2021-02-09 05:44:33,528 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:44:35,517 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:44:35,796 INFO:  WTT : Success!
+2021-02-09 05:44:35,863 INFO: Successful JSON file creation of WTT!
+2021-02-09 05:44:50,871 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:44:51,610 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WTTR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:44:51,685 INFO:  WTTR : Success!
+2021-02-09 05:44:51,699 INFO: Successful JSON file creation of WTTR!
+2021-02-09 05:45:06,717 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:45:08,066 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WUGI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:45:08,112 INFO:  WUGI : Success!
+2021-02-09 05:45:08,115 INFO: Successful JSON file creation of WUGI!
+2021-02-09 05:45:23,132 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:45:23,754 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WVE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:45:23,902 INFO:  WVE : Success!
+2021-02-09 05:45:23,918 INFO: Successful JSON file creation of WVE!
+2021-02-09 05:45:38,922 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:45:39,756 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WVFC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:45:40,149 INFO:  WVFC : Success!
+2021-02-09 05:45:40,225 INFO: Successful JSON file creation of WVFC!
+2021-02-09 05:45:55,232 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:45:56,113 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WVVI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:45:56,268 INFO:  WVVI : Success!
+2021-02-09 05:45:56,335 INFO: Successful JSON file creation of WVVI!
+2021-02-09 05:46:11,338 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:46:12,212 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:46:12,359 INFO:  WWD : Success!
+2021-02-09 05:46:12,427 INFO: Successful JSON file creation of WWD!
+2021-02-09 05:46:27,434 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:46:29,623 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:46:29,766 INFO:  WWE : Success!
+2021-02-09 05:46:29,834 INFO: Successful JSON file creation of WWE!
+2021-02-09 05:46:44,845 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:46:45,452 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWJD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:46:45,508 INFO:  WWJD : Success!
+2021-02-09 05:46:45,512 INFO: Successful JSON file creation of WWJD!
+2021-02-09 05:47:00,513 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:47:01,012 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWOW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:47:01,014 INFO:  WWOW : Success!
+2021-02-09 05:47:01,015 INFO: Successful JSON file creation of WWOW!
+2021-02-09 05:47:16,018 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:47:16,538 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:47:16,614 INFO:  WWR : Success!
+2021-02-09 05:47:16,626 INFO: Successful JSON file creation of WWR!
+2021-02-09 05:47:31,633 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:47:33,860 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WWW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:47:34,275 INFO:  WWW : Success!
+2021-02-09 05:47:34,348 INFO: Successful JSON file creation of WWW!
+2021-02-09 05:47:49,358 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:47:51,003 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WYND&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:47:51,136 INFO:  WYND : Success!
+2021-02-09 05:47:51,182 INFO: Successful JSON file creation of WYND!
+2021-02-09 05:48:06,186 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:48:06,927 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WYNN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:48:07,327 INFO:  WYNN : Success!
+2021-02-09 05:48:07,384 INFO: Successful JSON file creation of WYNN!
+2021-02-09 05:48:22,397 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:48:24,342 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=WYY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:48:24,478 INFO:  WYY : Success!
+2021-02-09 05:48:24,550 INFO: Successful JSON file creation of WYY!
+2021-02-09 05:48:39,565 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:48:40,266 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XAIR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:48:40,350 INFO:  XAIR : Success!
+2021-02-09 05:48:40,361 INFO: Successful JSON file creation of XAIR!
+2021-02-09 05:48:55,375 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:48:57,217 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XAN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:48:57,543 INFO:  XAN : Success!
+2021-02-09 05:48:57,598 INFO: Successful JSON file creation of XAN!
+2021-02-09 05:49:12,615 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:49:13,952 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XAR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:49:14,138 INFO:  XAR : Success!
+2021-02-09 05:49:14,167 INFO: Successful JSON file creation of XAR!
+2021-02-09 05:49:29,170 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:49:30,860 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XBI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:49:31,010 INFO:  XBI : Success!
+2021-02-09 05:49:31,059 INFO: Successful JSON file creation of XBI!
+2021-02-09 05:49:46,069 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:49:46,582 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XBIO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:49:46,703 INFO:  XBIO : Success!
+2021-02-09 05:49:46,723 INFO: Successful JSON file creation of XBIO!
+2021-02-09 05:50:01,735 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:50:02,371 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XBIT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:50:02,505 INFO:  XBIT : Success!
+2021-02-09 05:50:02,523 INFO: Successful JSON file creation of XBIT!
+2021-02-09 05:50:17,531 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:50:18,029 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XBUY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:50:18,099 INFO:  XBUY : Success!
+2021-02-09 05:50:18,106 INFO: Successful JSON file creation of XBUY!
+2021-02-09 05:50:33,123 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:50:33,913 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XCEM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:50:34,015 INFO:  XCEM : Success!
+2021-02-09 05:50:34,032 INFO: Successful JSON file creation of XCEM!
+2021-02-09 05:50:49,038 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:50:49,722 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XCUR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:50:49,797 INFO:  XCUR : Success!
+2021-02-09 05:50:49,806 INFO: Successful JSON file creation of XCUR!
+2021-02-09 05:51:04,823 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:51:05,292 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XDAT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:51:05,293 INFO:  XDAT : Success!
+2021-02-09 05:51:05,294 INFO: Successful JSON file creation of XDAT!
+2021-02-09 05:51:20,305 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:51:20,938 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XDIV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:51:21,008 INFO:  XDIV : Success!
+2021-02-09 05:51:21,017 INFO: Successful JSON file creation of XDIV!
+2021-02-09 05:51:36,031 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:51:38,175 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XEC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:51:38,284 INFO:  XEC : Success!
+2021-02-09 05:51:38,341 INFO: Successful JSON file creation of XEC!
+2021-02-09 05:51:53,357 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:51:54,175 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XEL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:51:54,319 INFO:  XEL : Success!
+2021-02-09 05:51:54,388 INFO: Successful JSON file creation of XEL!
+2021-02-09 05:52:09,406 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:52:09,864 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XELA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:52:09,940 INFO:  XELA : Success!
+2021-02-09 05:52:09,958 INFO: Successful JSON file creation of XELA!
+2021-02-09 05:52:24,964 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:52:25,830 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XELB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:52:26,208 INFO:  XELB : Success!
+2021-02-09 05:52:26,277 INFO: Successful JSON file creation of XELB!
+2021-02-09 05:52:41,282 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:52:41,820 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XENE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:52:41,926 INFO:  XENE : Success!
+2021-02-09 05:52:41,946 INFO: Successful JSON file creation of XENE!
+2021-02-09 05:52:56,960 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:52:57,488 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XENT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:52:57,588 INFO:  XENT : Success!
+2021-02-09 05:52:57,610 INFO: Successful JSON file creation of XENT!
+2021-02-09 05:53:12,625 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:53:13,028 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XERS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:53:13,097 INFO:  XERS : Success!
+2021-02-09 05:53:13,107 INFO: Successful JSON file creation of XERS!
+2021-02-09 05:53:28,112 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:53:29,825 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XES&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:53:29,955 INFO:  XES : Success!
+2021-02-09 05:53:29,999 INFO: Successful JSON file creation of XES!
+2021-02-09 05:53:45,001 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:53:45,699 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XFLT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:53:45,792 INFO:  XFLT : Success!
+2021-02-09 05:53:45,803 INFO: Successful JSON file creation of XFLT!
+2021-02-09 05:54:00,809 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:54:01,254 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XFOR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:54:01,322 INFO:  XFOR : Success!
+2021-02-09 05:54:01,333 INFO: Successful JSON file creation of XFOR!
+2021-02-09 05:54:16,347 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:54:16,897 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XGN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:54:16,940 INFO:  XGN : Success!
+2021-02-09 05:54:16,946 INFO: Successful JSON file creation of XGN!
+2021-02-09 05:54:31,955 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:54:33,692 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XHB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:54:33,819 INFO:  XHB : Success!
+2021-02-09 05:54:33,876 INFO: Successful JSON file creation of XHB!
+2021-02-09 05:54:48,883 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:54:50,096 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XHE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:54:50,266 INFO:  XHE : Success!
+2021-02-09 05:54:50,296 INFO: Successful JSON file creation of XHE!
+2021-02-09 05:55:05,306 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:55:06,192 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XHR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:55:06,293 INFO:  XHR : Success!
+2021-02-09 05:55:06,314 INFO: Successful JSON file creation of XHR!
+2021-02-09 05:55:21,321 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:55:22,456 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XHS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:55:22,572 INFO:  XHS : Success!
+2021-02-09 05:55:22,606 INFO: Successful JSON file creation of XHS!
+2021-02-09 05:55:37,623 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:55:39,142 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XIN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:55:39,398 INFO:  XIN : Success!
+2021-02-09 05:55:39,440 INFO: Successful JSON file creation of XIN!
+2021-02-09 05:55:54,456 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:55:55,337 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XITK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:55:55,435 INFO:  XITK : Success!
+2021-02-09 05:55:55,451 INFO: Successful JSON file creation of XITK!
+2021-02-09 05:56:10,453 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:56:10,837 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XJH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:56:10,860 INFO:  XJH : Success!
+2021-02-09 05:56:10,862 INFO: Successful JSON file creation of XJH!
+2021-02-09 05:56:25,876 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:56:26,379 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XJR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:56:26,403 INFO:  XJR : Success!
+2021-02-09 05:56:26,404 INFO: Successful JSON file creation of XJR!
+2021-02-09 05:56:41,420 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:56:43,668 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:56:43,819 INFO:  XLB : Success!
+2021-02-09 05:56:43,889 INFO: Successful JSON file creation of XLB!
+2021-02-09 05:56:58,898 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:56:59,615 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:56:59,690 INFO:  XLC : Success!
+2021-02-09 05:56:59,698 INFO: Successful JSON file creation of XLC!
+2021-02-09 05:57:14,710 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:57:16,945 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:57:17,090 INFO:  XLE : Success!
+2021-02-09 05:57:17,157 INFO: Successful JSON file creation of XLE!
+2021-02-09 05:57:32,165 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:57:34,437 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:57:34,601 INFO:  XLF : Success!
+2021-02-09 05:57:34,671 INFO: Successful JSON file creation of XLF!
+2021-02-09 05:57:49,683 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:57:51,411 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:57:51,540 INFO:  XLG : Success!
+2021-02-09 05:57:51,589 INFO: Successful JSON file creation of XLG!
+2021-02-09 05:58:06,607 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:58:08,812 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:58:08,952 INFO:  XLI : Success!
+2021-02-09 05:58:09,020 INFO: Successful JSON file creation of XLI!
+2021-02-09 05:58:24,031 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:58:26,319 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:58:26,467 INFO:  XLK : Success!
+2021-02-09 05:58:26,541 INFO: Successful JSON file creation of XLK!
+2021-02-09 05:58:41,545 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:58:42,344 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLNX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:58:42,776 INFO:  XLNX : Success!
+2021-02-09 05:58:42,847 INFO: Successful JSON file creation of XLNX!
+2021-02-09 05:58:57,863 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:59:00,083 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:59:00,394 INFO:  XLP : Success!
+2021-02-09 05:59:00,463 INFO: Successful JSON file creation of XLP!
+2021-02-09 05:59:15,465 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:59:16,452 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLRE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:59:16,552 INFO:  XLRE : Success!
+2021-02-09 05:59:16,569 INFO: Successful JSON file creation of XLRE!
+2021-02-09 05:59:31,574 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:59:32,085 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:59:32,183 INFO:  XLRN : Success!
+2021-02-09 05:59:32,208 INFO: Successful JSON file creation of XLRN!
+2021-02-09 05:59:47,215 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 05:59:47,835 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLSR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 05:59:47,905 INFO:  XLSR : Success!
+2021-02-09 05:59:47,911 INFO: Successful JSON file creation of XLSR!
+2021-02-09 06:00:02,922 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:00:08,637 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:00:08,788 INFO:  XLU : Success!
+2021-02-09 06:00:08,853 INFO: Successful JSON file creation of XLU!
+2021-02-09 06:00:23,860 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:00:26,463 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:00:26,899 INFO:  XLV : Success!
+2021-02-09 06:00:26,975 INFO: Successful JSON file creation of XLV!
+2021-02-09 06:00:41,985 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:00:44,388 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XLY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:00:44,535 INFO:  XLY : Success!
+2021-02-09 06:00:44,604 INFO: Successful JSON file creation of XLY!
+2021-02-09 06:00:59,615 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:01:01,453 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XME&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:01:01,599 INFO:  XME : Success!
+2021-02-09 06:01:01,646 INFO: Successful JSON file creation of XME!
+2021-02-09 06:01:16,655 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:01:18,359 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XMHQ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:01:18,639 INFO:  XMHQ : Success!
+2021-02-09 06:01:18,685 INFO: Successful JSON file creation of XMHQ!
+2021-02-09 06:01:33,695 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:01:34,875 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XMLV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:01:35,058 INFO:  XMLV : Success!
+2021-02-09 06:01:35,083 INFO: Successful JSON file creation of XMLV!
+2021-02-09 06:01:50,085 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:01:51,945 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XMMO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:01:52,271 INFO:  XMMO : Success!
+2021-02-09 06:01:52,322 INFO: Successful JSON file creation of XMMO!
+2021-02-09 06:02:07,339 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:02:08,665 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XMPT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:02:08,873 INFO:  XMPT : Success!
+2021-02-09 06:02:08,903 INFO: Successful JSON file creation of XMPT!
+2021-02-09 06:02:23,920 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:02:26,023 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XMVM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:02:26,356 INFO:  XMVM : Success!
+2021-02-09 06:02:26,404 INFO: Successful JSON file creation of XMVM!
+2021-02-09 06:02:41,417 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:02:41,896 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XNCR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:02:42,081 INFO:  XNCR : Success!
+2021-02-09 06:02:42,104 INFO: Successful JSON file creation of XNCR!
+2021-02-09 06:02:57,107 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:02:57,612 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XNET&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:02:57,714 INFO:  XNET : Success!
+2021-02-09 06:02:57,734 INFO: Successful JSON file creation of XNET!
+2021-02-09 06:03:12,749 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:03:14,871 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XNTK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:03:15,015 INFO:  XNTK : Success!
+2021-02-09 06:03:15,075 INFO: Successful JSON file creation of XNTK!
+2021-02-09 06:03:30,089 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:03:30,432 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XOG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:03:30,434 INFO:  XOG : Success!
+2021-02-09 06:03:30,434 INFO: Successful JSON file creation of XOG!
+2021-02-09 06:03:45,445 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:03:46,305 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XOM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:03:46,456 INFO:  XOM : Success!
+2021-02-09 06:03:46,525 INFO: Successful JSON file creation of XOM!
+2021-02-09 06:04:01,535 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:04:02,678 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XOMA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:04:03,009 INFO:  XOMA : Success!
+2021-02-09 06:04:03,081 INFO: Successful JSON file creation of XOMA!
+2021-02-09 06:04:18,097 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:04:18,631 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XONE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:04:18,797 INFO:  XONE : Success!
+2021-02-09 06:04:18,822 INFO: Successful JSON file creation of XONE!
+2021-02-09 06:04:33,826 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:04:35,530 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XOP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:04:35,661 INFO:  XOP : Success!
+2021-02-09 06:04:35,713 INFO: Successful JSON file creation of XOP!
+2021-02-09 06:04:50,719 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:04:51,326 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XOUT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:04:51,373 INFO:  XOUT : Success!
+2021-02-09 06:04:51,378 INFO: Successful JSON file creation of XOUT!
+2021-02-09 06:05:06,387 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:05:07,728 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPEL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:05:07,848 INFO:  XPEL : Success!
+2021-02-09 06:05:07,891 INFO: Successful JSON file creation of XPEL!
+2021-02-09 06:05:22,904 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:05:23,760 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPER&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:05:23,892 INFO:  XPER : Success!
+2021-02-09 06:05:23,952 INFO: Successful JSON file creation of XPER!
+2021-02-09 06:05:38,961 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:05:39,444 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPEV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:05:39,469 INFO:  XPEV : Success!
+2021-02-09 06:05:39,470 INFO: Successful JSON file creation of XPEV!
+2021-02-09 06:05:54,486 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:05:56,177 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:05:56,296 INFO:  XPH : Success!
+2021-02-09 06:05:56,342 INFO: Successful JSON file creation of XPH!
+2021-02-09 06:06:11,345 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:06:12,052 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:06:12,336 INFO:  XPL : Success!
+2021-02-09 06:06:12,381 INFO: Successful JSON file creation of XPL!
+2021-02-09 06:06:27,396 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:06:28,945 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:06:29,297 INFO:  XPO : Success!
+2021-02-09 06:06:29,352 INFO: Successful JSON file creation of XPO!
+2021-02-09 06:06:44,365 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:06:44,705 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPOA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:06:44,706 INFO:  XPOA : Success!
+2021-02-09 06:06:44,707 INFO: Successful JSON file creation of XPOA!
+2021-02-09 06:06:59,720 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:07:01,162 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XPP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:07:01,402 INFO:  XPP : Success!
+2021-02-09 06:07:01,444 INFO: Successful JSON file creation of XPP!
+2021-02-09 06:07:16,453 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:07:17,752 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XRAY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:07:18,159 INFO:  XRAY : Success!
+2021-02-09 06:07:18,231 INFO: Successful JSON file creation of XRAY!
+2021-02-09 06:07:33,238 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:07:34,187 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XRLV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:07:34,321 INFO:  XRLV : Success!
+2021-02-09 06:07:34,339 INFO: Successful JSON file creation of XRLV!
+2021-02-09 06:07:49,345 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:07:51,242 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XRT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:07:51,364 INFO:  XRT : Success!
+2021-02-09 06:07:51,411 INFO: Successful JSON file creation of XRT!
+2021-02-09 06:08:06,417 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:08:08,786 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XRX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:08:08,929 INFO:  XRX : Success!
+2021-02-09 06:08:08,998 INFO: Successful JSON file creation of XRX!
+2021-02-09 06:08:24,005 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:08:25,622 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:08:25,756 INFO:  XSD : Success!
+2021-02-09 06:08:25,803 INFO: Successful JSON file creation of XSD!
+2021-02-09 06:08:40,820 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:08:41,537 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSHD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:08:41,633 INFO:  XSHD : Success!
+2021-02-09 06:08:41,647 INFO: Successful JSON file creation of XSHD!
+2021-02-09 06:08:56,653 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:08:57,432 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSHQ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:08:57,528 INFO:  XSHQ : Success!
+2021-02-09 06:08:57,538 INFO: Successful JSON file creation of XSHQ!
+2021-02-09 06:09:12,546 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:09:13,800 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSLV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:09:13,904 INFO:  XSLV : Success!
+2021-02-09 06:09:13,930 INFO: Successful JSON file creation of XSLV!
+2021-02-09 06:09:28,946 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:09:30,629 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSMO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:09:30,763 INFO:  XSMO : Success!
+2021-02-09 06:09:30,814 INFO: Successful JSON file creation of XSMO!
+2021-02-09 06:09:45,827 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:09:46,701 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSOE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:09:46,804 INFO:  XSOE : Success!
+2021-02-09 06:09:46,827 INFO: Successful JSON file creation of XSOE!
+2021-02-09 06:10:01,837 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:10:02,300 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSPA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:10:02,379 INFO:  XSPA : Success!
+2021-02-09 06:10:02,389 INFO: Successful JSON file creation of XSPA!
+2021-02-09 06:10:17,395 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:10:19,153 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSVM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:10:19,281 INFO:  XSVM : Success!
+2021-02-09 06:10:19,340 INFO: Successful JSON file creation of XSVM!
+2021-02-09 06:10:34,343 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:10:35,667 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XSW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:10:35,856 INFO:  XSW : Success!
+2021-02-09 06:10:35,886 INFO: Successful JSON file creation of XSW!
+2021-02-09 06:10:50,900 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:10:52,249 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XTL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:10:52,460 INFO:  XTL : Success!
+2021-02-09 06:10:52,500 INFO: Successful JSON file creation of XTL!
+2021-02-09 06:11:07,516 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:11:08,291 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XTLB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:11:08,421 INFO:  XTLB : Success!
+2021-02-09 06:11:08,472 INFO: Successful JSON file creation of XTLB!
+2021-02-09 06:11:23,476 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:11:24,710 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XTN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:11:24,822 INFO:  XTN : Success!
+2021-02-09 06:11:24,852 INFO: Successful JSON file creation of XTN!
+2021-02-09 06:11:39,867 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:11:40,675 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XTNT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:11:40,781 INFO:  XTNT : Success!
+2021-02-09 06:11:40,799 INFO: Successful JSON file creation of XTNT!
+2021-02-09 06:11:55,801 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:11:56,308 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XVV&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:11:56,333 INFO:  XVV : Success!
+2021-02-09 06:11:56,335 INFO: Successful JSON file creation of XVV!
+2021-02-09 06:12:11,345 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:12:12,472 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XVZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:12:12,587 INFO:  XVZ : Success!
+2021-02-09 06:12:12,620 INFO: Successful JSON file creation of XVZ!
+2021-02-09 06:12:27,632 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:12:28,424 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XWEB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:12:28,526 INFO:  XWEB : Success!
+2021-02-09 06:12:28,540 INFO: Successful JSON file creation of XWEB!
+2021-02-09 06:12:43,557 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:12:44,200 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XXII&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:12:44,317 INFO:  XXII : Success!
+2021-02-09 06:12:44,349 INFO: Successful JSON file creation of XXII!
+2021-02-09 06:12:59,364 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:13:00,004 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XYF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:13:00,067 INFO:  XYF : Success!
+2021-02-09 06:13:00,074 INFO: Successful JSON file creation of XYF!
+2021-02-09 06:13:15,090 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:13:16,385 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XYL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:13:16,504 INFO:  XYL : Success!
+2021-02-09 06:13:16,534 INFO: Successful JSON file creation of XYL!
+2021-02-09 06:13:31,542 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:13:32,768 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XYLD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:13:32,868 INFO:  XYLD : Success!
+2021-02-09 06:13:32,892 INFO: Successful JSON file creation of XYLD!
+2021-02-09 06:13:47,900 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:13:48,393 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=XYLG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:13:48,422 INFO:  XYLG : Success!
+2021-02-09 06:13:48,424 INFO: Successful JSON file creation of XYLG!
+2021-02-09 06:14:03,440 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:14:03,929 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:14:03,951 INFO:  YAC : Success!
+2021-02-09 06:14:03,954 INFO: Successful JSON file creation of YAC!
+2021-02-09 06:14:18,961 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:14:19,460 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YALA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:14:19,482 INFO:  YALA : Success!
+2021-02-09 06:14:19,484 INFO: Successful JSON file creation of YALA!
+2021-02-09 06:14:34,485 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:14:35,938 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YANG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:14:36,119 INFO:  YANG : Success!
+2021-02-09 06:14:36,154 INFO: Successful JSON file creation of YANG!
+2021-02-09 06:14:51,168 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:14:51,546 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YCBD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:14:51,599 INFO:  YCBD : Success!
+2021-02-09 06:14:51,605 INFO: Successful JSON file creation of YCBD!
+2021-02-09 06:15:06,618 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:15:08,650 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YCL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:15:08,904 INFO:  YCL : Success!
+2021-02-09 06:15:08,945 INFO: Successful JSON file creation of YCL!
+2021-02-09 06:15:23,959 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:15:25,147 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YCS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:15:25,265 INFO:  YCS : Success!
+2021-02-09 06:15:25,309 INFO: Successful JSON file creation of YCS!
+2021-02-09 06:15:40,320 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:15:40,799 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YDEC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:15:40,802 INFO:  YDEC : Success!
+2021-02-09 06:15:40,803 INFO: Successful JSON file creation of YDEC!
+2021-02-09 06:15:55,811 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:15:56,843 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YELP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:15:56,964 INFO:  YELP : Success!
+2021-02-09 06:15:56,991 INFO: Successful JSON file creation of YELP!
+2021-02-09 06:16:12,007 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:16:12,536 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YETI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:16:12,610 INFO:  YETI : Success!
+2021-02-09 06:16:12,618 INFO: Successful JSON file creation of YETI!
+2021-02-09 06:16:27,632 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:16:28,265 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YEXT&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:16:28,616 INFO:  YEXT : Success!
+2021-02-09 06:16:28,627 INFO: Successful JSON file creation of YEXT!
+2021-02-09 06:16:43,641 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:16:44,151 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YGMZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:16:44,175 INFO:  YGMZ : Success!
+2021-02-09 06:16:44,176 INFO: Successful JSON file creation of YGMZ!
+2021-02-09 06:16:59,184 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:17:01,131 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YINN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:17:01,254 INFO:  YINN : Success!
+2021-02-09 06:17:01,290 INFO: Successful JSON file creation of YINN!
+2021-02-09 06:17:16,297 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:17:16,716 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YLCO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:17:16,717 INFO:  YLCO : Success!
+2021-02-09 06:17:16,717 INFO:  YLCO : Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY.
+2021-02-09 06:17:16,718 INFO: Successful JSON file creation of YLCO!
+2021-02-09 06:17:31,729 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:17:32,708 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YLD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:17:32,811 INFO:  YLD : Success!
+2021-02-09 06:17:32,829 INFO: Successful JSON file creation of YLD!
+2021-02-09 06:17:47,837 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:17:48,274 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YLDE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:17:48,346 INFO:  YLDE : Success!
+2021-02-09 06:17:48,358 INFO: Successful JSON file creation of YLDE!
+2021-02-09 06:18:03,372 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:18:03,806 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YMAB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:18:03,880 INFO:  YMAB : Success!
+2021-02-09 06:18:03,889 INFO: Successful JSON file creation of YMAB!
+2021-02-09 06:18:18,900 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:18:19,648 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YMTX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:18:19,743 INFO:  YMTX : Success!
+2021-02-09 06:18:19,758 INFO: Successful JSON file creation of YMTX!
+2021-02-09 06:18:34,760 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:18:35,355 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YNDX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:18:35,475 INFO:  YNDX : Success!
+2021-02-09 06:18:35,508 INFO: Successful JSON file creation of YNDX!
+2021-02-09 06:18:50,516 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:18:51,019 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YOLO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:18:51,073 INFO:  YOLO : Success!
+2021-02-09 06:18:51,079 INFO: Successful JSON file creation of YOLO!
+2021-02-09 06:19:06,096 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:19:06,939 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YORW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:19:07,093 INFO:  YORW : Success!
+2021-02-09 06:19:07,157 INFO: Successful JSON file creation of YORW!
+2021-02-09 06:19:22,172 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:19:24,303 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YPF&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:19:24,445 INFO:  YPF : Success!
+2021-02-09 06:19:24,512 INFO: Successful JSON file creation of YPF!
+2021-02-09 06:19:39,521 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:19:40,356 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YRCW&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:19:40,802 INFO:  YRCW : Success!
+2021-02-09 06:19:40,880 INFO: Successful JSON file creation of YRCW!
+2021-02-09 06:19:55,892 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:19:56,662 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YRD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:19:56,756 INFO:  YRD : Success!
+2021-02-09 06:19:56,771 INFO: Successful JSON file creation of YRD!
+2021-02-09 06:20:11,784 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:20:12,173 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YSAC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:20:12,174 INFO:  YSAC : Success!
+2021-02-09 06:20:12,175 INFO: Successful JSON file creation of YSAC!
+2021-02-09 06:20:27,187 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:20:27,605 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YSG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:20:27,606 INFO:  YSG : Success!
+2021-02-09 06:20:27,607 INFO: Successful JSON file creation of YSG!
+2021-02-09 06:20:42,610 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:20:43,333 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YTEN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:20:43,462 INFO:  YTEN : Success!
+2021-02-09 06:20:43,508 INFO: Successful JSON file creation of YTEN!
+2021-02-09 06:20:58,524 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:20:58,967 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YTRA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:20:59,048 INFO:  YTRA : Success!
+2021-02-09 06:20:59,062 INFO: Successful JSON file creation of YTRA!
+2021-02-09 06:21:14,077 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:21:14,932 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YUM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:21:15,367 INFO:  YUM : Success!
+2021-02-09 06:21:15,437 INFO: Successful JSON file creation of YUM!
+2021-02-09 06:21:30,445 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:21:31,285 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YUMC&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:21:31,386 INFO:  YUMC : Success!
+2021-02-09 06:21:31,400 INFO: Successful JSON file creation of YUMC!
+2021-02-09 06:21:46,416 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:21:46,840 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YVR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:21:46,915 INFO:  YVR : Success!
+2021-02-09 06:21:46,923 INFO: Successful JSON file creation of YVR!
+2021-02-09 06:22:01,936 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:22:06,943 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YXI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:22:07,060 INFO:  YXI : Success!
+2021-02-09 06:22:07,094 INFO: Successful JSON file creation of YXI!
+2021-02-09 06:22:22,109 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:22:23,233 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=YYY&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:22:23,421 INFO:  YYY : Success!
+2021-02-09 06:22:23,450 INFO: Successful JSON file creation of YYY!
+2021-02-09 06:22:38,461 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:22:39,133 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZAGG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:22:39,345 INFO:  ZAGG : Success!
+2021-02-09 06:22:39,387 INFO: Successful JSON file creation of ZAGG!
+2021-02-09 06:22:54,389 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:22:55,236 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZBH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:22:55,383 INFO:  ZBH : Success!
+2021-02-09 06:22:55,445 INFO: Successful JSON file creation of ZBH!
+2021-02-09 06:23:10,457 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:23:11,364 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZBRA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:23:11,794 INFO:  ZBRA : Success!
+2021-02-09 06:23:11,860 INFO: Successful JSON file creation of ZBRA!
+2021-02-09 06:23:26,864 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:23:27,848 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZCAN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:23:27,945 INFO:  ZCAN : Success!
+2021-02-09 06:23:27,967 INFO: Successful JSON file creation of ZCAN!
+2021-02-09 06:23:42,984 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:23:43,554 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZCMD&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:23:43,599 INFO:  ZCMD : Success!
+2021-02-09 06:23:43,603 INFO: Successful JSON file creation of ZCMD!
+2021-02-09 06:23:58,615 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:23:59,639 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZDEU&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:23:59,761 INFO:  ZDEU : Success!
+2021-02-09 06:23:59,782 INFO: Successful JSON file creation of ZDEU!
+2021-02-09 06:24:14,793 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:24:15,579 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZDGE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:24:15,691 INFO:  ZDGE : Success!
+2021-02-09 06:24:15,706 INFO: Successful JSON file creation of ZDGE!
+2021-02-09 06:24:30,710 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:24:31,124 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZEAL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:24:31,203 INFO:  ZEAL : Success!
+2021-02-09 06:24:31,215 INFO: Successful JSON file creation of ZEAL!
+2021-02-09 06:24:46,227 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:24:47,100 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZEN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:24:47,207 INFO:  ZEN : Success!
+2021-02-09 06:24:47,228 INFO: Successful JSON file creation of ZEN!
+2021-02-09 06:25:02,242 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:25:03,151 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZEUS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:25:03,299 INFO:  ZEUS : Success!
+2021-02-09 06:25:03,364 INFO: Successful JSON file creation of ZEUS!
+2021-02-09 06:25:18,371 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:25:19,360 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZGBR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:25:19,443 INFO:  ZGBR : Success!
+2021-02-09 06:25:19,465 INFO: Successful JSON file creation of ZGBR!
+2021-02-09 06:25:34,470 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:25:35,056 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZGNX&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:25:35,171 INFO:  ZGNX : Success!
+2021-02-09 06:25:35,205 INFO: Successful JSON file creation of ZGNX!
+2021-02-09 06:25:50,220 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:25:50,664 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZGYH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:25:50,711 INFO:  ZGYH : Success!
+2021-02-09 06:25:50,714 INFO: Successful JSON file creation of ZGYH!
+2021-02-09 06:26:05,718 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:26:06,361 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZHOK&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:26:06,436 INFO:  ZHOK : Success!
+2021-02-09 06:26:06,444 INFO: Successful JSON file creation of ZHOK!
+2021-02-09 06:26:21,446 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:26:22,088 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZIG&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:26:22,138 INFO:  ZIG : Success!
+2021-02-09 06:26:22,143 INFO: Successful JSON file creation of ZIG!
+2021-02-09 06:26:37,160 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:26:37,637 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZIM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:26:37,639 INFO:  ZIM : Success!
+2021-02-09 06:26:37,640 INFO: Successful JSON file creation of ZIM!
+2021-02-09 06:26:52,652 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:26:53,602 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZION&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:26:54,030 INFO:  ZION : Success!
+2021-02-09 06:26:54,100 INFO: Successful JSON file creation of ZION!
+2021-02-09 06:27:09,104 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:27:09,961 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZIOP&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:27:10,275 INFO:  ZIOP : Success!
+2021-02-09 06:27:10,324 INFO: Successful JSON file creation of ZIOP!
+2021-02-09 06:27:25,340 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:27:26,208 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZIXI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:27:26,360 INFO:  ZIXI : Success!
+2021-02-09 06:27:26,444 INFO: Successful JSON file creation of ZIXI!
+2021-02-09 06:27:41,461 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:27:42,520 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZJPN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:27:42,622 INFO:  ZJPN : Success!
+2021-02-09 06:27:42,644 INFO: Successful JSON file creation of ZJPN!
+2021-02-09 06:27:57,652 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:27:58,116 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZKIN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:27:58,192 INFO:  ZKIN : Success!
+2021-02-09 06:27:58,204 INFO: Successful JSON file creation of ZKIN!
+2021-02-09 06:28:13,207 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:28:13,469 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZLAB&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:28:13,471 INFO:  ZLAB : Success!
+2021-02-09 06:28:13,471 INFO:  ZLAB : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:28:13,471 INFO: Successful JSON file creation of ZLAB!
+2021-02-09 06:28:28,485 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:28:28,750 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZNGA&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:28:28,751 INFO:  ZNGA : Success!
+2021-02-09 06:28:28,751 INFO:  ZNGA : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:28:28,752 INFO: Successful JSON file creation of ZNGA!
+2021-02-09 06:28:43,765 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:28:44,024 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZNH&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:28:44,025 INFO:  ZNH : Success!
+2021-02-09 06:28:44,025 INFO:  ZNH : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:28:44,026 INFO: Successful JSON file creation of ZNH!
+2021-02-09 06:28:59,032 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:28:59,285 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZNTE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:28:59,286 INFO:  ZNTE : Success!
+2021-02-09 06:28:59,286 INFO:  ZNTE : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:28:59,286 INFO: Successful JSON file creation of ZNTE!
+2021-02-09 06:29:14,289 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:29:14,658 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZNTL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:29:14,660 INFO:  ZNTL : Success!
+2021-02-09 06:29:14,660 INFO:  ZNTL : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:29:14,660 INFO: Successful JSON file creation of ZNTL!
+2021-02-09 06:29:29,664 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:29:29,868 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZOM&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:29:29,870 INFO:  ZOM : Success!
+2021-02-09 06:29:29,871 INFO:  ZOM : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:29:29,871 INFO: Successful JSON file creation of ZOM!
+2021-02-09 06:29:44,876 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:29:45,144 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZROZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:29:45,147 INFO:  ZROZ : Success!
+2021-02-09 06:29:45,147 INFO:  ZROZ : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:29:45,147 INFO: Successful JSON file creation of ZROZ!
+2021-02-09 06:30:00,163 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:30:00,828 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZSAN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:30:00,830 INFO:  ZSAN : Success!
+2021-02-09 06:30:00,830 INFO:  ZSAN : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:30:00,831 INFO: Successful JSON file creation of ZSAN!
+2021-02-09 06:30:15,835 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:30:16,101 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZSL&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:30:16,102 INFO:  ZSL : Success!
+2021-02-09 06:30:16,102 INFO:  ZSL : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:30:16,103 INFO: Successful JSON file creation of ZSL!
+2021-02-09 06:30:31,107 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:30:31,397 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZTO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:30:31,399 INFO:  ZTO : Success!
+2021-02-09 06:30:31,399 INFO:  ZTO : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:30:31,399 INFO: Successful JSON file creation of ZTO!
+2021-02-09 06:30:46,414 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:30:46,695 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZTR&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:30:46,698 INFO:  ZTR : Success!
+2021-02-09 06:30:46,698 INFO:  ZTR : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:30:46,698 INFO: Successful JSON file creation of ZTR!
+2021-02-09 06:31:01,700 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:31:01,973 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZTS&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:31:01,974 INFO:  ZTS : Success!
+2021-02-09 06:31:01,974 INFO:  ZTS : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:31:01,975 INFO: Successful JSON file creation of ZTS!
+2021-02-09 06:31:16,980 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:31:17,243 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZTST&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:31:17,246 INFO:  ZTST : Success!
+2021-02-09 06:31:17,246 INFO:  ZTST : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:31:17,246 INFO: Successful JSON file creation of ZTST!
+2021-02-09 06:31:32,260 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:31:32,808 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZUMZ&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:31:32,810 INFO:  ZUMZ : Success!
+2021-02-09 06:31:32,810 INFO:  ZUMZ : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:31:32,811 INFO: Successful JSON file creation of ZUMZ!
+2021-02-09 06:31:47,819 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:31:48,005 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZUO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:31:48,008 INFO:  ZUO : Success!
+2021-02-09 06:31:48,008 INFO:  ZUO : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:31:48,008 INFO: Successful JSON file creation of ZUO!
+2021-02-09 06:32:03,015 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:32:03,319 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZVO&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:32:03,320 INFO:  ZVO : Success!
+2021-02-09 06:32:03,320 INFO:  ZVO : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:32:03,321 INFO: Successful JSON file creation of ZVO!
+2021-02-09 06:32:18,330 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:32:18,604 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZYME&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:32:18,605 INFO:  ZYME : Success!
+2021-02-09 06:32:18,605 INFO:  ZYME : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:32:18,606 INFO: Successful JSON file creation of ZYME!
+2021-02-09 06:32:33,614 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:32:33,925 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZYNE&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:32:33,926 INFO:  ZYNE : Success!
+2021-02-09 06:32:33,926 INFO:  ZYNE : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:32:33,927 INFO: Successful JSON file creation of ZYNE!
+2021-02-09 06:32:48,929 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:32:49,196 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=ZYXI&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:32:49,197 INFO:  ZYXI : Success!
+2021-02-09 06:32:49,197 INFO:  ZYXI : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:32:49,198 INFO: Successful JSON file creation of ZYXI!
+2021-02-09 06:48:10,621 INFO: Passing filtered symbols to AlphaAPIHandler.
+2021-02-09 06:48:10,621 INFO: Creating a filtered list of symbols.
+2021-02-09 06:48:10,871 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:48:11,087 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=IFF*&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:48:11,089 INFO:  IFF* : Success!
+2021-02-09 06:48:11,089 INFO:  IFF* : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:48:11,089 ERROR: Failure JSON file creation of IFF*!
+2021-02-09 06:48:26,091 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-09 06:48:26,357 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=PRN&outputsize=full&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-09 06:48:26,359 INFO:  PRN : Success!
+2021-02-09 06:48:26,359 INFO:  PRN : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-09 06:48:26,359 ERROR: Failure JSON file creation of PRN!

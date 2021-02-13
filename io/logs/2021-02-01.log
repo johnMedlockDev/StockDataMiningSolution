@@ -1,0 +1,38 @@
+2021-02-01 20:06:33,232 INFO: AAA : JSON GET Request was a Success!
+2021-02-01 20:06:37,497 INFO: AAA : JSON GET Request was a Success!
+2021-02-01 20:07:21,561 INFO: AAA : JSON GET Request was a Success!
+2021-02-01 20:09:09,003 INFO: AAA : JSON GET Request was a Success!
+2021-02-01 20:09:09,003 ERROR:  The timeout of 30 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 20:09:27,521 INFO: AAA : JSON GET Request was a Success!
+2021-02-01 20:09:27,522 ERROR:  The timeout of 30 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:28:36,664 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:28:36,665 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:29:20,449 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:29:20,449 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:29:36,432 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:29:36,432 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:30:13,476 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:30:13,476 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:31:04,425 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:31:04,425 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:31:19,447 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:31:19,447 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:31:50,825 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:31:50,825 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:32:28,137 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:32:28,137 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:34:02,627 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:34:02,628 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:34:07,378 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:34:07,378 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:35:16,449 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:35:16,449 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:36:12,658 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-01 21:36:13,003 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BNO&outputsize=EPayload.FULL&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-01 21:36:13,004 DEBUG: 0ZZU6DYNDO3BUCVR
+2021-02-01 21:36:13,004 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:36:13,004 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
+2021-02-01 21:48:30,648 Starting new HTTPS connection (1): www.alphavantage.co:443
+2021-02-01 21:48:30,976 https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BNO&outputsize=EPayload.FULL&apikey=0ZZU6DYNDO3BUCVR HTTP/1.1" 200 None
+2021-02-01 21:48:30,979 INFO: BNO : JSON GET Request was a Success!
+2021-02-01 21:48:30,979 ERROR:  The timeout of 15 is too short : Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency.
