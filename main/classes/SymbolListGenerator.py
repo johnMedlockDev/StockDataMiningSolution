@@ -1,3 +1,4 @@
+from main.enums.ERepositoryAction import ERepositoryAction
 import pandas
 import pathlib
 from main.classes.Logger import Logger
@@ -34,27 +35,31 @@ class SymbolListGenerator():
         """
         return self.__DFList
 
-    def GetAlreadyPersistedOfSymbols(self):
+    def GetAlreadyPersistedOfSymbols(self, eRepositoryAction: ERepositoryAction):
         """Retrieves a list of symbols already persisted to the json folder.
 
         Returns:
             list: Symbol List of strings. 
         """
-        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\"
+        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{eRepositoryAction.value}"
 
         files = [f.replace('.json', '') for f in listdir(
             jsonPath) if isfile(join(jsonPath, f))]
 
         return files
 
-    def CreateFilteredListOfSymbols(self):
+    def CreateFilteredListOfSymbols(self, eRepositoryAction: ERepositoryAction):
         """Creates a list of symbols - the symbols you already have in the Json folder.
+
+        Args:
+            eRepositoryAction (ERepositoryAction): Passthrough value to select which folder to filter off of.
 
         Returns:
             list: Symbol List of filtered strings. 
         """
 
-        listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols()
+        listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols(
+            eRepositoryAction)
         listOfSymbolsRaw = self.__DFList
 
         for symbolE in listOfSymbolsThatAlreadyExist:
@@ -62,5 +67,4 @@ class SymbolListGenerator():
                 listOfSymbolsRaw.remove(symbolE)
 
         listOfSymbolsFiltered = [symbol for symbol in listOfSymbolsRaw]
-
         return listOfSymbolsFiltered

@@ -6,8 +6,6 @@ class EPayload(Enum):
     FULL = All price history.
     COMPACT = Last 100 days of price history.
 
-    Args:
-        Enum (Object): Base class
     """
     FULL = 'full'
     COMPACT = 'compact'
