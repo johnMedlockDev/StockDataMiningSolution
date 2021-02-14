@@ -1,0 +1,2 @@
+class TestEPayload():
+    pass
