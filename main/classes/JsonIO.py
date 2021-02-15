@@ -13,7 +13,7 @@ class JsonIO():
 
     def __init__(self) -> None:
         super().__init__()
-        self.__logger = Logger()
+        self.oldJsonFilePath = ""
 
     def WriteJsonToFile(self, symbol: str, eJsonFolder: EJsonFolder, jsonObject: dict):
         """Writes Json to file based of symbol name.
@@ -26,10 +26,10 @@ class JsonIO():
         try:
             with open(f'{pathlib.Path().absolute()}\\io\\json\\{eJsonFolder.value}\\{symbol.upper()}.json', 'w') as outfile:
                 dump(jsonObject, outfile)
-                self.__logger.LogInfo(
+                Logger.LogInfo(
                     f"Successful JSON file creation of {symbol} in {eJsonFolder.value}!")
         except:
-            self.__logger.LogError(f"Failure JSON file creation of {symbol}!")
+            Logger.LogError(f"Failure JSON file creation of {symbol}!")
 
     def RetrieveJsonFromFile(self, directory: str):
         """Loops over a directory and returns the symbol name and the json data.
@@ -41,20 +41,48 @@ class JsonIO():
             list (str, dict): [symbol, jsonData]
         """
 
-        entries = os.listdir(f"./io/json/{directory}")
-        jsonData = {}
-        symbol = ""
-        for entry in entries:
-            if entry.endswith(".json"):
-                jsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\{entry}"
-                symbol = entry.replace('.json', "")
-                with open(jsonFilePath) as jsonFile:
-                    jsonData = json.load(jsonFile)
-
-                print(jsonData)
-
-                newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\done\\{entry}"
-                os.replace(jsonFilePath, newJsonFilePath)
+        filenames = os.listdir(f"./io/json/{directory}")
+        symbolAndJsonData = []
+        for filename in filenames:
+            if filename.endswith(".json"):
+                symbolAndJsonData = self.OpenJsonFile(directory, filename)
+                self.MoveJsonFile(self.oldJsonFilePath,
+                                  directory, EJsonFolder.DONE, filename)
                 break
 
-        return [symbol, jsonData]
+        return symbolAndJsonData
+
+    def OpenJsonFile(self, directory, filename):
+        """Opens a Json file and returns the file name and JSON in an array.
+
+        Args:
+            directory (str): The current directory.
+            filename (str): The full file name.
+
+        Returns:
+            [str, dict]: The filename and JSON dictionary.
+        """
+
+        self.oldJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\{filename}"
+        symbol = filename.replace('.json', "")
+        try:
+            with open(self.oldJsonFilePath) as jsonFile:
+                jsonData = json.load(jsonFile)
+            return [symbol, jsonData]
+        except:
+            Logger.LogError(f"Couldn't open file at {self.oldJsonFilePath}")
+            return []
+
+    def MoveJsonFile(self, oldJsonFilePath: str, directory: str, subdirectory: EJsonFolder, filename: str):
+        """Moves a file in the json folder to another subfolder
+
+        Args:
+            oldJsonFilePath (str): The old file path.
+            directory (str): The new target Directory
+            subdirectory (EJsonFolder): The destination folder
+            filename (str): The full file name.
+        """
+        newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\{subdirectory.value}\\{filename}"
+        os.replace(oldJsonFilePath, newJsonFilePath)
+        Logger.LogInfo(
+            f" Moved file from {oldJsonFilePath} to {newJsonFilePath}")

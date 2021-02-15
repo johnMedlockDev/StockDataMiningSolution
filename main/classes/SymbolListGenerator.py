@@ -17,7 +17,6 @@ class SymbolListGenerator():
         self.__FILENAME = f'{pathlib.Path().absolute()}\\io\\csv\\source\\{filename}'
         self.__DFList = []
         self.__DF = pandas.read_csv(self.__FILENAME)
-        self.__logger = Logger()
 
     def CreateListOfSymbolsFromDataFrame(self, columnname: str):
         """Creates a list from a dataframe column.

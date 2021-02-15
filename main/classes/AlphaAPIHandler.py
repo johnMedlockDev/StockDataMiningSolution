@@ -19,7 +19,6 @@ class AlphaAPIHandler():
         load_dotenv('io\env\secret.env')
         self.BASEURL = r'https://www.alphavantage.co/query?'
         self.APIKEY = f'{os.environ.get("api-token")}'
-        self.__logger = Logger()
 
     def GetHistoricalPriceDataFromJsonAPI(self, symbol: str, payload: EPayload):
         """Makes a GET Request to AlphaVantage.
@@ -41,17 +40,17 @@ class AlphaAPIHandler():
 
         try:
             if self.__response.status_code == 200:
-                self.__logger.LogInfo(f" {SYMBOL} : Success!")
+                Logger.LogInfo(f" {SYMBOL} : Success!")
                 return self.__response.json()['Time Series (Daily)']
             else:
-                self.__logger.LogError(f"Server error!")
+                Logger.LogError(f"Server error!")
         except KeyError:
             try:
-                self.__logger.LogInfo(
+                Logger.LogInfo(
                     f" {SYMBOL} : {self.__response.json()['Error Message']}")
                 return self.__response.json()['Error Message']
             except:
-                self.__logger.LogInfo(
+                Logger.LogInfo(
                     f" {SYMBOL} : {self.__response.json()['Information']}")
                 return self.__response.json()['Information']
 
@@ -82,15 +81,15 @@ class AlphaAPIHandler():
                     continue
             except KeyError:
                 if r"https://www.alphavantage.co/premium/" in jsonResponse:
-                    self.__logger.LogInfo(f" {jsonResponse}")
+                    Logger.LogInfo(f" {jsonResponse}")
                     break
 
                 if counter >= 500:
-                    self.__logger.LogError(
+                    Logger.LogError(
                         f"You reached the daily request limit, but you were able to make {counter} requests!")
                     break
                 else:
-                    self.__logger.LogError(
+                    Logger.LogError(
                         f" The timeout of {timeout} is too short!")
                     break
 
@@ -112,18 +111,18 @@ class AlphaAPIHandler():
             self.__response = requests.get(URI)
             try:
                 if self.__response.status_code == 200:
-                    self.__logger.LogInfo(f" {SYMBOL} : Success!")
+                    Logger.LogInfo(f" {SYMBOL} : Success!")
 
                     return self.__response.json()['quarterlyEarnings']
                 else:
-                    self.__logger.LogError(f"Server error!")
+                    Logger.LogError(f"Server error!")
             except KeyError:
                 try:
-                    self.__logger.LogInfo(
+                    Logger.LogInfo(
                         f" {SYMBOL} : {self.__response.json()['Error Message']}")
                     return self.__response.json()['Error Message']
                 except:
-                    self.__logger.LogInfo(
+                    Logger.LogInfo(
                         f" {SYMBOL} : {self.__response.json()['Information']}")
                     return self.__response.json()['Information']
         else:
@@ -164,17 +163,17 @@ class AlphaAPIHandler():
             except KeyError:
 
                 if r"https://www.alphavantage.co/premium/" in jsonResponse:
-                    self.__logger.LogInfo(f" {jsonResponse}")
+                    Logger.LogInfo(f" {jsonResponse}")
                     break
                 if r"{ }" in jsonResponse:
-                    self.__logger.LogInfo(f" {jsonResponse}")
+                    Logger.LogInfo(f" {jsonResponse}")
                     break
 
                 if counter >= 500:
-                    self.__logger.LogError(
+                    Logger.LogError(
                         f"You reached the daily request limit, but you were able to make {counter} requests!")
                     break
                 else:
-                    self.__logger.LogError(
+                    Logger.LogError(
                         f" The timeout of {timeout} is too short!")
                     break

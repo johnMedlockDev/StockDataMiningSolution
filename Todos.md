@@ -1,5 +1,7 @@
 refactor symbol filter.
 
-refactor sql inserts
+refactor sql inserts.
 
-handle limit error in api calls
+handle limit error in api calls.
+
+write test.

@@ -8,32 +8,40 @@ class Logger():
     """
 
     def __init__(self) -> None:
-        super().__init__()
-        logging.basicConfig(filename=f"io/logs/{date.today()}.log",
-                            format='%(asctime)s %(message)s',
-                            filemode='a', level=logging.DEBUG)
-        self.__logger = logging.getLogger()
+        pass
 
-    def LogError(self, message: str):
+    @staticmethod
+    def LogError(message: str):
         """Persist a ERROR to a log file
 
         Args:
             message (str): 'File doesn't exist'
         """
-        self.__logger.error(f"ERROR: {message}")
+        logging.basicConfig(filename=f"io/logs/{date.today()}.log",
+                            format='%(asctime)s %(message)s',
+                            filemode='a', level=logging.DEBUG)
+        logging.getLogger().error(f"ERROR: {message}")
 
-    def LogInfo(self, message: str):
+    @staticmethod
+    def LogInfo(message: str):
         """Persist a INFO to a log file
 
         Args:
             message (str): 'This is some more info about this function.'
         """
-        self.__logger.info(f"INFO: {message}")
+        logging.basicConfig(filename=f"io/logs/{date.today()}.log",
+                            format='%(asctime)s %(message)s',
+                            filemode='a', level=logging.DEBUG)
+        logging.getLogger().info(f"INFO: {message}")
 
-    def LogDebug(self, message: str):
+    @staticmethod
+    def LogDebug(message: str):
         """Persist a DEBUG message to a log file
 
         Args:
             message (str): 'This is why this thing broke.'
         """
-        self.__logger.debug(f"DEBUG: {message}")
+        logging.basicConfig(filename=f"io/logs/{date.today()}.log",
+                            format='%(asctime)s %(message)s',
+                            filemode='a', level=logging.DEBUG)
+        logging.getLogger().debug(f"DEBUG: {message}")

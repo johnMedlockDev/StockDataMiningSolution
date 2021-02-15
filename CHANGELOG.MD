@@ -5,7 +5,10 @@
 **Additions:**
 
 - added sql persistence.
-
+  
+**Changes:**
+- Extended Json Price processing to the HistoricSymbolDataGenerator.
+- Refactored Logger class.
 ## 0.0.5
 
 **Additions:**

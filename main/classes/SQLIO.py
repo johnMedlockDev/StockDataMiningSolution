@@ -17,7 +17,6 @@ class SQLIO:
                                          f'SERVER={self.server};DATABASE={self.database};Trusted_Connection=yes;')
         self.cursor = self.connection.cursor()
         self.jsonIo = JsonIO()
-        self.__logger = Logger()
 
     def InsertPriceDataFromJson(self, Symbol: str, Date: str, OpenPrice: str, HighPrice: str, LowPrice: str, ClosePrice: str, Volume: str):
         """Inserts a price data record into a table
@@ -39,10 +38,10 @@ class SQLIO:
 
             self.connection.commit()
 
-            self.__logger.LogInfo(
+            Logger.LogInfo(
                 f"Inserted {Symbol}, {Date}, {OpenPrice}, {HighPrice}, {LowPrice}, {ClosePrice}, {Volume} into {table}")
         except:
-            self.__logger.LogError(
+            Logger.LogError(
                 f"failed to insert {Symbol} {Date} into {table}")
 
     def InsertPriceDataFromJsonBatch(self):
@@ -50,8 +49,13 @@ class SQLIO:
 
         '''
         jsonDataArray = self.jsonIo.RetrieveJsonFromFile("prices")
-        symbol = jsonDataArray[0]
-        jsonData = jsonDataArray[1]
+        try:
+            symbol = jsonDataArray[0]
+            jsonData = jsonDataArray[1]
+        except IndexError:
+            jsonData = {}
+            Logger.LogInfo(
+                "Json Price Batch Job is Finished, because there was no file to be retrieved from the folder.")
 
         for key in jsonData:
             try:
@@ -68,7 +72,7 @@ class SQLIO:
                 oldJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\done\\{symbol}.json"
                 newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\redo\\{symbol}.json"
                 os.replace(oldJsonFilePath, newJsonFilePath)
-                self.__logger.LogError(f"Needs to be pulled again {symbol}.")
+                Logger.LogError(f"Needs to be pulled again {symbol}.")
                 break
-
-        self.InsertPriceDataFromJsonBatch()
+        if jsonData != {}:
+            self.InsertPriceDataFromJsonBatch()

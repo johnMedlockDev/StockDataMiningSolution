@@ -1,3 +1,4 @@
+from main.classes.SQLIO import SQLIO
 from main.enums.ERepositoryAction import ERepositoryAction
 from main.enums.EPayload import EPayload
 from os import sys
@@ -18,7 +19,6 @@ class HistoricSymbolDataGenerator():
         super().__init__()
         self.__filename = filename
         self.__columnname = columnname
-        self.__logger = Logger()
 
     def GenerateJsonSymbolPriceRepository(self, payload: EPayload = EPayload.FULL):
         """Generates a Json Repository from a list of tickers.
@@ -27,7 +27,7 @@ class HistoricSymbolDataGenerator():
             payload (EPayload, optional): EPayload decides how many much data will be returned. Defaults to EPayload.FULL.
         """
 
-        self.__logger.LogInfo("Passing filtered symbols to AlphaAPIHandler.")
+        Logger.LogInfo("Passing filtered symbols to AlphaAPIHandler.")
 
         filteredSymbols = self.RetrieveListOfFilteredSymbols(
             ERepositoryAction.PRICES)
@@ -44,7 +44,7 @@ class HistoricSymbolDataGenerator():
             payload (EPayload, optional): EPayload decides how many much data will be returned. Defaults to EPayload.FULL.
         """
 
-        self.__logger.LogInfo("Passing filtered symbols to AlphaAPIHandler.")
+        Logger.LogInfo("Passing filtered symbols to AlphaAPIHandler.")
 
         filteredSymbols = self.RetrieveListOfFilteredSymbols(
             ERepositoryAction.EARNINGS)
@@ -68,6 +68,11 @@ class HistoricSymbolDataGenerator():
         filteredSymbolList = symbolListGenerator.CreateFilteredListOfSymbols(
             eRepositoryAction)
 
-        self.__logger.LogInfo(
+        Logger.LogInfo(
             f"Creating a filtered list of symbols. Count {len(filteredSymbolList)}")
         return filteredSymbolList
+
+    def ProcessFilesJsonPriceFiles(self):
+        sqlio = SQLIO()
+        sqlio.InsertPriceDataFromJsonBatch()
+        print("Finished processing files in folder.")
