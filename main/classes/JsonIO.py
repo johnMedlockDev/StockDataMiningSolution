@@ -1,7 +1,9 @@
 from json import dump
+import json
 from main.enums.EJsonFolder import EJsonFolder
 import pathlib
 from main.classes.Logger import Logger
+import os
 
 
 class JsonIO():
@@ -28,3 +30,31 @@ class JsonIO():
                     f"Successful JSON file creation of {symbol} in {eJsonFolder.value}!")
         except:
             self.__logger.LogError(f"Failure JSON file creation of {symbol}!")
+
+    def RetrieveJsonFromFile(self, directory: str):
+        """Loops over a directory and returns the symbol name and the json data.
+
+        Args:
+            directory (str): Name of the directory
+
+        Returns:
+            list (str, dict): [symbol, jsonData]
+        """
+
+        entries = os.listdir(f"./io/json/{directory}")
+        jsonData = {}
+        symbol = ""
+        for entry in entries:
+            if entry.endswith(".json"):
+                jsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\{entry}"
+                symbol = entry.replace('.json', "")
+                with open(jsonFilePath) as jsonFile:
+                    jsonData = json.load(jsonFile)
+
+                print(jsonData)
+
+                newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\{directory}\\done\\{entry}"
+                os.replace(jsonFilePath, newJsonFilePath)
+                break
+
+        return [symbol, jsonData]

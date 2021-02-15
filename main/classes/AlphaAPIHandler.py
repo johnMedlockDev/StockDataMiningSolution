@@ -5,7 +5,7 @@ from main.enums.EPayload import EPayload
 from main.classes.Logger import Logger
 from main.classes.JsonIO import JsonIO
 import requests
-from time import sleep, time
+from time import sleep
 from dotenv import load_dotenv
 
 
@@ -68,7 +68,7 @@ class AlphaAPIHandler():
         counter = 0
         jsonIo = JsonIO()
 
-        jsonResponse = ""
+        jsonResponse = []
         for symbol in symbolList:
             try:
                 try:

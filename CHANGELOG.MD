@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1
+
+**Additions:**
+
+- added sql persistence.
+
 ## 0.0.5
 
 **Additions:**
