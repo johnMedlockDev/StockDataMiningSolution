@@ -1,16 +1,13 @@
-from distutils.log import Log
-import json
-from main.classes.Logger import Logger
-from main.classes.JsonIO import JsonIO
-from main.classes.HistoricSymbolDataGenerator import HistoricSymbolDataGenerator
+
+from main.classes.SQLIOHandler import SQLIOHandler
 from main.classes.SQLIO import SQLIO
+from main.enums.EJsonFolder import EJsonFolder
+from main.classes.SymbolListGenerator import SymbolListGenerator
+
 from os import sys
 
 
 if __name__ == "__main__":
-    # historicSymbolDataGenerator = HistoricSymbolDataGenerator('symbols.csv')
-    # historicSymbolDataGenerator.GenerateJsonSymbolEarningsRepository()
-
-
-
+    sqlHandler = SQLIOHandler()
+    sqlHandler.ProcessFilesJsonPriceFiles()
     sys.exit(0)

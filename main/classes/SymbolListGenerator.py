@@ -1,4 +1,5 @@
-from main.enums.ERepositoryAction import ERepositoryAction
+from tkinter.filedialog import Directory
+from main.enums.EJsonFolder import EJsonFolder
 import pandas
 import pathlib
 from main.classes.Logger import Logger
@@ -7,63 +8,41 @@ from os.path import isfile, join
 
 
 class SymbolListGenerator():
-    """Creates a Pandas Dataframe out of a CSV located in the io\csv\source\ directory.
 
-    Args:
-        filename (str): 'symbols.csv'
-    """
+    def __init__(self, fileName: str, columnName: str):
+        self.__DF__ = pandas.read_csv(
+            f'{pathlib.Path().absolute()}\\io\\csv\\source\\{fileName}')[columnName].to_list()
+        self.__parentDirectory__ = ''
+        self.__childDirectory__ = ''
 
-    def __init__(self, filename: str):
-        self.__FILENAME = f'{pathlib.Path().absolute()}\\io\\csv\\source\\{filename}'
-        self.__DFList = []
-        self.__DF = pandas.read_csv(self.__FILENAME)
+    def CreateFilteredListOfSymbols(self, eJsonFolders:  list(EJsonFolder)):
 
-    def CreateListOfSymbolsFromDataFrame(self, columnname: str):
-        """Creates a list from a dataframe column.
+        try:
+            self.__parentDirectory__, self.__childDirectory__ = eJsonFolders
+        except ValueError:
+            self.__parentDirectory__ = eJsonFolders[0]
+            self.__childDirectory__ = EJsonFolder.NONE
 
-        Args:
-            columnname (str): 'SYMBOL'
-        """
-        self.__DFList = self.__DF[columnname].to_list()
+        listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols()
 
-    def GetListOfSymbolsFromDataFrame(self):
-        """Retrieves the list that was created from a dataframe column.
+        listOfSymbols = self.__DF__
+        if self.__childDirectory__ == EJsonFolder.REDO:
+            return listOfSymbolsThatAlreadyExist
+        else:
+            for symbol in listOfSymbolsThatAlreadyExist:
+                if symbol in listOfSymbols:
+                    listOfSymbols.remove(symbol)
 
-        Returns:
-            list: Symbol List of strings. 
-        """
-        return self.__DFList
+        return listOfSymbols
 
-    def GetAlreadyPersistedOfSymbols(self, eRepositoryAction: ERepositoryAction):
-        """Retrieves a list of symbols already persisted to the json folder.
+    def GetAlreadyPersistedOfSymbols(self):
 
-        Returns:
-            list: Symbol List of strings. 
-        """
-        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{eRepositoryAction.value}"
+        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}"
+
+        if self.__childDirectory__.value != "":
+            jsonPath = f"{jsonPath}\\{self.__childDirectory__.value}"
 
         files = [f.replace('.json', '') for f in listdir(
             jsonPath) if isfile(join(jsonPath, f))]
 
         return files
-
-    def CreateFilteredListOfSymbols(self, eRepositoryAction: ERepositoryAction):
-        """Creates a list of symbols - the symbols you already have in the Json folder.
-
-        Args:
-            eRepositoryAction (ERepositoryAction): Passthrough value to select which folder to filter off of.
-
-        Returns:
-            list: Symbol List of filtered strings. 
-        """
-
-        listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols(
-            eRepositoryAction)
-        listOfSymbolsRaw = self.__DFList
-
-        for symbolE in listOfSymbolsThatAlreadyExist:
-            if symbolE in listOfSymbolsRaw:
-                listOfSymbolsRaw.remove(symbolE)
-
-        listOfSymbolsFiltered = [symbol for symbol in listOfSymbolsRaw]
-        return listOfSymbolsFiltered

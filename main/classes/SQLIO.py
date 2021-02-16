@@ -1,7 +1,7 @@
 import json
+from main.enums.EJsonFolder import EJsonFolder
 import pathlib
 from main.classes.Logger import Logger
-import symbol
 from main.classes.JsonIO import JsonIO
 import pyodbc
 from dotenv import load_dotenv
@@ -11,44 +11,14 @@ import os
 class SQLIO:
     def __init__(self) -> None:
         load_dotenv('io\env\secret.env')
-        self.server = f'{os.environ.get("server")}'
-        self.database = f'{os.environ.get("database")}'
-        self.connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};' +
-                                         f'SERVER={self.server};DATABASE={self.database};Trusted_Connection=yes;')
-        self.cursor = self.connection.cursor()
-        self.jsonIo = JsonIO()
+        self.__connection__ = pyodbc.connect(
+            os.environ.get("connectionString"))
+        self.__cursor__ = self.__connection__.cursor()
+        self.__jsonIo__ = JsonIO()
 
-    def InsertPriceDataFromJson(self, Symbol: str, Date: str, OpenPrice: str, HighPrice: str, LowPrice: str, ClosePrice: str, Volume: str):
-        """Inserts a price data record into a table
-            Args:
-                Symbol (str) : The symbol of the company.
-                Date (str) :  The date time.
-                OpenPrice (str) : The Open price.
-                HighPrice (str) : The High price.
-                LowPrice (str) : The Low price.
-                ClosePrice (str) : The Closing price.
-                Volume (str) : The volume for the day.
-        """
-        table = "HistoricPriceData"
+    def InsertPriceDataFromJsonBatch(self, eJsonFolder: EJsonFolder):
 
-        sql = f"""INSERT INTO {table} (Symbol, Date, OpenPrice, HighPrice, LowPrice,ClosePrice,Volume) VALUES (?,?,?,?,?,?,?)"""
-        try:
-            self.cursor.execute(sql, Symbol, Date, OpenPrice,
-                                HighPrice, LowPrice, ClosePrice, Volume)
-
-            self.connection.commit()
-
-            Logger.LogInfo(
-                f"Inserted {Symbol}, {Date}, {OpenPrice}, {HighPrice}, {LowPrice}, {ClosePrice}, {Volume} into {table}")
-        except:
-            Logger.LogError(
-                f"failed to insert {Symbol} {Date} into {table}")
-
-    def InsertPriceDataFromJsonBatch(self):
-        ''' Recursive solution to get json data from a folder and insert it into a database.
-
-        '''
-        jsonDataArray = self.jsonIo.RetrieveJsonFromFile("prices")
+        jsonDataArray = self.__jsonIo__.ReadJsonFromFile(eJsonFolder)
         try:
             symbol = jsonDataArray[0]
             jsonData = jsonDataArray[1]
@@ -56,7 +26,7 @@ class SQLIO:
             jsonData = {}
             Logger.LogInfo(
                 "Json Price Batch Job is Finished, because there was no file to be retrieved from the folder.")
-
+        preparedJsonArray = []
         for key in jsonData:
             try:
                 Symbol = symbol
@@ -66,13 +36,31 @@ class SQLIO:
                 LowPrice = jsonData[key]["3. low"]
                 ClosePrice = jsonData[key]["4. close"]
                 Volume = jsonData[key]["5. volume"]
-                self.InsertPriceDataFromJson(
-                    Symbol, Date, OpenPrice, HighPrice, LowPrice, ClosePrice, Volume)
+                preparedJsonArray.append(
+                    (Symbol, Date, OpenPrice, HighPrice, LowPrice, ClosePrice, Volume))
+
             except TypeError:
                 oldJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\done\\{symbol}.json"
                 newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\redo\\{symbol}.json"
                 os.replace(oldJsonFilePath, newJsonFilePath)
                 Logger.LogError(f"Needs to be pulled again {symbol}.")
                 break
+        self.InsertPriceDataFromJsonMany(preparedJsonArray)
         if jsonData != {}:
-            self.InsertPriceDataFromJsonBatch()
+            self.InsertPriceDataFromJsonBatch(eJsonFolder.value)
+
+    def InsertPriceDataFromJsonMany(self, preparedJsonArray: list):
+
+        table = "HistoricPriceDataTest"
+
+        sql = f"""INSERT INTO {table} (Symbol, Date, OpenPrice, HighPrice, LowPrice,ClosePrice,Volume) VALUES (?,?,?,?,?,?,?)"""
+        try:
+            self.__cursor__.executemany(sql, preparedJsonArray)
+
+            self.__connection__.commit()
+
+            Logger.LogInfo(
+                f"Inserted {preparedJsonArray} into {table}")
+        except:
+            Logger.LogError(
+                f"failed to insert {preparedJsonArray} into {table}")

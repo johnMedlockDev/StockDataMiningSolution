@@ -10,31 +10,19 @@ from dotenv import load_dotenv
 
 
 class AlphaAPIHandler():
-    """Handles www.alphavantage.co API actions.
-
-    """
 
     def __init__(self) -> None:
         super().__init__()
         load_dotenv('io\env\secret.env')
-        self.BASEURL = r'https://www.alphavantage.co/query?'
-        self.APIKEY = f'{os.environ.get("api-token")}'
+        self.__BASEURL__ = r'https://www.alphavantage.co/query?'
+        self.__APIKEY__ = f'{os.environ.get("api-token")}'
 
     def GetHistoricalPriceDataFromJsonAPI(self, symbol: str, payload: EPayload):
-        """Makes a GET Request to AlphaVantage.
-
-        Args:
-            symbol (str): "IBM"
-            payload (EPayload):  EPayload.FULL || EPayload.COMPACT
-
-        Returns:
-            jsonResponse (dict): JSON dictionary of historic symbol data.
-        """
 
         SYMBOL = symbol.upper()
         SIZE = payload.value
-        ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.APIKEY}'
-        URI = self.BASEURL + ROUTE
+        ROUTE = f'function=TIME_SERIES_DAILY&symbol={SYMBOL}&outputsize={SIZE}&apikey={self.__APIKEY__}'
+        URI = self.__BASEURL__ + ROUTE
 
         self.__response = requests.get(URI)
 
@@ -55,13 +43,6 @@ class AlphaAPIHandler():
                 return self.__response.json()['Information']
 
     def GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List, payload: EPayload):
-        """Makes a GET Request to AlphaVantage for every symbol in a list.
-
-        Args:
-            symbolList (List): ['AAA','BBB']
-            payload (EPayload): EPayload.FULL || EPayload.COMPACT
-
-        """
 
         timeout = 15
         counter = 0
@@ -94,19 +75,11 @@ class AlphaAPIHandler():
                     break
 
     def GetEarningsDateFromJsonAPI(self, symbol: str, timePeriod: str):
-        """Makes a request to the Alpha API to get all the earnings date data.
 
-        Args:
-            symbol (str): "IBM"
-            timePeriod (str): [description]
-
-        Returns:
-            jsonResponse (dict): JSON dictionary of historic symbol data.
-        """
         if timePeriod == "quarterly":
             SYMBOL = symbol.upper()
-            ROUTE = f'function=EARNINGS&symbol={SYMBOL}&apikey={self.APIKEY}'
-            URI = self.BASEURL + ROUTE
+            ROUTE = f'function=EARNINGS&symbol={SYMBOL}&apikey={self.__APIKEY__}'
+            URI = self.__BASEURL__ + ROUTE
 
             self.__response = requests.get(URI)
             try:
@@ -129,11 +102,6 @@ class AlphaAPIHandler():
             return self.__response.json()['annualEarnings']
 
     def GetEarningsDateFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List):
-        """Makes a GET Request to AlphaVantage for every symbol in a list.
-
-        Args:
-            symbolList (List): ['AAA','BBB']
-        """
 
         timeout = 15
         counter = 0
