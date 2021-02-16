@@ -9,6 +9,5 @@ class SQLIOHandler():
         self.__sqlIo__ = SQLIO()
 
     def ProcessFilesJsonPriceFiles(self):
-        eJsonFolder = EJsonFolder.PRICES
-        self.__sqlIo__.InsertPriceDataFromJsonBatch(eJsonFolder)
+        self.__sqlIo__.InsertPriceDataFromJsonBatch(EJsonFolder.PRICES)
         print("Finished processing files in folder.")

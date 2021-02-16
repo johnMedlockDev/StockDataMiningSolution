@@ -47,11 +47,11 @@ class SQLIO:
                 break
         self.InsertPriceDataFromJsonMany(preparedJsonArray)
         if jsonData != {}:
-            self.InsertPriceDataFromJsonBatch(eJsonFolder.value)
+            self.InsertPriceDataFromJsonBatch(eJsonFolder)
 
     def InsertPriceDataFromJsonMany(self, preparedJsonArray: list):
 
-        table = "HistoricPriceDataTest"
+        table = "HistoricPriceData"
 
         sql = f"""INSERT INTO {table} (Symbol, Date, OpenPrice, HighPrice, LowPrice,ClosePrice,Volume) VALUES (?,?,?,?,?,?,?)"""
         try:

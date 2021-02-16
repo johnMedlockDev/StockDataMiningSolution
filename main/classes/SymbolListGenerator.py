@@ -11,16 +11,16 @@ class SymbolListGenerator():
 
     def __init__(self, fileName: str, columnName: str):
         self.__DF__ = pandas.read_csv(
-            f'{pathlib.Path().absolute()}\\io\\csv\\source\\{fileName}')[columnName].to_list()
+            f'{pathlib.Path().absolute()}\\io\\csv\\source\\{fileName}.csv')[columnName].to_list()
         self.__parentDirectory__ = ''
         self.__childDirectory__ = ''
 
-    def CreateFilteredListOfSymbols(self, eJsonFolders:  list(EJsonFolder)):
+    def CreateFilteredListOfSymbols(self, directories:  list(EJsonFolder)):
 
         try:
-            self.__parentDirectory__, self.__childDirectory__ = eJsonFolders
+            self.__parentDirectory__, self.__childDirectory__ = directories
         except ValueError:
-            self.__parentDirectory__ = eJsonFolders[0]
+            self.__parentDirectory__ = directories[0]
             self.__childDirectory__ = EJsonFolder.NONE
 
         listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols()

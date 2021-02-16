@@ -1,5 +1,12 @@
 # Changelog
+## 0.1.2
 
+**Additions:**
+
+- Added batch commits with sql
+  
+**Changes:**
+- Changed AlphaApiHandler to AlphaApiHTTP
 ## 0.1.1
 
 **Additions:**
@@ -11,6 +18,9 @@
 - Extended Json Price processing to the HistoricSymbolDataGenerator.
 - Refactored Logger class.
 - Refactored everything.
+  
+**Removed**
+- Enum now EJsonFolder represents all the of folders in io/json.
 ## 0.0.5
 
 **Additions:**
