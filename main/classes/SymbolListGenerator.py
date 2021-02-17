@@ -23,33 +23,29 @@ class SymbolListGenerator():
             self.__parentDirectory__ = directories[0]
             self.__childDirectory__ = EJsonFolder.NONE
 
-        listOfExistingSymbols = self.GetPersistedOfSymbols()
+        listOfPersistedSymbols = self.GetListPersistedOfSymbols()
 
         listOfSymbols = self.__DF__
+        
         if self.__childDirectory__ == EJsonFolder.REDO:
-            return self.FliterRedoList(listOfExistingSymbols)
+            return self.FliterRedoList(listOfPersistedSymbols)
 
-        for symbol in listOfExistingSymbols:
+        for symbol in listOfPersistedSymbols:
             if symbol in listOfSymbols:
                 listOfSymbols.remove(symbol)
         return listOfSymbols
 
-    def GetPersistedOfSymbols(self):
+    def GetListPersistedOfSymbols(self):
 
         jsonPath = f"{Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}"
-
-        listOfPersistedSymbols = []
 
         symbolsInParent = [f.replace('.json', '') for f in listdir(
             jsonPath) if isfile(join(jsonPath, f))]
 
-        symbolsInDone = []
+        jsonPath = f"{jsonPath}\\{EJsonFolder.DONE.value}"
 
-        if self.__childDirectory__.value == EJsonFolder.REDO.value:
-            jsonPath = f"{jsonPath}\\{EJsonFolder.DONE.value}"
-
-            symbolsInDone = [f.replace('.json', '') for f in listdir(
-                jsonPath) if isfile(join(jsonPath, f))]
+        symbolsInDone = [f.replace('.json', '') for f in listdir(
+            jsonPath) if isfile(join(jsonPath, f))]
 
         listOfPersistedSymbols = list(set(symbolsInParent+symbolsInDone))
 
