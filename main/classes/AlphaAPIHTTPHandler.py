@@ -14,22 +14,22 @@ class AlphaAPIHTTPHandler():
             filename, columnname)
         self.__apiagent___ = AlphaAPIHTTP()
 
-    def GenerateJsonSymbolPriceRepository(self, eJsonFolders: list(EJsonFolder), payload: EPayload = EPayload.FULL):
+    def GenerateJsonSymbolPriceRepository(self, eJsonFolder: EJsonFolder = EJsonFolder.NONE, payload: EPayload = EPayload.FULL):
+
+        Logger.LogInfo("Generating filtered symbols.")
+        filteredSymbols = self.__symbolListGenerator__.CreateFilteredListOfSymbols(
+            [EJsonFolder.PRICES, eJsonFolder])
 
         Logger.LogInfo("Passing filtered symbols to AlphaAPIHTTP.")
-
-        filteredSymbols = self.__symbolListGenerator__.CreateFilteredListOfSymbols(
-            eJsonFolders)
-
         self.__apiagent___.GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(
             filteredSymbols, payload)
 
-    def GenerateJsonSymbolEarningsRepository(self, eJsonFolders: list(EJsonFolder)):
+    def GenerateJsonSymbolEarningsRepository(self, eJsonFolder: EJsonFolder = EJsonFolder.NONE):
+
+        Logger.LogInfo("Generating filtered symbols.")
+        filteredSymbols = self.__symbolListGenerator__.CreateFilteredListOfSymbols(
+            [EJsonFolder.ANNUAL, eJsonFolder])
 
         Logger.LogInfo("Passing filtered symbols to AlphaAPIHTTP.")
-
-        filteredSymbols = self.__symbolListGenerator__.CreateFilteredListOfSymbols(
-            eJsonFolders)
-
         self.__apiagent___.GetEarningsDateFromJsonAPIAndWriteToJSONFileBatch(
             filteredSymbols)

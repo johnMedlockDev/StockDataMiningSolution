@@ -1,4 +1,16 @@
 # Changelog
+
+## 0.1.3
+
+**Additions:**
+
+- SymbolListGenerator now filters previously fetched tickers.
+
+
+**Changes:**
+- Removed some unnecessary else statements and try blocks
+- Properly stops when calling the api and the limit is hit.
+  
 ## 0.1.2
 
 **Additions:**

@@ -1,3 +1,4 @@
+import os
 from tkinter.filedialog import Directory
 from main.enums.EJsonFolder import EJsonFolder
 import pandas
@@ -15,7 +16,7 @@ class SymbolListGenerator():
         self.__parentDirectory__ = ''
         self.__childDirectory__ = ''
 
-    def CreateFilteredListOfSymbols(self, directories:  list(EJsonFolder)):
+    def CreateFilteredListOfSymbols(self, directories: list(EJsonFolder)):
 
         try:
             self.__parentDirectory__, self.__childDirectory__ = directories
@@ -23,26 +24,48 @@ class SymbolListGenerator():
             self.__parentDirectory__ = directories[0]
             self.__childDirectory__ = EJsonFolder.NONE
 
-        listOfSymbolsThatAlreadyExist = self.GetAlreadyPersistedOfSymbols()
+        listOfExistingSymbols = self.GetPersistedOfSymbols()
 
         listOfSymbols = self.__DF__
         if self.__childDirectory__ == EJsonFolder.REDO:
-            return listOfSymbolsThatAlreadyExist
-        else:
-            for symbol in listOfSymbolsThatAlreadyExist:
-                if symbol in listOfSymbols:
-                    listOfSymbols.remove(symbol)
+            return self.FliterRedoList(listOfExistingSymbols)
 
+        for symbol in listOfExistingSymbols:
+            if symbol in listOfSymbols:
+                listOfSymbols.remove(symbol)
         return listOfSymbols
 
-    def GetAlreadyPersistedOfSymbols(self):
+    def GetPersistedOfSymbols(self):
 
         jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}"
 
-        if self.__childDirectory__.value != "":
-            jsonPath = f"{jsonPath}\\{self.__childDirectory__.value}"
+        listOfPersistedSymbols = []
 
-        files = [f.replace('.json', '') for f in listdir(
+        symbolsInParent = [f.replace('.json', '') for f in listdir(
             jsonPath) if isfile(join(jsonPath, f))]
 
-        return files
+        symbolsInDone = []
+
+        if self.__childDirectory__.value == EJsonFolder.REDO.value:
+            jsonPath = f"{jsonPath}\\{EJsonFolder.DONE.value}"
+
+            symbolsInDone = [f.replace('.json', '') for f in listdir(
+                jsonPath) if isfile(join(jsonPath, f))]
+
+        listOfPersistedSymbols = list(set(symbolsInParent+symbolsInDone))
+
+        return listOfPersistedSymbols
+
+    def FliterRedoList(self, listOfPersistedSymbols: list):
+        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}\\{EJsonFolder.REDO.value}"
+
+        filesInRedoFolder = [f.replace('.json', '') for f in listdir(
+            jsonPath) if isfile(join(jsonPath, f))]
+
+        for file in listOfPersistedSymbols:
+            if file in filesInRedoFolder:
+                filesInRedoFolder.remove(file)
+                Logger.LogInfo(
+                    f"Removed file {file}.json from {self.__parentDirectory__.value}\{EJsonFolder.REDO.value} because it already exist in {self.__parentDirectory__.value}\done.")
+                os.remove(f"{jsonPath}\\{file}.json")
+        return filesInRedoFolder

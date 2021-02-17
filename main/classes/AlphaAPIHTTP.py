@@ -21,33 +21,18 @@ class AlphaAPIHTTP():
 
     def GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List, payload: EPayload):
 
-        counter = 0
-
-        jsonResponse = []
         for symbol in symbolList:
-            try:
-                try:
-                    jsonResponse = self.GetHistoricalPriceDataFromJsonAPI(
-                        symbol, payload)
-                    self.__jsonIo__.WriteJsonToFile(
-                        EJsonFolder.PRICES, symbol, jsonResponse)
-                    sleep(self.__timeout__)
-                    counter += 1
-                except:
-                    Logger.LogDebug(symbol)
-                    break
-            except KeyError:
-                if r"https://www.alphavantage.co/premium/" in jsonResponse:
-                    Logger.LogInfo(f" {jsonResponse}")
-                    break
+            jsonResponse = self.GetHistoricalPriceDataFromJsonAPI(
+                symbol, payload)
 
-                if counter >= 500:
-                    Logger.LogError(
-                        f"You reached the daily request limit, but you were able to make {counter} requests!")
-                    break
-                Logger.LogError(
-                    f" The timeout of {self.__timeout__} is too short!")
+            if r"https://www.alphavantage.co/premium/" in jsonResponse:
+                Logger.LogInfo(
+                    f"You reached the daily request limit!")
                 break
+
+            self.__jsonIo__.WriteJsonToFile(
+                EJsonFolder.PRICES, symbol, jsonResponse)
+            sleep(self.__timeout__)
 
     def GetHistoricalPriceDataFromJsonAPI(self, symbol: str, payload: EPayload):
 
@@ -75,44 +60,22 @@ class AlphaAPIHTTP():
 
     def GetEarningsDateFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List):
 
-        counter = 0
-
-        jsonResponse = []
         for symbol in symbolList:
-            try:
-                try:
-                    jsonResponse = self.GetEarningsDateFromJsonAPI(
-                        symbol, EJsonFolder.QUARTERLY)
-
-                    self.__jsonIo__.WriteJsonToFile(
-                        EJsonFolder.QUARTERLY, symbol, jsonResponse)
-
-                    jsonResponse = self.GetEarningsDateFromJsonAPI(
-                        symbol, EJsonFolder.ANNUAL)
-
-                    self.__jsonIo__.WriteJsonToFile(
-                        EJsonFolder.ANNUAL, symbol, jsonResponse)
-                    sleep(self.__timeout__)
-                    counter += 1
-                except:
-                    Logger.LogDebug(symbol)
-                    break
-            except KeyError:
-
-                if r"https://www.alphavantage.co/premium/" in jsonResponse:
-                    Logger.LogInfo(f" {jsonResponse}")
-                    break
-                if r"{ }" in jsonResponse:
-                    Logger.LogInfo(f" {jsonResponse}")
-                    break
-
-                if counter >= 500:
-                    Logger.LogError(
-                        f"You reached the daily request limit, but you were able to make {counter} requests!")
-                    break
-                Logger.LogError(
-                    f" The timeout of {self.__timeout__} is too short!")
+            jsonResponse = self.GetEarningsDateFromJsonAPI(
+                symbol, EJsonFolder.QUARTERLY)
+            if r"https://www.alphavantage.co/premium/" in jsonResponse:
+                Logger.LogInfo(
+                    f"You reached the daily request limit!")
                 break
+            self.__jsonIo__.WriteJsonToFile(
+                EJsonFolder.QUARTERLY, symbol, jsonResponse)
+
+            jsonResponse = self.GetEarningsDateFromJsonAPI(
+                symbol, EJsonFolder.ANNUAL)
+
+            self.__jsonIo__.WriteJsonToFile(
+                EJsonFolder.ANNUAL, symbol, jsonResponse)
+            sleep(self.__timeout__)
 
     def GetEarningsDateFromJsonAPI(self, symbol: str, eJsonFolder: EJsonFolder):
 
