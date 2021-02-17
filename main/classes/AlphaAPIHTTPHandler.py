@@ -1,7 +1,5 @@
 from main.enums.EJsonFolder import EJsonFolder
-from main.classes.SQLIO import SQLIO
 from main.enums.EPayload import EPayload
-from os import sys
 from main.classes.AlphaAPIHTTP import AlphaAPIHTTP
 from main.classes.SymbolListGenerator import SymbolListGenerator
 from main.classes.Logger import Logger

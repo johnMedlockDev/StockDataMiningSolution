@@ -1,8 +1,7 @@
 import os
-from tkinter.filedialog import Directory
 from main.enums.EJsonFolder import EJsonFolder
-import pandas
-import pathlib
+from pandas import read_csv
+from pathlib import Path
 from main.classes.Logger import Logger
 from os import listdir
 from os.path import isfile, join
@@ -11,8 +10,8 @@ from os.path import isfile, join
 class SymbolListGenerator():
 
     def __init__(self, fileName: str, columnName: str):
-        self.__DF__ = pandas.read_csv(
-            f'{pathlib.Path().absolute()}\\io\\csv\\source\\{fileName}.csv')[columnName].to_list()
+        self.__DF__ = read_csv(
+            f'{Path().absolute()}\\io\\csv\\source\\{fileName}.csv')[columnName].to_list()
         self.__parentDirectory__ = ''
         self.__childDirectory__ = ''
 
@@ -37,7 +36,7 @@ class SymbolListGenerator():
 
     def GetPersistedOfSymbols(self):
 
-        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}"
+        jsonPath = f"{Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}"
 
         listOfPersistedSymbols = []
 
@@ -57,7 +56,7 @@ class SymbolListGenerator():
         return listOfPersistedSymbols
 
     def FliterRedoList(self, listOfPersistedSymbols: list):
-        jsonPath = f"{pathlib.Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}\\{EJsonFolder.REDO.value}"
+        jsonPath = f"{Path().absolute()}\\io\\json\\{self.__parentDirectory__.value}\\{EJsonFolder.REDO.value}"
 
         filesInRedoFolder = [f.replace('.json', '') for f in listdir(
             jsonPath) if isfile(join(jsonPath, f))]

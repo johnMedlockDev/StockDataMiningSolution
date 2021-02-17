@@ -1,6 +1,5 @@
-import json
 from main.enums.EJsonFolder import EJsonFolder
-import pathlib
+from pathlib import Path
 from main.classes.Logger import Logger
 from main.classes.JsonIO import JsonIO
 import pyodbc
@@ -40,8 +39,8 @@ class SQLIO:
                     (Symbol, Date, OpenPrice, HighPrice, LowPrice, ClosePrice, Volume))
 
             except TypeError:
-                oldJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\done\\{symbol}.json"
-                newJsonFilePath = f"{pathlib.Path().absolute()}\\io\\json\\prices\\redo\\{symbol}.json"
+                oldJsonFilePath = f"{Path().absolute()}\\io\\json\\prices\\done\\{symbol}.json"
+                newJsonFilePath = f"{Path().absolute()}\\io\\json\\prices\\redo\\{symbol}.json"
                 os.replace(oldJsonFilePath, newJsonFilePath)
                 Logger.LogError(f"Needs to be pulled again {symbol}.")
                 break

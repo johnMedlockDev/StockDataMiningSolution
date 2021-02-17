@@ -1,5 +1,3 @@
-
-
 from main.enums.EJsonFolder import EJsonFolder
 from main.classes.SQLIO import SQLIO
 
