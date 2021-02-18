@@ -1,3 +1,4 @@
+from main.classes.PathHelper import PathHelper
 import os
 from main.enums.EJsonFolder import EJsonFolder
 from pandas import read_csv
@@ -63,7 +64,7 @@ class SymbolListGenerator():
             if file in filesInRedoFolder:
                 filesInRedoFolder.remove(file)
                 Logger.LogInfo(
-                    f"Removed file {file}.json from {self.__parentDirectory__.value}\\redo because it already exist in {self.__parentDirectory__.value}\\done.")
+                    f"Removed file {file}.json from {self.__parentDirectory__.value}\redo because it already exist in {self.__parentDirectory__.value}\done.")
                 os.remove(f"{jsonPath}\\{file}.json")
         return filesInRedoFolder
 
@@ -73,4 +74,4 @@ class SymbolListGenerator():
             jsonPath) if isfile(join(jsonPath, f))]
 
     def GetParentPath(self):
-        return f"{Path().absolute()}\io\json\{self.__parentDirectory__.value}"
+        return f"{PathHelper.JsonRoot()}\{self.__parentDirectory__.value}"

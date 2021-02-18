@@ -17,7 +17,8 @@ class AlphaAPIHTTP():
         self.__APIKEY__ = f'{os.environ.get("api-token")}'
         self.__jsonIo__ = JsonIO()
         self.__response__ = ''
-        self.__timeout__ = 15
+        # self.__timeout__ = 15
+        self.__timeout__ = .5
 
     def GetHistoricalPriceDataFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List, payload: EPayload):
 
@@ -98,8 +99,13 @@ class AlphaAPIHTTP():
 
                     return self.__response__.json()['Error Message']
                 except KeyError:
-                    Logger.LogInfo(
-                        f" {SYMBOL} : {self.__response__.json()['Information']}")
-
-                    return self.__response__.json()['Information']
-        return self.__response__.json()['annualEarnings']
+                    if "Information" in self.__response__.json():
+                        Logger.LogInfo(
+                            f" {SYMBOL} : {self.__response__.json()}")
+                        return self.__response__.json()['Information']
+                except:
+                    return self.__response__.json()
+        try:
+            return self.__response__.json()['annualEarnings']
+        except:
+            return self.__response__.json()

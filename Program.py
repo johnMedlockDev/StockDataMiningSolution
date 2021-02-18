@@ -1,18 +1,15 @@
-
-from main.classes.SymbolListGenerator import SymbolListGenerator
 from main.classes.SQLIOHandler import SQLIOHandler
-from main.enums.EJsonFolder import EJsonFolder
 from main.classes.AlphaAPIHTTPHandler import AlphaAPIHTTPHandler
 
 from os import sys
-
+sys.setrecursionlimit(500000)
 
 if __name__ == "__main__":
-    alphaAPIHTTPHandler = AlphaAPIHTTPHandler("redo", "SYMBOL")
+
+    alphaAPIHTTPHandler = AlphaAPIHTTPHandler("symbols", "SYMBOL")
     alphaAPIHTTPHandler.GenerateJsonSymbolPriceRepository()
 
-    # symbolListGenerator = SymbolListGenerator("symbols", "SYMBOL")
-    # symbolListGenerator.CreateFilteredListOfSymbols(
-    #     [EJsonFolder.PRICES, EJsonFolder.REDO])
+    sQLIOHandler = SQLIOHandler()
+    sQLIOHandler.ProcessFilesJsonPriceFiles()
 
     sys.exit(0)
