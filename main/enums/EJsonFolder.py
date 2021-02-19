@@ -4,9 +4,19 @@ from enum import Enum, unique
 @unique
 class EJsonFolder(Enum):
 
-    ANNUAL = 'annual-earnings-dates'
-    QUARTERLY = 'quarterly-earnings-dates'
+    ANNUALBALANCE = 'annual-balance-sheets'
+    ANNUALCASH = 'annual-cash-flows'
+    ANNUALDATES = 'annual-earnings-dates'
+    ANNUALINCOME = 'annual-income-statements'
+
+    QUARTERLYBALANCE = 'quarterly-balance-sheets'
+    QUARTERLYCASH = 'quarterly-cash-flows'
+    QUARTERLYDATES = 'quarterly-earnings-dates'
+    QUARTERLYINCOME = 'quarterly-income-statements'
+
     PRICES = 'prices'
+    OVERVIEW = 'company-overview'
+
     REDO = 'redo'
     DONE = 'done'
     NONE = ''

@@ -7,9 +7,9 @@ sys.setrecursionlimit(500000)
 if __name__ == "__main__":
 
     alphaAPIHTTPHandler = AlphaAPIHTTPHandler("symbols", "SYMBOL")
-    alphaAPIHTTPHandler.GenerateJsonSymbolPriceRepository()
+    alphaAPIHTTPHandler.GenerateJsonSymbolOverviewRepository()
 
-    sQLIOHandler = SQLIOHandler()
-    sQLIOHandler.ProcessFilesJsonPriceFiles()
+    # sQLIOHandler = SQLIOHandler()
+    # sQLIOHandler.ProcessFilesJsonPriceFiles()
 
     sys.exit(0)

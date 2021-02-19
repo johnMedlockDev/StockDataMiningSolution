@@ -59,53 +59,67 @@ class AlphaAPIHTTP():
                     f" {SYMBOL} : {self.__response__.json()['Information']}")
                 return self.__response__.json()['Information']
 
-    def GetEarningsDateFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List):
+    def GetEarningsDataFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List):
+        reports = [EJsonFolder.ANNUALBALANCE, EJsonFolder.ANNUALCASH, EJsonFolder.ANNUALINCOME,
+                   EJsonFolder.QUARTERLYBALANCE, EJsonFolder.QUARTERLYCASH,  EJsonFolder.QUARTERLYINCOME]
 
         for symbol in symbolList:
-            jsonResponse = self.GetEarningsDateFromJsonAPI(
-                symbol, EJsonFolder.QUARTERLY)
-            if r"https://www.alphavantage.co/premium/" in jsonResponse:
-                Logger.LogInfo(
-                    f"You reached the daily request limit!")
-                break
-            self.__jsonIo__.WriteJsonToFile(
-                EJsonFolder.QUARTERLY, symbol, jsonResponse)
+            for report in reports:
 
-            jsonResponse = self.GetEarningsDateFromJsonAPI(
-                symbol, EJsonFolder.ANNUAL)
+                jsonResponse = self.GetEarningsDataFromJsonAPI(
+                    symbol, report)
 
-            self.__jsonIo__.WriteJsonToFile(
-                EJsonFolder.ANNUAL, symbol, jsonResponse)
-            sleep(self.__timeout__)
+                self.__jsonIo__.WriteJsonToFile(
+                    report, symbol, jsonResponse)
 
-    def GetEarningsDateFromJsonAPI(self, symbol: str, eJsonFolder: EJsonFolder):
+    def GetEarningsDataFromJsonAPI(self, symbol: str, eJsonFolder: EJsonFolder):
+        SYMBOL = symbol.upper()
 
-        if eJsonFolder == eJsonFolder.QUARTERLY:
-            SYMBOL = symbol.upper()
-            ROUTE = f'function=EARNINGS&symbol={SYMBOL}&apikey={self.__APIKEY__}'
-            URI = self.__BASEURL__ + ROUTE
+        FUNCTION = ''
+        print(symbol, eJsonFolder.value)
+        if "balance" in eJsonFolder.value:
+            FUNCTION = "BALANCE_SHEET"
+        if "income" in eJsonFolder.value:
+            FUNCTION = "CASH_FLOW"
+        if "cash" in eJsonFolder.value:
+            FUNCTION = "INCOME_STATEMENT"
 
-            self.__response__ = requests.get(URI)
+        ROUTE = f'function={FUNCTION}&symbol={SYMBOL}&apikey={self.__APIKEY__}'
+        print(ROUTE)
+        URI = self.__BASEURL__ + ROUTE
 
+        self.__response__ = requests.get(URI)
+
+        print(self.__response__.json())
+        if "quarterly" in eJsonFolder.value:
             try:
-                if self.__response__.status_code == 200:
-                    Logger.LogInfo(f" {SYMBOL} : Success!")
+                return self.__response__.json()['quarterlyReports']
+            except:
+                return self.__response__.json()
 
-                    return self.__response__.json()['quarterlyEarnings']
-            except KeyError:
-                try:
-                    Logger.LogInfo(
-                        f" {SYMBOL} : {self.__response__.json()['Error Message']}")
+        if "annual" in eJsonFolder.value:
+            try:
+                return self.__response__.json()['annualReports']
+            except:
+                return self.__response__.json()
 
-                    return self.__response__.json()['Error Message']
-                except KeyError:
-                    if "Information" in self.__response__.json():
-                        Logger.LogInfo(
-                            f" {SYMBOL} : {self.__response__.json()}")
-                        return self.__response__.json()['Information']
-                except:
-                    return self.__response__.json()
-        try:
-            return self.__response__.json()['annualEarnings']
-        except:
-            return self.__response__.json()
+    def GetCompanyOverviewFromJsonAPIAndWriteToJSONFileBatch(self, symbolList: List):
+        for symbol in symbolList:
+            jsonResponse = self.GetCompanyOverviewFromJsonAPI(
+                symbol)
+
+            self.__jsonIo__.WriteJsonToFile(
+                EJsonFolder.OVERVIEW, symbol, jsonResponse)
+
+    def GetCompanyOverviewFromJsonAPI(self, symbol: str):
+
+        SYMBOL = symbol.upper()
+
+        ROUTE = f'function=OVERVIEW&symbol={SYMBOL}&apikey={self.__APIKEY__}'
+
+        URI = self.__BASEURL__ + ROUTE
+
+        self.__response__ = requests.get(URI)
+
+        print(self.__response__.json())
+        return self.__response__.json()

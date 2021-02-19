@@ -1,4 +1,17 @@
 # Changelog
+## 0.5.0
+
+**Additions:**
+- More API Methods
+- More folder
+- 
+## 0.1.4
+
+**Additions:**
+- Static helper class for paths
+
+**Changed**
+- Refactored SQLIO
 ## 0.1.4
 
 **Additions:**

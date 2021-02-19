@@ -75,4 +75,3 @@ class SQLIO:
         oldJsonFilePath = f"{PathHelper.JsonRoot()}\\{eJsonFolder.value}\\done\\{symbol}.json"
         newJsonFilePath = f"{PathHelper.JsonRoot()}\\{eJsonFolder.value}\\redo\\{symbol}.json"
         os.replace(oldJsonFilePath, newJsonFilePath)
-
