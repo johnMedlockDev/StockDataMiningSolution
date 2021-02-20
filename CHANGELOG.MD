@@ -1,10 +1,18 @@
 # Changelog
+
+## 1.0.0
+
+**Additions:**
+- Can get and persist all useful api endpoints to a sql database
+- Expanded SQLIO with helper methods and text scrubbing. 
+- Added text helpers for formatting statements.
+
 ## 0.5.0
 
 **Additions:**
 - More API Methods
-- More folder
-- 
+- More folders
+
 ## 0.1.4
 
 **Additions:**

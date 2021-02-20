@@ -341,4 +341,6 @@ ASALocalRun/
 healthchecksdb
 
 
-io/*
+*.json
+*.log
+actualsecret.env
