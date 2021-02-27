@@ -5,25 +5,3 @@ For https://www.alphavantage.co API.
 Demo - https://www.youtube.com/watch?v=maRNkJ4z22I
 
 The project just hits all the of the fundamental end points, creates json out of the data, and persist that data to SQL server. I did it with the Premium api key and pulled all of the their data in about 2 days after everything was all said and done. If you use the free api key you'll probably have to troubleshoot some errors. Also, I have a mdf with like 150k records so good luck with that. The timeout is rated for their cheapest package.
-
-MIT License
-
-Copyright (c) [2021] [John Medlock]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
